@@ -11,16 +11,13 @@ const lineas = [
     nombre: "Paraná",
     horarios: {
       "Lunes a Viernes": {
-        salidas_parana: ["6:15", "8:35", "9:20", "11:00", "12:00", "14:00", "15:00", "16:30", "17:50", "20:15", "21:00", "23:00"]
+        salidas_parana: ["6:15","8:15", "8:35", "9:20", "11:00", "12:00", "14:00", "15:00", "16:30", "17:50", "20:15", "21:00", "23:00"]
       },
       "Sábados": {
         salidas_parana: ["16:30", "20:15", "23:00"]
       },
       "Domingos y Feriados": {
-        salidas_parana: ["7:15", "10:45", "13:30", "16:30", "20:15", "23:00"]
-      },
-      "Todos los días (menos sábados)": {
-        salidas_parana: ["8:15"]
+        salidas_parana: ["7:15","8:15", "10:45", "13:30", "16:30", "20:15", "23:00"]
       }
     }
   },
@@ -28,16 +25,22 @@ const lineas = [
     id: 6,
     nombre: "Federación",
     horarios: {
-      "Todos los días, menos sábados": {
+      "Lunes a Viernes": {
+        salidas_federacion: ["15:40"]
+      },
+      "Domingos y Feriados": {
         salidas_federacion: ["15:40"]
       }
     }
   },
   {
     id: 7,
-    nombre: "Villa Urquiza",
+    nombre: "villaurquiza",
     horarios: {
-      "Todos los días, menos sábados": {
+      "Lunes a Viernes": {
+        salidas_villaurquiza: ["15:40"]
+      },
+      "Domingos y Feriados": {
         salidas_villaurquiza: ["15:40"]
       }
     }
@@ -59,7 +62,7 @@ const lineas = [
   },
   {
     id: 9,
-    nombre: "Valle María",
+    nombre: "vallemaria",
     horarios: {
       "Lunes a Viernes": {
         salidas_vallemaria: ["7:40"]
