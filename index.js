@@ -4,20 +4,20 @@ const PORT = 3000;
 
 app.use(express.json());
 
-// Líneas individuales únicamente
+// Líneas individuales corregidas
 const lineas = [
   {
     id: 5,
     nombre: "Paraná",
     horarios: {
       "Lunes a Viernes": {
-        salidas_parana: ["6:15","8:15", "8:35", "9:20", "11:00", "12:00", "14:00", "15:00", "16:30", "17:50", "20:15", "21:00", "23:00"]
+        salidas_parana: ["6:15", "8:15", "8:35", "9:20", "11:00", "12:00", "14:00", "15:00", "16:30", "17:50", "20:15", "21:00", "23:00"]
       },
       "Sábados": {
         salidas_parana: ["16:30", "20:15", "23:00"]
       },
       "Domingos y Feriados": {
-        salidas_parana: ["7:15","8:15", "10:45", "13:30", "16:30", "20:15", "23:00"]
+        salidas_parana: ["7:15", "8:15", "10:45", "13:30", "16:30", "20:15", "23:00"]
       }
     }
   },
@@ -35,7 +35,7 @@ const lineas = [
   },
   {
     id: 7,
-    nombre: "villaurquiza",
+    nombre: "Villa Urquiza", // corregido
     horarios: {
       "Lunes a Viernes": {
         salidas_villaurquiza: ["15:40"]
@@ -62,7 +62,7 @@ const lineas = [
   },
   {
     id: 9,
-    nombre: "vallemaria",
+    nombre: "Valle María", // corregido
     horarios: {
       "Lunes a Viernes": {
         salidas_vallemaria: ["7:40"]
