@@ -4,74 +4,62 @@ const PORT = 3000;
 
 app.use(express.json());
 
-// Líneas individuales corregidas
-const lineas = [
+// Datos de rutas
+const rutas = [
   {
-    id: 5,
-    nombre: "Paraná",
-    horarios: {
-      "Lunes a Viernes": {
-        salidas_parana: ["6:15", "8:15", "8:35", "9:20", "11:00", "12:00", "14:00", "15:00", "16:30", "17:50", "20:15", "21:00", "23:00"]
-      },
-      "Sábados": {
-        salidas_parana: ["16:30", "20:15", "23:00"]
-      },
-      "Domingos y Feriados": {
-        salidas_parana: ["7:15", "8:15", "10:45", "13:30", "16:30", "20:15", "23:00"]
-      }
-    }
+    origen: "Parana",
+    destinos: [
+      { destino: "San Benito", hora_salida: "08:15", hora_llegada: "08:40", precio: 1500 },
+      { destino: "C Avellaneda", hora_salida: "08:15", hora_llegada: "09:00", precio: 2900 },
+      { destino: "Sauce Montrul", hora_salida: "08:15", hora_llegada: "09:15", precio: 4200 },
+      { destino: "Picadita", hora_salida: "08:15", hora_llegada: "09:30", precio: 5500 },
+      { destino: "La Balsa", hora_salida: "08:15", hora_llegada: "09:40", precio: 6500 },
+      { destino: "Urquiza", hora_salida: "08:15", hora_llegada: "10:00", precio: 8500 }
+    ]
   },
   {
-    id: 6,
-    nombre: "Federación",
-    horarios: {
-      "Lunes a Viernes": {
-        salidas_federacion: ["15:40"]
-      },
-      "Domingos y Feriados": {
-        salidas_federacion: ["15:40"]
-      }
-    }
+    origen: "San Benito",
+    destinos: [
+      { destino: "C Avellaneda", hora_salida: "08:40", hora_llegada: "09:00", precio: 1400 },
+      { destino: "Sauce Montrul", hora_salida: "08:40", hora_llegada: "09:15", precio: 2700 },
+      { destino: "Picadita", hora_salida: "08:40", hora_llegada: "09:30", precio: 4000 },
+      { destino: "La Balsa", hora_salida: "08:40", hora_llegada: "09:40", precio: 5000 },
+      { destino: "Urquiza", hora_salida: "08:40", hora_llegada: "10:00", precio: 7000 }
+    ]
   },
   {
-    id: 7,
-    nombre: "Villa Urquiza", // corregido
-    horarios: {
-      "Lunes a Viernes": {
-        salidas_villaurquiza: ["15:40"]
-      },
-      "Domingos y Feriados": {
-        salidas_villaurquiza: ["15:40"]
-      }
-    }
+    origen: "C Avellaneda",
+    destinos: [
+      { destino: "Sauce Montrul", hora_salida: "09:00", hora_llegada: "09:15", precio: 1300 },
+      { destino: "Picadita", hora_salida: "09:00", hora_llegada: "09:30", precio: 2600 },
+      { destino: "La Balsa", hora_salida: "09:00", hora_llegada: "09:40", precio: 3600 },
+      { destino: "Urquiza", hora_salida: "09:00", hora_llegada: "10:00", precio: 5600 }
+    ]
   },
   {
-    id: 8,
-    nombre: "Diamante",
-    horarios: {
-      "Lunes a Viernes": {
-        salidas_diamante: ["5:00", "5:45", "7:30", "8:30", "10:30", "12:30", "13:40", "15:00", "16:30", "18:15", "19:30", "21:30"]
-      },
-      "Sábados": {
-        salidas_diamante: ["15:00", "18:00", "21:30"]
-      },
-      "Domingos y Feriados": {
-        salidas_diamante: ["6:00", "9:00", "12:15", "15:00", "18:00", "21:30"]
-      }
-    }
+    origen: "Sauce Montrul",
+    destinos: [
+      { destino: "Picadita", hora_salida: "09:15", hora_llegada: "09:30", precio: 1300 },
+      { destino: "La Balsa", hora_salida: "09:15", hora_llegada: "09:40", precio: 2300 },
+      { destino: "Urquiza", hora_salida: "09:15", hora_llegada: "10:00", precio: 4300 }
+    ]
   },
   {
-    id: 9,
-    nombre: "Valle María", // corregido
-    horarios: {
-      "Lunes a Viernes": {
-        salidas_vallemaria: ["7:40"]
-      }
-    }
+    origen: "Picadita",
+    destinos: [
+      { destino: "La Balsa", hora_salida: "09:30", hora_llegada: "09:40", precio: 1000 },
+      { destino: "Urquiza", hora_salida: "09:30", hora_llegada: "10:00", precio: 2300 }
+    ]
+  },
+  {
+    origen: "La Balsa",
+    destinos: [
+      { destino: "Urquiza", hora_salida: "09:40", hora_llegada: "10:00", precio: 2000 }
+    ]
   }
 ];
 
-// Función para limpiar texto
+// Función para normalizar texto
 function limpiarTexto(texto) {
   return texto.toLowerCase()
     .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
@@ -80,70 +68,47 @@ function limpiarTexto(texto) {
     .trim();
 }
 
-// Ruta raíz
+// Endpoint raíz
 app.get('/', (req, res) => {
-  res.send('¡API de colectivos funcionando!');
+  res.send('¡API de colectivos funcionando con nuevo formato!');
 });
 
-// Ruta que devuelve todas las líneas individuales
-app.get('/lineas', (req, res) => {
-  res.json(lineas);
+// Obtener todas las rutas
+app.get('/rutas', (req, res) => {
+  res.json(rutas);
 });
 
-// Ruta para ver todos los días de una línea
-app.get('/lineas/:linea', (req, res) => {
-  const lineaParam = limpiarTexto(req.params.linea);
-  const linea = lineas.find(l => limpiarTexto(l.nombre) === lineaParam);
+// Buscar destinos desde un origen
+app.get('/rutas/:origen', (req, res) => {
+  const origenParam = limpiarTexto(req.params.origen);
+  const ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
 
-  if (!linea) {
-    return res.status(404).json({ mensaje: "Línea no encontrada" });
+  if (!ruta) {
+    return res.status(404).json({ mensaje: "Origen no encontrado" });
   }
 
-  res.json(linea.horarios);
+  res.json(ruta.destinos);
 });
 
-// Ruta para ver horarios por día y destino
-app.get('/lineas/:linea/:dia', (req, res) => {
-  const lineaParam = limpiarTexto(req.params.linea);
-  const diaParam = limpiarTexto(req.params.dia);
-  const destinoParam = req.query.destino ? limpiarTexto(req.query.destino) : null;
+// Buscar ruta específica de origen a destino
+app.get('/rutas/:origen/:destino', (req, res) => {
+  const origenParam = limpiarTexto(req.params.origen);
+  const destinoParam = limpiarTexto(req.params.destino);
 
-  const linea = lineas.find(l => limpiarTexto(l.nombre) === lineaParam);
-  if (!linea) {
-    return res.status(404).json({ mensaje: "Línea no encontrada" });
+  const ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
+  if (!ruta) {
+    return res.status(404).json({ mensaje: "Origen no encontrado" });
   }
 
-  const diasDisponibles = Object.keys(linea.horarios);
-  const diaEncontrado = diasDisponibles.find(d => limpiarTexto(d) === diaParam);
-  if (!diaEncontrado) {
-    return res.status(404).json({ mensaje: `No hay horarios para el día "${req.params.dia}" en la línea "${req.params.linea}"` });
+  const destino = ruta.destinos.find(d => limpiarTexto(d.destino) === destinoParam);
+  if (!destino) {
+    return res.status(404).json({ mensaje: "Destino no encontrado para ese origen" });
   }
 
-  const horariosDia = linea.horarios[diaEncontrado];
-
-  if (!destinoParam) {
-    return res.json(horariosDia);
-  }
-
-  const horariosFiltrados = {};
-  for (const key in horariosDia) {
-    const keyLimpia = limpiarTexto(key);
-    if (keyLimpia.startsWith('salidas_')) {
-      const destinoClave = keyLimpia.split('salidas_')[1];
-      if (destinoClave === destinoParam) {
-        horariosFiltrados[key] = horariosDia[key];
-      }
-    }
-  }
-
-  if (Object.keys(horariosFiltrados).length === 0) {
-    return res.status(404).json({ mensaje: `No hay horarios para el destino "${req.query.destino}"` });
-  }
-
-  return res.json(horariosFiltrados);
+  res.json(destino);
 });
 
-// Iniciar el servidor
+// Iniciar servidor
 app.listen(PORT, () => {
   console.log(`Servidor escuchando en http://localhost:${PORT}`);
 });
