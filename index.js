@@ -73,27 +73,14 @@ app.get('/', (req, res) => {
   res.send('¡API de colectivos funcionando con nuevo formato!');
 });
 
-// Obtener todas las rutas
+// 🔥 NUEVO: Filtrar por origen y destino vía query params
 app.get('/rutas', (req, res) => {
-  res.json(rutas);
-});
+  const origenParam = limpiarTexto(req.query.origen || "");
+  const destinoParam = limpiarTexto(req.query.destino || "");
 
-// Buscar destinos desde un origen
-app.get('/rutas/:origen', (req, res) => {
-  const origenParam = limpiarTexto(req.params.origen);
-  const ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
-
-  if (!ruta) {
-    return res.status(404).json({ mensaje: "Origen no encontrado" });
+  if (!origenParam || !destinoParam) {
+    return res.json(rutas); // Si no hay filtros, se devuelven todas las rutas
   }
-
-  res.json(ruta.destinos);
-});
-
-// Buscar ruta específica de origen a destino
-app.get('/rutas/:origen/:destino', (req, res) => {
-  const origenParam = limpiarTexto(req.params.origen);
-  const destinoParam = limpiarTexto(req.params.destino);
 
   const ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
   if (!ruta) {
@@ -105,7 +92,25 @@ app.get('/rutas/:origen/:destino', (req, res) => {
     return res.status(404).json({ mensaje: "Destino no encontrado para ese origen" });
   }
 
-  res.json(destino);
+  // Solo devuelve la ruta encontrada
+  return res.json([
+    {
+      origen: ruta.origen,
+      destinos: [destino]
+    }
+  ]);
+});
+
+// Opcional: obtener todos los destinos desde un origen
+app.get('/rutas/:origen', (req, res) => {
+  const origenParam = limpiarTexto(req.params.origen);
+  const ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
+
+  if (!ruta) {
+    return res.status(404).json({ mensaje: "Origen no encontrado" });
+  }
+
+  res.json(ruta.destinos);
 });
 
 // Iniciar servidor
