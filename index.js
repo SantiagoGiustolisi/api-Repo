@@ -387,7 +387,7 @@ const rutas = [
       },
       {
         "destino": "Escuela Agrotecnica",
-        "precio": 3300,
+        "precio": 3600,
         "horarios": {
           "lunes_a_viernes_ida": [
             "6:05hs",
@@ -405,7 +405,7 @@ const rutas = [
       },
       {
         "destino": "Villa Urquiza",
-        "precio": 3500,
+        "precio": 3700,
         "horarios": {
           "lunes_a_viernes_ida": [
             "6:05hs",
@@ -482,7 +482,7 @@ const rutas = [
       },
       {
         "destino": "Escuela Almafuerte",
-        "precio": 1700,
+        "precio": 1500,
         "horarios": {
           "lunes_a_viernes_ida": [
             "6:10hs",
@@ -500,7 +500,7 @@ const rutas = [
       },
       {
         "destino": "La Picada",
-        "precio": 1900,
+        "precio": 1700,
         "horarios": {
           "lunes_a_viernes_ida": [
             "6:10hs",
@@ -536,7 +536,7 @@ const rutas = [
       },
       {
         "destino": "La Balsa",
-        "precio": 3300,
+        "precio": 2800,
         "horarios": {
           "lunes_a_viernes_ida": [
             "6:10hs",
