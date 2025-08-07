@@ -7,38 +7,38 @@
 
   // 🔥 TODAS LAS RUTAS COMPLETAS
   const rutas = [
-     {
-    "origen": "Paraná",
-    "destinos": [
       {
-        "destino": "San Benito",
-        "precio": 1700,
-        "horarios": {
-          "lunes_a_viernes_ida": [
-            "6:00hs",
-            "12:00hs",
-            "19:00hs"
-          ],
-          "sabados_domingos_ida": [
-            "10:30hs",
-            "18:30hs"
-          ],
-          "lunes_a_viernes_vuelta": [
-            "07:10hs",
-            "18:40hs"
-          ],
-          "sabados_domingos_vuelta": [
-            "20:55hs"
-          ],
-          "diario": [
-            "14:25hs"
-          ],
-          "domingos_ida": [],
-          "domingos_vuelta": [],
-          "diario_ida": [],
-          "diario_vuelta": []
-        }
-      },
+      "origen": "Paraná",
+      "destinos": [
+        {
+          "destino": "San Benito",
+          "precio": 1700,
+          "horarios": {
+            "lunes_a_viernes_ida": [
+              "6:00hs",
+              "12:00hs",
+              "19:00hs"
+            ],
+            "sabados_domingos_ida": [
+              "10:30hs",
+              "18:30hs"
+            ],
+            "lunes_a_viernes_vuelta": [
+              "07:10hs",
+              "18:40hs"
+            ],
+            "sabados_domingos_vuelta": [
+              "20:55hs"
+            ],
+            "diario": [
+              "14:25hs"
+            ],
+            "domingos_ida": [],
+            "domingos_vuelta": [],
+            "diario_ida": [],
+            "diario_vuelta": []
+          }
+        },
       {
         "destino": "Colonia Avellaneda",
         "precio": 1800,
@@ -463,7 +463,7 @@
     "diario": [],
     "diario_vuelta": []
     }
-  }
+    }
 ]
   },
   {
@@ -2111,6 +2111,268 @@
       }
     ]
   },
+  {
+  "origen": "Oro Verde",
+  "destinos": [
+    {
+      "destino": "Paraná",
+      "precio": 1500,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:43hs", "9:03hs", "9:48hs", "11:28hs", "12:28hs", "14:28hs", "15:28hs", "18:18hs", "21:28hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:43hs", "11:13hs", "13:58hs"],
+        "diario_ida": ["16:58hs", "20:43hs", "23:28hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "Colonia Ensayo",
+      "precio": 1500,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:43hs", "9:03hs", "9:48hs", "11:28hs", "12:28hs", "14:28hs", "15:28hs", "18:18hs", "21:28hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:43hs", "11:13hs", "13:58hs"],
+        "diario_ida": ["16:58hs", "20:43hs", "23:28hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "Aldea Brasilera",
+      "precio": 1500,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:43hs", "9:03hs", "9:48hs", "11:28hs", "12:28hs", "14:28hs", "15:28hs", "18:18hs", "21:28hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:43hs", "11:13hs", "13:58hs"],
+        "diario_ida": ["16:58hs", "20:43hs", "23:28hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "Spatzenkuter",
+      "precio": 2200,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:43hs", "9:03hs", "9:48hs", "11:28hs", "12:28hs", "14:28hs", "15:28hs", "18:18hs", "21:28hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:43hs", "11:13hs", "13:58hs"],
+        "diario_ida": ["16:58hs", "20:43hs", "23:28hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "Valle María",
+      "precio": 2800,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:43hs", "9:03hs", "9:48hs", "11:28hs", "12:28hs", "14:28hs", "15:28hs", "18:18hs", "21:28hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:43hs", "11:13hs", "13:58hs"],
+        "diario_ida": ["16:58hs", "20:43hs", "23:28hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "La Tablilla",
+      "precio": 3400,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:43hs", "9:03hs", "9:48hs", "11:28hs", "12:28hs", "14:28hs", "15:28hs", "18:18hs", "21:28hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:43hs", "11:13hs", "13:58hs"],
+        "diario_ida": ["16:58hs", "20:43hs", "23:28hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "La Virgen",
+      "precio": 3500,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:43hs", "9:03hs", "9:48hs", "11:28hs", "12:28hs", "14:28hs", "15:28hs", "18:18hs", "21:28hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:43hs", "11:13hs", "13:58hs"],
+        "diario_ida": ["16:58hs", "20:43hs", "23:28hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "Strobel",
+      "precio": 3900,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:43hs", "9:03hs", "9:48hs", "11:28hs", "12:28hs", "14:28hs", "15:28hs", "18:18hs", "21:28hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:43hs", "11:13hs", "13:58hs"],
+        "diario_ida": ["16:58hs", "20:43hs", "23:28hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "Diamante",
+      "precio": 4500,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:43hs", "9:03hs", "9:48hs", "11:28hs", "12:28hs", "14:28hs", "15:28hs", "18:18hs", "21:28hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:43hs", "11:13hs", "13:58hs"],
+        "diario_ida": ["16:58hs", "20:43hs", "23:28hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    }
+  ]
+},
+{
+  "origen": "Colonia Ensayo",
+  "destinos": [
+    {
+      "destino": "Paraná",
+      "precio": 2000,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:49hs", "9:09hs", "9:54hs", "11:34hs", "12:34hs", "14:34hs", "15:34hs", "18:24hs", "21:34hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:49hs", "11:19hs", "14:04hs"],
+        "diario_ida": ["17:04hs", "20:49hs", "23:34hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "Oro Verde",
+      "precio": 1500,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:49hs", "9:09hs", "9:54hs", "11:34hs", "12:34hs", "14:34hs", "15:34hs", "18:24hs", "21:34hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:49hs", "11:19hs", "14:04hs"],
+        "diario_ida": ["17:04hs", "20:49hs", "23:34hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "Aldea Brasilera",
+      "precio": 1500,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:49hs", "9:09hs", "9:54hs", "11:34hs", "12:34hs", "14:34hs", "15:34hs", "18:24hs", "21:34hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:49hs", "11:19hs", "14:04hs"],
+        "diario_ida": ["17:04hs", "20:49hs", "23:34hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "Spatzenkuter",
+      "precio": 1500,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:49hs", "9:09hs", "9:54hs", "11:34hs", "12:34hs", "14:34hs", "15:34hs", "18:24hs", "21:34hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:49hs", "11:19hs", "14:04hs"],
+        "diario_ida": ["17:04hs", "20:49hs", "23:34hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "Valle María",
+      "precio": 1900,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:49hs", "9:09hs", "9:54hs", "11:34hs", "12:34hs", "14:34hs", "15:34hs", "18:24hs", "21:34hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:49hs", "11:19hs", "14:04hs"],
+        "diario_ida": ["17:04hs", "20:49hs", "23:34hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "La Tablilla",
+      "precio": 2500,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:49hs", "9:09hs", "9:54hs", "11:34hs", "12:34hs", "14:34hs", "15:34hs", "18:24hs", "21:34hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:49hs", "11:19hs", "14:04hs"],
+        "diario_ida": ["17:04hs", "20:49hs", "23:34hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "La Virgen",
+      "precio": 2700,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:49hs", "9:09hs", "9:54hs", "11:34hs", "12:34hs", "14:34hs", "15:34hs", "18:24hs", "21:34hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:49hs", "11:19hs", "14:04hs"],
+        "diario_ida": ["17:04hs", "20:49hs", "23:34hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "Strobel",
+      "precio": 3000,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:49hs", "9:09hs", "9:54hs", "11:34hs", "12:34hs", "14:34hs", "15:34hs", "18:24hs", "21:34hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:49hs", "11:19hs", "14:04hs"],
+        "diario_ida": ["17:04hs", "20:49hs", "23:34hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    },
+    {
+      "destino": "Diamante",
+      "precio": 3600,
+      "horarios": {
+        "lunes_a_viernes_ida": ["6:49hs", "9:09hs", "9:54hs", "11:34hs", "12:34hs", "14:34hs", "15:34hs", "18:24hs", "21:34hs"],
+        "sabados_domingos_ida": [],
+        "domingos_ida": ["7:49hs", "11:19hs", "14:04hs"],
+        "diario_ida": ["17:04hs", "20:49hs", "23:34hs"],
+        "lunes_a_viernes_vuelta": [],
+        "sabados_domingos_vuelta": [],
+        "domingos_vuelta": [],
+        "diario_vuelta": []
+      }
+    }
+  ]
+}
   
 ];
   // 🔤 Normalizar texto
