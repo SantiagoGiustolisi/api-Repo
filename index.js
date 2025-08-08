@@ -4594,40 +4594,106 @@
       .trim();
   }
 
-  // 🏠 GET raíz
-  app.get('/', (req, res) => {
-    res.send('🚌 API de colectivos funcionando con horarios completos');
-  });
+  // 🔤 Normalizar texto
+function limpiarTexto(texto) {
+  return (texto || "")
+    .toLowerCase()
+    .normalize("NFD").replace(/[̀-ͯ]/g, "")  // saca acentos
+    .replace(/[-_,()]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
 
-  // 🔍 GET /rutas?origen=X&destino=Y
-  app.get('/rutas', (req, res) => {
-    const origenParam = limpiarTexto(req.query.origen || "");
-    const destinoParam = limpiarTexto(req.query.destino || "");
-
-    if (!origenParam || !destinoParam) {
-      return res.json(rutas);
+// 🔎 Fuzzy matching (tolerancia a typos)
+function lev(a, b) {
+  a = limpiarTexto(a); b = limpiarTexto(b);
+  const m = Array.from({ length: a.length + 1 }, (_, i) => [i]);
+  for (let j = 1; j <= b.length; j++) m[0][j] = j;
+  for (let i = 1; i <= a.length; i++) {
+    for (let j = 1; j <= b.length; j++) {
+      const costo = a[i - 1] === b[j - 1] ? 0 : 1;
+      m[i][j] = Math.min(m[i - 1][j] + 1, m[i][j - 1] + 1, m[i - 1][j - 1] + costo);
     }
+  }
+  return m[a.length][b.length];
+}
+function similitud(a, b) {
+  const L = Math.max(limpiarTexto(a).length, limpiarTexto(b).length) || 1;
+  return 1 - (lev(a, b) / L); // 0..1
+}
+function mejorCoincidencia(candidatos, query, umbral = 0.6) {
+  const q = limpiarTexto(query);
+  let best = null, bestScore = -1;
 
-    const ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
-    if (!ruta) return res.status(404).json({ mensaje: "Origen no encontrado" });
+  for (const c of candidatos) {
+    const cn = limpiarTexto(c);
+    if (cn === q) return c;                      // match exacto
+    if (cn.startsWith(q) || cn.includes(q)) {    // prefijo / contiene
+      return c;
+    }
+    const s = similitud(cn, q);                  // similitud por Levenshtein
+    if (s > bestScore) { bestScore = s; best = c; }
+  }
+  return bestScore >= umbral ? best : null;
+}
 
-    const destino = ruta.destinos.find(d => limpiarTexto(d.destino).includes(destinoParam));
-    if (!destino) return res.status(404).json({ mensaje: "Destino no encontrado para ese origen" });
+// 🏠 GET raíz
+app.get('/', (req, res) => {
+  res.send('🚌 API de colectivos funcionando con horarios completos');
+});
 
-    return res.json([{ origen: ruta.origen, destinos: [destino] }]);
-  });
+// 🔍 GET /rutas?origen=X&destino=Y  (con fuzzy en origen y destino)
+app.get('/rutas', (req, res) => {
+  const origenParam = limpiarTexto(req.query.origen || "");
+  const destinoParam = limpiarTexto(req.query.destino || "");
 
-  // 🔁 GET /rutas/:origen (todos los destinos desde una ciudad)
-  app.get('/rutas/:origen', (req, res) => {
-    const origenParam = limpiarTexto(req.params.origen);
-    const ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
+  // Si no mandan ambos, devolvemos todo
+  if (!origenParam || !destinoParam) {
+    return res.json(rutas);
+  }
 
-    if (!ruta) return res.status(404).json({ mensaje: "Origen no encontrado" });
+  // 1) Buscar origen (exacto) y si no, fuzzy
+  let ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
+  if (!ruta) {
+    const matchOrigen = mejorCoincidencia(rutas.map(r => r.origen), origenParam, 0.6);
+    if (matchOrigen) {
+      ruta = rutas.find(r => limpiarTexto(r.origen) === limpiarTexto(matchOrigen));
+    }
+  }
+  if (!ruta) return res.status(404).json({ mensaje: "Origen no encontrado" });
 
-    res.json(ruta.destinos);
-  });
+  // 2) Buscar destino (includes) y si no, fuzzy
+  let destino = ruta.destinos.find(d => limpiarTexto(d.destino).includes(destinoParam));
+  if (!destino) {
+    const matchDestino = mejorCoincidencia(ruta.destinos.map(d => d.destino), destinoParam, 0.6);
+    if (matchDestino) {
+      destino = ruta.destinos.find(d => limpiarTexto(d.destino) === limpiarTexto(matchDestino));
+    }
+  }
+  if (!destino) return res.status(404).json({ mensaje: "Destino no encontrado para ese origen" });
 
-  // 🚀 Iniciar servidor
-  app.listen(PORT, () => {
-    console.log(`Servidor activo en http://localhost:${PORT}`);
-  });
+  // 3) Respuesta final
+  return res.json([{ origen: ruta.origen, destinos: [destino] }]);
+});
+
+// 🔁 GET /rutas/:origen (todos los destinos desde una ciudad) con fuzzy en origen
+app.get('/rutas/:origen', (req, res) => {
+  const origenParam = limpiarTexto(req.params.origen);
+
+  let ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
+  if (!ruta) {
+    const matchOrigen = mejorCoincidencia(rutas.map(r => r.origen), origenParam, 0.6);
+    if (matchOrigen) {
+      ruta = rutas.find(r => limpiarTexto(r.origen) === limpiarTexto(matchOrigen));
+    }
+  }
+
+  if (!ruta) return res.status(404).json({ mensaje: "Origen no encontrado" });
+  res.json(ruta.destinos);
+});
+
+// 🚀 Iniciar servidor
+app.listen(PORT, () => {
+  console.log(`Servidor activo en http://localhost:${PORT}`);
+});
+
