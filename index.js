@@ -2527,7 +2527,7 @@
         }
       },
       {
-        "destino": "Aldea Spatzenkutter",
+        "destino": "Aldea Spattzenkuter",
         "precio": 1500,
         "horarios": {
           "lunes_a_viernes_ida": [
@@ -2827,7 +2827,7 @@
     ]
   },
   {
-    "origen": "Aldea Spatzenkutter",
+    "origen": "Aldea Spattzenkuter",
     "destinos": [
       {
         "destino": "Paraná",
@@ -3485,7 +3485,7 @@
         }
       },
       {
-        "destino": "Aldea Spatzenkutter",
+        "destino": "Aldea Spattzenkuter",
         "precio": 1500,
         "horarios": {
           "lunes_a_viernes_ida": [
@@ -3940,7 +3940,7 @@
       }
     },
     {
-      "destino": "Aldea Spatzenkutter",
+      "destino": "Aldea Spattzenkuter",
       "precio": 1500,
       "horarios": {
         "lunes_a_viernes_ida": [
@@ -4251,7 +4251,7 @@
       }
     },
     {
-      "destino": "Aldea Spatzenkutter",
+      "destino": "Aldea Spattzenkuter",
       "precio": 1500,
       "horarios": {
         "lunes_a_viernes_ida": ["7:11hs","9:31hs","10:16hs","11:56hs","12:56hs","14:56hs","15:56hs","18:46hs","21:56hs"],
@@ -4382,7 +4382,7 @@
       }
     },
     {
-      "destino": "Aldea Spatzenkutter",
+      "destino": "Aldea Spattzenkuter",
       "precio": 1700,
       "horarios": {
         "lunes_a_viernes_ida": ["7:15hs","9:35hs","10:20hs","12:00hs","13:00hs","15:00hs","16:00hs","18:50hs","22:00hs"],
@@ -4513,7 +4513,7 @@
       }
     },
     {
-      "destino": "Aldea Spatzenkutter",
+      "destino": "Aldea Spattzenkuter",
       "precio": 2200,
       "horarios": {
         "lunes_a_viernes_ida": ["7:25hs","10:30hs","12:10hs","13:10hs","15:10hs","16:10hs","19:00hs","22:10hs"],
