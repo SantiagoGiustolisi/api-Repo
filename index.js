@@ -44,6 +44,7 @@
           }
         ]
       },
+      
       {
         "destino": "Colonia Avellaneda",
         "servicios": [
@@ -887,9 +888,745 @@
             }
           }
         ]
+      },
+       {
+    "destino": "GNL Genolot",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 2700,
+        "horarios": {
+          "lunes_a_viernes_ida": ["08:30hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["08:30hs"],
+          "diario_ida": ["08:30hs"],
+          "lunes_a_viernes_vuelta": ["21:05hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["21:05hs"],
+          "diario_vuelta": ["21:05hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 3100,
+        "horarios": {
+          "lunes_a_viernes_ida": ["08:30hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["08:30hs"],
+          "diario_ida": ["08:30hs"],
+          "lunes_a_viernes_vuelta": ["21:05hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["21:05hs"],
+          "diario_vuelta": ["21:05hs"],
+          "diario": []
+        }
       }
     ]
   },
+  {
+    "destino": "Tres Bocas",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 3100,
+        "horarios": {
+          "lunes_a_viernes_ida": ["08:40hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["08:40hs"],
+          "diario_ida": ["08:40hs"],
+          "lunes_a_viernes_vuelta": ["20:55hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["20:55hs"],
+          "diario_vuelta": ["20:55hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 3500,
+        "horarios": {
+          "lunes_a_viernes_ida": ["08:40hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["08:40hs"],
+          "diario_ida": ["08:40hs"],
+          "lunes_a_viernes_vuelta": ["20:55hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["20:55hs"],
+          "diario_vuelta": ["20:55hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Quebacho",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 3500,
+        "horarios": {
+          "lunes_a_viernes_ida": ["08:50hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["08:50hs"],
+          "diario_ida": ["08:50hs"],
+          "lunes_a_viernes_vuelta": ["20:45hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["20:45hs"],
+          "diario_vuelta": ["20:45hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 3900,
+        "horarios": {
+          "lunes_a_viernes_ida": ["08:50hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["08:50hs"],
+          "diario_ida": ["08:50hs"],
+          "lunes_a_viernes_vuelta": ["20:45hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["20:45hs"],
+          "diario_vuelta": ["20:45hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Rambon",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 4400,
+        "horarios": {
+          "lunes_a_viernes_ida": ["09:00hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["09:00hs"],
+          "diario_ida": ["09:00hs"],
+          "lunes_a_viernes_vuelta": ["20:40hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["20:40hs"],
+          "diario_vuelta": ["20:40hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 4900,
+        "horarios": {
+          "lunes_a_viernes_ida": ["09:00hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["09:00hs"],
+          "diario_ida": ["09:00hs"],
+          "lunes_a_viernes_vuelta": ["20:40hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["20:40hs"],
+          "diario_vuelta": ["20:40hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Viale Acceso",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 6400,
+        "horarios": {
+          "lunes_a_viernes_ida": ["09:15hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["09:15hs"],
+          "diario_ida": ["09:15hs"],
+          "lunes_a_viernes_vuelta": ["20:20hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["20:20hs"],
+          "diario_vuelta": ["20:20hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 7200,
+        "horarios": {
+          "lunes_a_viernes_ida": ["09:15hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["09:15hs"],
+          "diario_ida": ["09:15hs"],
+          "lunes_a_viernes_vuelta": ["20:20hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["20:20hs"],
+          "diario_vuelta": ["20:20hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Rossier",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 6400,
+        "horarios": {
+          "lunes_a_viernes_ida": ["09:25hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["09:25hs"],
+          "diario_ida": ["09:25hs"],
+          "lunes_a_viernes_vuelta": ["20:10hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["20:10hs"],
+          "diario_vuelta": ["20:10hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 7200,
+        "horarios": {
+          "lunes_a_viernes_ida": ["09:25hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["09:25hs"],
+          "diario_ida": ["09:25hs"],
+          "lunes_a_viernes_vuelta": ["20:10hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["20:10hs"],
+          "diario_vuelta": ["20:10hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Tres Sauces",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 7400,
+        "horarios": {
+          "lunes_a_viernes_ida": ["09:37hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["09:37hs"],
+          "diario_ida": ["09:37hs"],
+          "lunes_a_viernes_vuelta": ["20:00hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["20:00hs"],
+          "diario_vuelta": ["20:00hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 8200,
+        "horarios": {
+          "lunes_a_viernes_ida": ["09:37hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["09:37hs"],
+          "diario_ida": ["09:37hs"],
+          "lunes_a_viernes_vuelta": ["20:00hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["20:00hs"],
+          "diario_vuelta": ["20:00hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Barbagelatta",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 8500,
+        "horarios": {
+          "lunes_a_viernes_ida": ["09:45hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["09:45hs"],
+          "diario_ida": ["09:45hs"],
+          "lunes_a_viernes_vuelta": ["19:50hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["19:50hs"],
+          "diario_vuelta": ["19:50hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 9500,
+        "horarios": {
+          "lunes_a_viernes_ida": ["09:45hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["09:45hs"],
+          "diario_ida": ["09:45hs"],
+          "lunes_a_viernes_vuelta": ["19:50hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["19:50hs"],
+          "diario_vuelta": ["19:50hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Pineiro",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 10000,
+        "horarios": {
+          "lunes_a_viernes_ida": ["09:55hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["09:55hs"],
+          "diario_ida": ["09:55hs"],
+          "lunes_a_viernes_vuelta": ["19:40hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["19:40hs"],
+          "diario_vuelta": ["19:40hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 11200,
+        "horarios": {
+          "lunes_a_viernes_ida": ["09:55hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["09:55hs"],
+          "diario_ida": ["09:55hs"],
+          "lunes_a_viernes_vuelta": ["19:40hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["19:40hs"],
+          "diario_vuelta": ["19:40hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Fca de Palmas",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 11500,
+        "horarios": {
+          "lunes_a_viernes_ida": ["10:06hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["10:06hs"],
+          "diario_ida": ["10:06hs"],
+          "lunes_a_viernes_vuelta": ["19:30hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["19:30hs"],
+          "diario_vuelta": ["19:30hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 12900,
+        "horarios": {
+          "lunes_a_viernes_ida": ["10:06hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["10:06hs"],
+          "diario_ida": ["10:06hs"],
+          "lunes_a_viernes_vuelta": ["19:30hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["19:30hs"],
+          "diario_vuelta": ["19:30hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Baño Oficial",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 13200,
+        "horarios": {
+          "lunes_a_viernes_ida": ["10:15hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["10:15hs"],
+          "diario_ida": ["10:15hs"],
+          "lunes_a_viernes_vuelta": ["19:20hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["19:20hs"],
+          "diario_vuelta": ["19:20hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 14800,
+        "horarios": {
+          "lunes_a_viernes_ida": ["10:15hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["10:15hs"],
+          "diario_ida": ["10:15hs"],
+          "lunes_a_viernes_vuelta": ["19:20hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["19:20hs"],
+          "diario_vuelta": ["19:20hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Villaguay",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 15600,
+        "horarios": {
+          "lunes_a_viernes_ida": ["10:30hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["10:30hs"],
+          "diario_ida": ["10:30hs"],
+          "lunes_a_viernes_vuelta": ["19:10hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["19:10hs"],
+          "diario_vuelta": ["19:10hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 17400,
+        "horarios": {
+          "lunes_a_viernes_ida": ["10:30hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["10:30hs"],
+          "diario_ida": ["10:30hs"],
+          "lunes_a_viernes_vuelta": ["19:10hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["19:10hs"],
+          "diario_vuelta": ["19:10hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Travichet",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 16600,
+        "horarios": {
+          "lunes_a_viernes_ida": ["10:20hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["10:20hs"],
+          "diario_ida": ["10:20hs"],
+          "lunes_a_viernes_vuelta": ["18:50hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["18:50hs"],
+          "diario_vuelta": ["18:50hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 18500,
+        "horarios": {
+          "lunes_a_viernes_ida": ["10:20hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["10:20hs"],
+          "diario_ida": ["10:20hs"],
+          "lunes_a_viernes_vuelta": ["18:50hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["18:50hs"],
+          "diario_vuelta": ["18:50hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Camino de Ripio",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 17500,
+        "horarios": {
+          "lunes_a_viernes_ida": ["10:25hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["10:25hs"],
+          "diario_ida": ["10:25hs"],
+          "lunes_a_viernes_vuelta": ["19:00hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["19:00hs"],
+          "diario_vuelta": ["19:00hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 19600,
+        "horarios": {
+          "lunes_a_viernes_ida": ["10:25hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["10:25hs"],
+          "diario_ida": ["10:25hs"],
+          "lunes_a_viernes_vuelta": ["19:00hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["19:00hs"],
+          "diario_vuelta": ["19:00hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Villa Clara",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 18000,
+        "horarios": {
+          "lunes_a_viernes_ida": ["10:50hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["10:50hs"],
+          "diario_ida": ["10:50hs"],
+          "lunes_a_viernes_vuelta": ["18:40hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["18:40hs"],
+          "diario_vuelta": ["18:40hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 20800,
+        "horarios": {
+          "lunes_a_viernes_ida": ["10:50hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["10:50hs"],
+          "diario_ida": ["10:50hs"],
+          "lunes_a_viernes_vuelta": ["18:40hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["18:40hs"],
+          "diario_vuelta": ["18:40hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Jubileo Acceso",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 20800,
+        "horarios": {
+          "lunes_a_viernes_ida": ["11:05hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["11:05hs"],
+          "diario_ida": ["11:05hs"],
+          "lunes_a_viernes_vuelta": ["18:25hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["18:25hs"],
+          "diario_vuelta": ["18:25hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 23300,
+        "horarios": {
+          "lunes_a_viernes_ida": ["11:05hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["11:05hs"],
+          "diario_ida": ["11:05hs"],
+          "lunes_a_viernes_vuelta": ["18:25hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["18:25hs"],
+          "diario_vuelta": ["18:25hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "San Salvador",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 22600,
+        "horarios": {
+          "lunes_a_viernes_ida": ["11:30hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["11:30hs"],
+          "diario_ida": ["11:30hs"],
+          "lunes_a_viernes_vuelta": ["18:10hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["18:10hs"],
+          "diario_vuelta": ["18:10hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 25300,
+        "horarios": {
+          "lunes_a_viernes_ida": ["11:30hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["11:30hs"],
+          "diario_ida": ["11:30hs"],
+          "lunes_a_viernes_vuelta": ["18:10hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["18:10hs"],
+          "diario_vuelta": ["18:10hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "General Campos",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 24300,
+        "horarios": {
+          "lunes_a_viernes_ida": ["11:50hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["11:50hs"],
+          "diario_ida": ["11:50hs"],
+          "lunes_a_viernes_vuelta": ["17:45hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["17:45hs"],
+          "diario_vuelta": ["17:45hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 27300,
+        "horarios": {
+          "lunes_a_viernes_ida": ["11:50hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["11:50hs"],
+          "diario_ida": ["11:50hs"],
+          "lunes_a_viernes_vuelta": ["17:45hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["17:45hs"],
+          "diario_vuelta": ["17:45hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Concordia",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 26100,
+        "horarios": {
+          "lunes_a_viernes_ida": ["12:45hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["12:45hs"],
+          "diario_ida": ["12:45hs"],
+          "lunes_a_viernes_vuelta": ["16:55hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["16:55hs"],
+          "diario_vuelta": ["16:55hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 29200,
+        "horarios": {
+          "lunes_a_viernes_ida": ["12:45hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["12:45hs"],
+          "diario_ida": ["12:45hs"],
+          "lunes_a_viernes_vuelta": ["16:55hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["16:55hs"],
+          "diario_vuelta": ["16:55hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Acc Federacion",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 35500,
+        "horarios": {
+          "lunes_a_viernes_ida": ["13:35hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["13:35hs"],
+          "diario_ida": ["13:35hs"],
+          "lunes_a_viernes_vuelta": ["15:50hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["15:50hs"],
+          "diario_vuelta": ["15:50hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 39800,
+        "horarios": {
+          "lunes_a_viernes_ida": ["13:35hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["13:35hs"],
+          "diario_ida": ["13:35hs"],
+          "lunes_a_viernes_vuelta": ["15:50hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["15:50hs"],
+          "diario_vuelta": ["15:50hs"],
+          "diario": []
+        }
+      }
+    ]
+  },
+  {
+    "destino": "Federacion",
+    "servicios": [
+      {
+        "tipo": "Semicama",
+        "precio": 35500,
+        "horarios": {
+          "lunes_a_viernes_ida": ["13:45hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["13:45hs"],
+          "diario_ida": ["13:45hs"],
+          "lunes_a_viernes_vuelta": ["15:40hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["15:40hs"],
+          "diario_vuelta": ["15:40hs"],
+          "diario": []
+        }
+      },
+      {
+        "tipo": "Cama",
+        "precio": 39800,
+        "horarios": {
+          "lunes_a_viernes_ida": ["13:45hs"],
+          "sabados_domingos_ida": [],
+          "domingos_ida": ["13:45hs"],
+          "diario_ida": ["13:45hs"],
+          "lunes_a_viernes_vuelta": ["15:40hs"],
+          "sabados_domingos_vuelta": [],
+          "domingos_vuelta": ["15:40hs"],
+          "diario_vuelta": ["15:40hs"],
+          "diario": []
+        }
+      }
+    ]
+  }
+]
+},
+
   {
     "origen": "San Benito",
     "destinos": [
