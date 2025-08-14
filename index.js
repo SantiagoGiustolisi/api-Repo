@@ -16516,73 +16516,101 @@
 
 ];
 
-  /// --- Helper: asegura arrays
-const A = (x) => Array.isArray(x) ? x : [];
-
-// --- Helper: clona horarios en el sentido pedido (directo o inverso)
-function mapHorarios(h, invertido) {
-  if (!h) return {};
-  if (!invertido) {
-    // Directo: se devuelve tal cual
-    return {
-      lunes_a_viernes_ida:     A(h.lunes_a_viernes_ida),
-      sabados_domingos_ida:    A(h.sabados_domingos_ida),
-      domingos_ida:            A(h.domingos_ida),
-      diario_ida:              A(h.diario_ida),
-
-      lunes_a_viernes_vuelta:  A(h.lunes_a_viernes_vuelta),
-      sabados_domingos_vuelta: A(h.sabados_domingos_vuelta),
-      domingos_vuelta:         A(h.domingos_vuelta),
-      diario_vuelta:           A(h.diario_vuelta),
-
-      diario:                  A(h.diario),
-    };
+  // 🔤 Normalizar texto
+  function limpiarTexto(texto) {
+    return texto.toLowerCase()
+      .normalize("NFD").replace(/[̀-ͯ]/g, "")
+      .replace(/[-_,()]/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
   }
-  // Inverso: ida ↔ vuelta
-  return {
-    lunes_a_viernes_ida:     A(h.lunes_a_viernes_vuelta),
-    sabados_domingos_ida:    A(h.sabados_domingos_vuelta),
-    domingos_ida:            A(h.domingos_vuelta),
-    diario_ida:              A(h.diario_vuelta),
 
-    lunes_a_viernes_vuelta:  A(h.lunes_a_viernes_ida),
-    sabados_domingos_vuelta: A(h.sabados_domingos_ida),
-    domingos_vuelta:         A(h.domingos_ida),
-    diario_vuelta:           A(h.diario_ida),
-
-    diario:                  A(h.diario),
-  };
+  // 🔤 Normalizar texto
+function limpiarTexto(texto) {
+  return (texto || "")
+    .toLowerCase()
+    .normalize("NFD").replace(/[̀-ͯ]/g, "")  // saca acentos
+    .replace(/[-_,()]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
-// --- Helper: arma la respuesta con todos los servicios mapeados
-function construirRespuesta(origenUser, destinoUser, destinoObj, invertido) {
-  const servicios = (destinoObj.servicios || []).map(s => ({
-    tipo: s.tipo,
-    precio: s.precio,
-    horarios: mapHorarios(s.horarios, invertido),
-  }));
+// 🔎 Fuzzy matching (tolerancia a typos)
+function lev(a, b) {
+  a = limpiarTexto(a); b = limpiarTexto(b);
+  const m = Array.from({ length: a.length + 1 }, (_, i) => [i]);
+  for (let j = 1; j <= b.length; j++) m[0][j] = j;
+  for (let i = 1; i <= a.length; i++) {
+    for (let j = 1; j <= b.length; j++) {
+      const costo = a[i - 1] === b[j - 1] ? 0 : 1;
+      m[i][j] = Math.min(m[i - 1][j] + 1, m[i][j - 1] + 1, m[i - 1][j - 1] + costo);
+    }
+  }
+  return m[a.length][b.length];
+}
+function similitud(a, b) {
+  const L = Math.max(limpiarTexto(a).length, limpiarTexto(b).length) || 1;
+  return 1 - (lev(a, b) / L); // 0..1
+}
+function mejorCoincidencia(candidatos, query, umbral = 0.6) {
+  const q = limpiarTexto(query);
+  let best = null, bestScore = -1;
 
-  return [{
-    origen: origenUser,
-    destinos: [
-      {
-        destino: destinoUser,
-        servicios
-      }
-    ]
-  }];
+  for (const c of candidatos) {
+    const cn = limpiarTexto(c);
+    if (cn === q) return c;                      // match exacto
+    if (cn.startsWith(q) || cn.includes(q)) {    // prefijo / contiene
+      return c;
+    }
+    const s = similitud(cn, q);                  // similitud por Levenshtein
+    if (s > bestScore) { bestScore = s; best = c; }
+  }
+  return bestScore >= umbral ? best : null;
 }
 
-// 🔍 GET /rutas?origen=X&destino=Y  (soporta directo e inverso)
+// 🏠 GET raíz
+app.get('/', (req, res) => {
+  res.send('🚌 API de colectivos funcionando con horarios completos');
+});
+
+// 🔍 GET /rutas?origen=X&destino=Y  (con fuzzy en origen y destino)
 app.get('/rutas', (req, res) => {
-  const origenParam  = limpiarTexto(req.query.origen || "");
+  const origenParam = limpiarTexto(req.query.origen || "");
   const destinoParam = limpiarTexto(req.query.destino || "");
 
+  // Si no mandan ambos, devolvemos todo
   if (!origenParam || !destinoParam) {
     return res.json(rutas);
   }
 
-  // 1) Intento DIRECTO: buscar ruta cuyo origen == origenUser
+  // 1) Buscar origen (exacto) y si no, fuzzy
+  let ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
+  if (!ruta) {
+    const matchOrigen = mejorCoincidencia(rutas.map(r => r.origen), origenParam, 0.6);
+    if (matchOrigen) {
+      ruta = rutas.find(r => limpiarTexto(r.origen) === limpiarTexto(matchOrigen));
+    }
+  }
+  if (!ruta) return res.status(404).json({ mensaje: "Origen no encontrado" });
+
+  // 2) Buscar destino (includes) y si no, fuzzy
+  let destino = ruta.destinos.find(d => limpiarTexto(d.destino).includes(destinoParam));
+  if (!destino) {
+    const matchDestino = mejorCoincidencia(ruta.destinos.map(d => d.destino), destinoParam, 0.6);
+    if (matchDestino) {
+      destino = ruta.destinos.find(d => limpiarTexto(d.destino) === limpiarTexto(matchDestino));
+    }
+  }
+  if (!destino) return res.status(404).json({ mensaje: "Destino no encontrado para ese origen" });
+
+  // 3) Respuesta final
+  return res.json([{ origen: ruta.origen, destinos: [destino] }]);
+});
+
+// 🔁 GET /rutas/:origen (todos los destinos desde una ciudad) con fuzzy en origen
+app.get('/rutas/:origen', (req, res) => {
+  const origenParam = limpiarTexto(req.params.origen);
+
   let ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
   if (!ruta) {
     const matchOrigen = mejorCoincidencia(rutas.map(r => r.origen), origenParam, 0.6);
@@ -16591,48 +16619,12 @@ app.get('/rutas', (req, res) => {
     }
   }
 
-  if (ruta) {
-    // Buscar destino dentro de esa ruta (directo)
-    let destinoObj = ruta.destinos.find(d => limpiarTexto(d.destino).includes(destinoParam));
-    if (!destinoObj) {
-      const matchDestino = mejorCoincidencia(ruta.destinos.map(d => d.destino), destinoParam, 0.6);
-      if (matchDestino) {
-        destinoObj = ruta.destinos.find(d => limpiarTexto(d.destino) === limpiarTexto(matchDestino));
-      }
-    }
-    if (!destinoObj) return res.status(404).json({ mensaje: "Destino no encontrado para ese origen" });
-
-    // Directo: no se invierte
-    return res.json(construirRespuesta(req.query.origen, req.query.destino, destinoObj, /*invertido*/ false));
-  }
-
-  // 2) Intento INVERSO:
-  // Buscar una ruta donde:
-  //   - el ORIGEN del usuario sea uno de sus destinos (ej: "San Benito")
-  //   - y el DESTINO del usuario coincida con el origen de la ruta (ej: "Paraná")
-  let rutaInv = rutas.find(r =>
-    limpiarTexto(r.origen) === destinoParam &&
-    (r.destinos || []).some(d => limpiarTexto(d.destino) === origenParam)
-  );
-
-  if (!rutaInv) {
-    // búsqueda fuzzy para el inverso
-    const matchDestinoRuta = mejorCoincidencia(rutas.map(r => r.origen), destinoParam, 0.6); // debería matchear "Paraná"
-    if (matchDestinoRuta) {
-      rutaInv = rutas.find(r =>
-        limpiarTexto(r.origen) === limpiarTexto(matchDestinoRuta) &&
-        (r.destinos || []).some(d => limpiarTexto(d.destino) === origenParam)
-      );
-    }
-  }
-
-  if (!rutaInv) {
-    return res.status(404).json({ mensaje: "No se encontraron combinaciones para ese tramo" });
-  }
-
-  // En inverso, el destinoObj a usar es el que coincide con el ORIGEN del usuario (ej: "San Benito")
-  const destinoObjInv = rutaInv.destinos.find(d => limpiarTexto(d.destino) === origenParam);
-
-  // Inverso: se invierte ida↔vuelta y se responde usando el tramo pedido por el usuario
-  return res.json(construirRespuesta(req.query.origen, req.query.destino, destinoObjInv, /*invertido*/ true));
+  if (!ruta) return res.status(404).json({ mensaje: "Origen no encontrado" });
+  res.json(ruta.destinos);
 });
+
+// 🚀 Iniciar servidor
+app.listen(PORT, () => {
+  console.log(`Servidor activo en http://localhost:${PORT}`);
+});
+
