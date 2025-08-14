@@ -16515,21 +16515,20 @@
 
 
 ];
+// 🔤 Normalizar texto
+function limpiarTexto(texto) {
+  return texto.toLowerCase()
+    .normalize("NFD").replace(/[̀-ͯ]/g, "")
+    .replace(/[-_,()]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
 
-  // 🔤 Normalizar texto
-  function limpiarTexto(texto) {
-    return texto.toLowerCase()
-      .normalize("NFD").replace(/[̀-ͯ]/g, "")
-      .replace(/[-_,()]/g, ' ')
-      .replace(/\s+/g, ' ')
-      .trim();
-  }
-
-  // 🔤 Normalizar texto
+// 🔤 Normalizar texto
 function limpiarTexto(texto) {
   return (texto || "")
     .toLowerCase()
-    .normalize("NFD").replace(/[̀-ͯ]/g, "")  // saca acentos
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")  // saca acentos
     .replace(/[-_,()]/g, " ")
     .replace(/\s+/g, " ")
     .trim();
@@ -16568,14 +16567,60 @@ function mejorCoincidencia(candidatos, query, umbral = 0.6) {
   return bestScore >= umbral ? best : null;
 }
 
+// ── Helpers para inversión ida↔vuelta (AÑADIDOS)
+const A = (x) => Array.isArray(x) ? x : [];
+function mapHorarios(h, invertido) {
+  if (!h) return {};
+  if (!invertido) {
+    return {
+      lunes_a_viernes_ida:     A(h.lunes_a_viernes_ida),
+      sabados_domingos_ida:    A(h.sabados_domingos_ida),
+      domingos_ida:            A(h.domingos_ida),
+      diario_ida:              A(h.diario_ida),
+
+      lunes_a_viernes_vuelta:  A(h.lunes_a_viernes_vuelta),
+      sabados_domingos_vuelta: A(h.sabados_domingos_vuelta),
+      domingos_vuelta:         A(h.domingos_vuelta),
+      diario_vuelta:           A(h.diario_vuelta),
+
+      diario:                  A(h.diario),
+    };
+  }
+  // Inverso: ida ↔ vuelta
+  return {
+    lunes_a_viernes_ida:     A(h.lunes_a_viernes_vuelta),
+    sabados_domingos_ida:    A(h.sabados_domingos_vuelta),
+    domingos_ida:            A(h.domingos_vuelta),
+    diario_ida:              A(h.diario_vuelta),
+
+    lunes_a_viernes_vuelta:  A(h.lunes_a_viernes_ida),
+    sabados_domingos_vuelta: A(h.sabados_domingos_ida),
+    domingos_vuelta:         A(h.domingos_ida),
+    diario_vuelta:           A(h.diario_ida),
+
+    diario:                  A(h.diario),
+  };
+}
+function construirRespuesta(origenUser, destinoUser, destinoObj, invertido) {
+  const servicios = (destinoObj.servicios || []).map(s => ({
+    tipo: s.tipo,
+    precio: s.precio,
+    horarios: mapHorarios(s.horarios, invertido),
+  }));
+  return [{
+    origen: origenUser,
+    destinos: [{ destino: destinoUser, servicios }]
+  }];
+}
+
 // 🏠 GET raíz
 app.get('/', (req, res) => {
   res.send('🚌 API de colectivos funcionando con horarios completos');
 });
 
-// 🔍 GET /rutas?origen=X&destino=Y  (con fuzzy en origen y destino)
+// 🔍 GET /rutas?origen=X&destino=Y  (con fuzzy + INVERSO agregado)
 app.get('/rutas', (req, res) => {
-  const origenParam = limpiarTexto(req.query.origen || "");
+  const origenParam  = limpiarTexto(req.query.origen || "");
   const destinoParam = limpiarTexto(req.query.destino || "");
 
   // Si no mandan ambos, devolvemos todo
@@ -16583,7 +16628,7 @@ app.get('/rutas', (req, res) => {
     return res.json(rutas);
   }
 
-  // 1) Buscar origen (exacto) y si no, fuzzy
+  // 1) Intento DIRECTO: origen del usuario = origen de la ruta
   let ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
   if (!ruta) {
     const matchOrigen = mejorCoincidencia(rutas.map(r => r.origen), origenParam, 0.6);
@@ -16591,20 +16636,49 @@ app.get('/rutas', (req, res) => {
       ruta = rutas.find(r => limpiarTexto(r.origen) === limpiarTexto(matchOrigen));
     }
   }
-  if (!ruta) return res.status(404).json({ mensaje: "Origen no encontrado" });
 
-  // 2) Buscar destino (includes) y si no, fuzzy
-  let destino = ruta.destinos.find(d => limpiarTexto(d.destino).includes(destinoParam));
-  if (!destino) {
-    const matchDestino = mejorCoincidencia(ruta.destinos.map(d => d.destino), destinoParam, 0.6);
-    if (matchDestino) {
-      destino = ruta.destinos.find(d => limpiarTexto(d.destino) === limpiarTexto(matchDestino));
+  if (ruta) {
+    // Buscar destino dentro de esa ruta (directo)
+    let destinoObj = ruta.destinos.find(d => limpiarTexto(d.destino).includes(destinoParam));
+    if (!destinoObj) {
+      const matchDestino = mejorCoincidencia(ruta.destinos.map(d => d.destino), destinoParam, 0.6);
+      if (matchDestino) {
+        destinoObj = ruta.destinos.find(d => limpiarTexto(d.destino) === limpiarTexto(matchDestino));
+      }
+    }
+    if (!destinoObj) return res.status(404).json({ mensaje: "Destino no encontrado para ese origen" });
+
+    // Directo: no se invierte
+    return res.json(construirRespuesta(req.query.origen, req.query.destino, destinoObj, false));
+  }
+
+  // 2) Intento INVERSO:
+  // Buscar una ruta donde el origen de la ruta sea el destino del usuario
+  // y donde ese tramo incluya como destino el origen del usuario.
+  let rutaInv = rutas.find(r =>
+    limpiarTexto(r.origen) === destinoParam &&
+    (r.destinos || []).some(d => limpiarTexto(d.destino) === origenParam)
+  );
+
+  if (!rutaInv) {
+    const matchOrigenRuta = mejorCoincidencia(rutas.map(r => r.origen), destinoParam, 0.6);
+    if (matchOrigenRuta) {
+      rutaInv = rutas.find(r =>
+        limpiarTexto(r.origen) === limpiarTexto(matchOrigenRuta) &&
+        (r.destinos || []).some(d => limpiarTexto(d.destino) === origenParam)
+      );
     }
   }
-  if (!destino) return res.status(404).json({ mensaje: "Destino no encontrado para ese origen" });
 
-  // 3) Respuesta final
-  return res.json([{ origen: ruta.origen, destinos: [destino] }]);
+  if (!rutaInv) {
+    return res.status(404).json({ mensaje: "No se encontraron combinaciones para ese tramo" });
+  }
+
+  // En inverso, usamos el destino que coincide con el origen del usuario
+  const destinoObjInv = rutaInv.destinos.find(d => limpiarTexto(d.destino) === origenParam);
+
+  // Inverso: invertir ida↔vuelta
+  return res.json(construirRespuesta(req.query.origen, req.query.destino, destinoObjInv, true));
 });
 
 // 🔁 GET /rutas/:origen (todos los destinos desde una ciudad) con fuzzy en origen
@@ -16627,4 +16701,3 @@ app.get('/rutas/:origen', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Servidor activo en http://localhost:${PORT}`);
 });
-
