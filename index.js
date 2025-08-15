@@ -18707,19 +18707,22 @@
 
 ];
   const STOPWORDS = new Set(['de','del','la','las','los','y','e','el','a','al','en','por','para']);
+
 function limpiarTexto(texto = "") {
   return texto
     .toLowerCase()
-    .normalize("NFD").replace(/[\u0300-\u036f]/g, "") // saca acentos robusto
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "") // saca acentos
     .replace(/[^\w\s]/g, " ")                         // saca signos
     .replace(/\s+/g, " ")
     .trim();
 }
+
 function tokens(s = "") {
   return limpiarTexto(s)
     .split(/\s+/)
     .filter(t => t && !STOPWORDS.has(t));
 }
+
 function mismasPalabras(tA, tB) {
   if (tA.length !== tB.length) return false;
   const setB = new Set(tB);
@@ -18727,7 +18730,7 @@ function mismasPalabras(tA, tB) {
   return true;
 }
 
-// 🔎 Fuzzy matching (Levenshtein)
+// Levenshtein y similitud global
 function lev(a, b) {
   a = limpiarTexto(a); b = limpiarTexto(b);
   const m = Array.from({ length: a.length + 1 }, (_, i) => [i]);
@@ -18740,6 +18743,7 @@ function lev(a, b) {
   }
   return m[a.length][b.length];
 }
+
 function similitud(a, b) {
   const la = limpiarTexto(a).length;
   const lb = limpiarTexto(b).length;
@@ -18747,59 +18751,105 @@ function similitud(a, b) {
   return 1 - (lev(a, b) / L); // 0..1
 }
 
-// 🧠 Mejor coincidencia: prioridad exacto → mismas palabras → mejor Jaccard penalizando extras (+ tie con Levenshtein)
+// ---------- NUEVO: matching por token con prefijos/typos ----------
+function tokenSim(a, b) {
+  a = limpiarTexto(a); b = limpiarTexto(b);
+  if (!a || !b) return 0;
+  if (a === b) return 1;
+
+  // prefijo fuerte (ej: "acc" ~ "acceso")
+  if (a.length >= 3 && b.startsWith(a)) return 0.92;
+  if (b.length >= 3 && a.startsWith(b)) return 0.92;
+
+  // Levenshtein normalizado
+  const d = lev(a, b);
+  const L = Math.max(a.length, b.length) || 1;
+  return 1 - (d / L);
+}
+
+function fuzzyCoverage(qTok, cTok, thr = 0.72) {
+  const usados = new Set();
+  let match = 0;
+  for (const q of qTok) {
+    let best = 0, bestIdx = -1;
+    for (let i = 0; i < cTok.length; i++) {
+      if (usados.has(i)) continue;
+      const s = tokenSim(q, cTok[i]);
+      if (s > best) { best = s; bestIdx = i; }
+    }
+    if (best >= thr) { match++; usados.add(bestIdx); }
+  }
+  return match / (qTok.length || 1); // 0..1
+}
+
+// Alias comunes (podés sumar más)
+const ALIAS = {
+  acc: "acceso",
+  acces: "acceso",
+  pna: "parana",
+  sta: "santa",
+  esc: "escuela"
+};
+const expandAliases = arr => arr.map(t => ALIAS[t] || t);
+
+// ---------- NUEVO: mejorCoincidencia con prioridad a cobertura fuzzy ----------
 function mejorCoincidencia(candidatos, query) {
+  const qTokBase = tokens(query);
+  const qTok = expandAliases(qTokBase);
   const qNorm = limpiarTexto(query);
-  const qTok  = tokens(qNorm);
 
   let best = null;
   let bestScore = -Infinity;
 
   for (const c of candidatos) {
     const cNorm = limpiarTexto(c);
-    const cTok  = tokens(cNorm);
+    const cTok = expandAliases(tokens(c));
 
-    // 1) Exacto normalizado
+    // 1) exacto normalizado
     if (cNorm === qNorm) return c;
 
-    // 2) Mismas palabras (sin importar orden)
+    // 2) mismas palabras exactas (orden libre)
     if (mismasPalabras(qTok, cTok)) return c;
 
-    // 3) Jaccard + penalización de "extras" + Levenshtein como tie-break
+    // 3) cobertura fuzzy (clave para "acc federacion" -> "Acceso Federacion")
+    const coverage = fuzzyCoverage(qTok, cTok); // 0..1
+
+    // 4) similitud de caracteres global (para typos)
+    const charSim = similitud(cNorm, qNorm);    // 0..1
+
+    // 5) Jaccard clásico (señal secundaria)
     const inter = new Set(qTok.filter(t => cTok.includes(t))).size;
     const union = new Set([...qTok, ...cTok]).size || 1;
     const jaccard = inter / union;
 
-    const extras = Math.max(0, cTok.length - qTok.length); // penaliza superstrings ("acceso ..." vs "escuela almafuerte")
-    const charSim = similitud(cNorm, qNorm);
+    // 6) bonus por detalle cuando coverage es 1 (preferir "acceso federacion" sobre "federacion")
+    const detailBonus = (coverage === 1) ? (Math.min(cTok.length, qTok.length) / Math.max(1, qTok.length)) : 0;
 
-    // pesos: Jaccard manda, Levenshtein ayuda con typos, extras penaliza
-    const score = (jaccard * 2.0) + (charSim * 0.5) - (extras * 0.4);
+    const score = (coverage * 3.2) + (charSim * 0.6) + (jaccard * 0.5) + (detailBonus * 0.3);
 
-    if (score > bestScore) {
-      bestScore = score;
-      best = c;
-    }
+    if (score > bestScore) { bestScore = score; best = c; }
   }
-  return best; // si nada exacto, devuelve el mejor rankeado
+  return best;
 }
 
-// 🏠 GET raíz
+// ================== ENDPOINTS ==================
+
+// Home
 app.get('/', (req, res) => {
   res.send('🚌 API de colectivos funcionando con horarios completos');
 });
 
-// 🔍 GET /rutas?origen=X&destino=Y  (matching robusto en origen y destino)
+// GET /rutas?origen=X&destino=Y  (matching robusto en origen y destino)
 app.get('/rutas', (req, res) => {
   const origenParam  = req.query.origen || "";
   const destinoParam = req.query.destino || "";
 
-  // Si no mandan ambos, devolvemos todo (mantengo tu comportamiento)
+  // Si no mandan ambos, devolvemos todo (como tenías)
   if (!origenParam || !destinoParam) {
     return res.json(rutas);
   }
 
-  // 1) Buscar origen: exacto normalizado → mejorCoincidencia
+  // ---- Buscar ORIGEN: exacto → mejorCoincidencia
   const origenExacto = rutas.find(r => limpiarTexto(r.origen) === limpiarTexto(origenParam));
   let ruta = origenExacto;
   if (!ruta) {
@@ -18810,7 +18860,7 @@ app.get('/rutas', (req, res) => {
   }
   if (!ruta) return res.status(404).json({ mensaje: "Origen no encontrado" });
 
-  // 2) Buscar destino: exacto normalizado → mejorCoincidencia (SIN includes/startsWith)
+  // ---- Buscar DESTINO dentro del origen encontrado
   let destino = ruta.destinos.find(d => limpiarTexto(d.destino) === limpiarTexto(destinoParam));
   if (!destino) {
     const matchDestino = mejorCoincidencia(ruta.destinos.map(d => d.destino), destinoParam);
@@ -18820,33 +18870,17 @@ app.get('/rutas', (req, res) => {
   }
   if (!destino) return res.status(404).json({ mensaje: "Destino no encontrado para ese origen" });
 
-  // 3) Respuesta final (mismo formato que usabas)
+  // Respuesta (mismo formato que usabas)
   return res.json([{ origen: ruta.origen, destinos: [destino] }]);
 });
 
-// 🔁 GET /rutas/:origen (todos los destinos desde una ciudad) con matching robusto en origen
+// GET /rutas/:origen  (todos los destinos desde una ciudad) con matching robusto en origen
 app.get('/rutas/:origen', (req, res) => {
   const origenParam = req.params.origen || "";
 
   let ruta = rutas.find(r => limpiarTexto(r.origen) === limpiarTexto(origenParam));
   if (!ruta) {
     const matchOrigen = mejorCoincidencia(rutas.map(r => r.origen), origenParam);
-    if (matchOrigen) {
-      ruta = rutas.find(r => limpiarTexto(r.origen) === limpiarTexto(matchOrigen));
-    }
-  }
-
-  if (!ruta) return res.status(404).json({ mensaje: "Origen no encontrado" });
-  res.json(ruta.destinos);
-});
-
-// 🔁 GET /rutas/:origen (todos los destinos desde una ciudad) con fuzzy en origen
-app.get('/rutas/:origen', (req, res) => {
-  const origenParam = limpiarTexto(req.params.origen);
-
-  let ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
-  if (!ruta) {
-    const matchOrigen = mejorCoincidencia(rutas.map(r => r.origen), origenParam, 0.6);
     if (matchOrigen) {
       ruta = rutas.find(r => limpiarTexto(r.origen) === limpiarTexto(matchOrigen));
     }
