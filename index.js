@@ -11,38 +11,24 @@
     "origen": "Paraná",
     "destinos": [
       {
-        "destino": "San Benito",
-        "servicios": [
-          {
-            "tipo": "Coche Común",
-            "precio": 1700,
-            "horarios": {
-              "lunes_a_viernes_ida": [
-                "6:00hs",
-                "12:00hs",
-                "19:00hs"
-              ],
-              "sabados_domingos_ida": [
-                "10:30hs",
-                "18:30hs"
-              ],
-              "lunes_a_viernes_vuelta": [
-                "07:10hs",
-                "18:40hs"
-              ],
-              "sabados_domingos_vuelta": [
-                "20:55hs"
-              ],
-              "diario": [
-                "14:25hs"
-              ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
-            }
+      "destino": "San Benito",
+      "servicios": [
+        {
+          "tipo": "Coche Común",
+          "precio": 1700,
+          "horarios": {
+            "lunes_a_viernes_ida": ["6:00hs", "12:00hs", "19:00hs"],
+            "sabados_domingos_ida": ["10:30hs", "18:30hs"],
+            "lunes_a_viernes_vuelta": ["07:10hs", "18:40hs"],
+            "sabados_domingos_vuelta": ["20:55hs"],
+            "diario": ["14:25hs"],
+            "domingos_ida": [],
+            "domingos_vuelta": [],
+            "diario_ida": [],
+            "diario_vuelta": []
           }
-        ]
+        }
+      ]
       },
       
       {
@@ -1350,6 +1336,26 @@
         ]
       },
       {
+      "destino": "Paraná",
+      "servicios": [
+        {
+          "tipo": "Coche Común",
+          "precio": 1700,
+          "horarios": {
+            "lunes_a_viernes_ida": ["07:10hs", "18:40hs"],
+            "sabados_domingos_ida": ["20:55hs"],
+            "lunes_a_viernes_vuelta": ["6:00hs", "12:00hs", "19:00hs"],
+            "sabados_domingos_vuelta": ["10:30hs", "18:30hs"],
+            "diario": ["14:25hs"],
+            "domingos_ida": [],
+            "domingos_vuelta": [],
+            "diario_ida": [],
+            "diario_vuelta": []
+          }
+        }
+      ]
+      },
+      {
         "destino": "Empalme Ruta 12 Y 18",
         "servicios": [
           {
@@ -1654,7 +1660,27 @@
             }
           }
         ]
-      }
+      },
+      {
+      "destino": "Paraná",
+      "servicios": [
+        {
+          "tipo": "Coche Común",
+          "precio": 1700,
+          "horarios": {
+            "lunes_a_viernes_ida": ["07:10hs", "18:40hs"],
+            "sabados_domingos_ida": ["20:55hs"],
+            "lunes_a_viernes_vuelta": ["6:00hs", "12:00hs", "19:00hs"],
+            "sabados_domingos_vuelta": ["10:30hs", "18:30hs"],
+            "diario": ["14:25hs"],
+            "domingos_ida": [],
+            "domingos_vuelta": [],
+            "diario_ida": [],
+            "diario_vuelta": []
+          }
+        }
+      ]
+    },
     ]
   },
   {
@@ -1685,6 +1711,78 @@
               ],
               "diario": [
                 "14:00hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "San Benito",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "07:05hs",
+                "18:35hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:50hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "6:05hs",
+                "12:05hs",
+                "19:05hs"
+                
+              ],
+              "sabados_domingos_vuelta": [
+                "10:35hs",
+                "18:35hs"
+                
+              ],
+              "diario": [
+                "14:20hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Paraná",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1800,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+               "07:05hs",
+                "18:35hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:50hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                 "6:00hs",
+                "12:00hs",
+                "19:00hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "10:30hs",
+                "18:30hs"
+              ],
+              "diario": [
+                "14:20hs"
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
@@ -2006,6 +2104,114 @@
         ]
       },
       {
+        "destino": "Colonia Avellaneda",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:45hs",
+                "18:15hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:30hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "6:10hs",
+                "12:10hs",
+                "19:10hs"
+                
+              ],
+              "sabados_domingos_vuelta": [
+               
+                 "10:40hs",
+                "18:40hs"
+              ],
+              "diario": [
+                "14:00hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "San Benito",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:45hs",
+                "18:15hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:30hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:05hs",
+                "12:05hs",
+                "19:05hs"
+              ],
+              "sabados_domingos_vuelta": [
+                "10:35hs",
+                "18:35hs"
+                
+              ],
+              "diario": [
+                "14:00hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Paraná",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1900,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:45hs",
+                "18:15hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:30hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "6:00hs",
+                "12:00hs",
+                "19:00hs"
+               
+              ],
+              "sabados_domingos_vuelta": [
+                "10:30hs",
+                "18:30hs"
+                
+              ],
+              "diario": [
+                "14:00hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
         "destino": "Acceso Escuela Almafuerte",
         "servicios": [
           {
@@ -2282,6 +2488,147 @@
           }
         ]
       },
+       {
+        "destino": "Empalme Ruta 12 Y 18",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                    "06:40hs",
+                "18:10hs"
+              ],
+              "sabados_domingos_ida": [
+               "20:25hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+            
+                "6:30hs",
+                "12:30hs",
+                "19:30hs"
+              ],
+              "sabados_domingos_vuelta": [
+                "11:00hs",
+                "19:00hs"
+              ],
+              "diario": [
+                "13:55hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+       {
+        "destino": "Colonia Avellaneda",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:40hs",
+                "18:10hs"
+              ],
+              "sabados_domingos_ida": [
+                 "20:25hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "6:10hs",
+                "12:10hs",
+                "19:10hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                "10:40hs",
+                "18:40hs"
+              ],
+              "diario": [
+                "13:55hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "San Benito",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:40hs",
+                "18:10hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:25hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:05hs",
+                "12:05hs",
+                "19:05hs"
+              ],
+              "sabados_domingos_vuelta": [
+                "10:35hs",
+                "18:35hs"
+              ],
+              "diario": [
+                "13:55hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Paraná",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2000,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                
+                "06:40hs",
+                "18:10hs"
+              ],
+              "sabados_domingos_ida": [
+                 "20:25hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "6:00hs",
+                "12:00hs",
+                "19:00hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                "10:30hs",
+                "18:30hs"
+              ],
+              "diario": [
+                "13:55hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
       {
         "destino": "Escuela Almafuerte",
         "servicios": [
@@ -2525,6 +2872,186 @@
           }
         ]
       },
+       {
+        "destino": "Sauce Montrul",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                  "06:36hs",
+                "18:06hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:21hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+              
+                "6:35hs",
+                "12:35hs",
+                "19:35hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                 "11:05hs",
+                "19:05hs"
+              ],
+              "diario": [
+                "13:51hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Empalme Ruta 12 Y 18",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+            
+                "06:36hs",
+                "18:06hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:21hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "6:30hs",
+                "12:30hs",
+                "19:30hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "11:00hs",
+                "19:00hs"
+              ],
+              "diario": [
+                "13:51hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Colonia Avellaneda",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+               
+                 "06:36hs",
+                "18:06hs"
+              ],
+              "sabados_domingos_ida": [
+                 "20:21hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "6:10hs",
+                "12:10hs",
+                "19:10hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                "10:40hs",
+                "18:40hs"
+              ],
+              "diario": [
+                "13:51hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "San Benito",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1700,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:36hs",
+                "18:06hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:21hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:05hs",
+                "12:05hs",
+                "19:05hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "10:35hs",
+                "18:35hs"
+              ],
+              "diario": [
+                "13:51hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Paraná",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:36hs",
+                "18:06hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:21hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:00hs",
+                "12:00hs",
+                "19:00hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "10:30hs",
+                "18:30hs"
+              ],
+              "diario": [
+                "13:51hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
       {
         "destino": "La Picada",
         "servicios": [
@@ -2735,6 +3262,222 @@
         ]
       },
       {
+        "destino": "Acceso Escuela Almafuerte",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:35hs",
+                "18:05hs"
+              ],
+              "sabados_domingos_ida": [
+                 "20:20hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                 "6:39hs",
+                "12:39hs",
+                "19:39hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                "11:09hs",
+                "19:09hs"
+              ],
+              "diario": [
+                "13:50hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+       {
+        "destino": "Sauce Montrul",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:35hs",
+                "18:05hs"
+              ],
+              "sabados_domingos_ida": [
+                 "20:20hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:35hs",
+                "12:35hs",
+                "19:35hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                "11:05hs",
+                "19:05hs"
+              ],
+              "diario": [
+                "13:50hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Empalme Ruta 12 Y 18",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                  "06:35hs",
+                "18:05hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:20hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+              
+                "6:30hs",
+                "12:30hs",
+                "19:30hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                 "11:00hs",
+                "19:00hs"
+              ],
+              "diario": [
+                "13:50hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Colonia Avellaneda",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                  "06:35hs",
+                "18:05hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:20hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+              
+                "6:10hs",
+                "12:10hs",
+                "19:10hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "10:40hs",
+                "18:40hs"
+              ],
+              "diario": [
+                "13:50hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "San Benito",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1700,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:35hs",
+                "18:05hs"
+              ],
+              "sabados_domingos_ida": [
+               "20:20hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:05hs",
+                "12:05hs",
+                "19:05hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                  "10:35hs",
+                "18:35hs"
+              ],
+              "diario": [
+                "13:50hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Paraná",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                  "06:35hs",
+                "18:05hs"
+              ],
+              "sabados_domingos_ida": [
+               "20:20hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+              
+                "6:00hs",
+                "12:00hs",
+                "19:00hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                 "10:30hs",
+                "18:30hs"
+              ],
+              "diario": [
+                "13:51hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
         "destino": "Colonia Nueva",
         "servicios": [
           {
@@ -2910,6 +3653,258 @@
         ]
       },
       {
+        "destino": "Escuela Almafuerte",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:30hs",
+                "18:00hs"
+              ],
+              "sabados_domingos_ida": [
+                  "20:15hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:40hs",
+                "12:40hs",
+                "19:40hs"
+              ],
+              "sabados_domingos_vuelta": [
+              
+                "11:10hs",
+                "19:10hs"
+              ],
+              "diario": [
+                "13:45hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Acceso Escuela Almafuerte",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:30hs",
+                "18:00hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:15hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:39hs",
+                "12:39hs",
+                "19:39hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "11:09hs",
+                "19:09hs"
+              ],
+              "diario": [
+                "13:45hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": " Sauce Montrul",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                  "06:30hs",
+                "18:00hs"
+              ],
+              "sabados_domingos_ida": [
+               "20:15hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+              
+                "6:35hs",
+                "12:35hs",
+                "19:35hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                 "11:05hs",
+                "19:05hs"
+              ],
+              "diario": [
+                "13:45hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Empalme Ruta 12 Y 18",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1700,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:30hs",
+                "18:00hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:15hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:30hs",
+                "12:30hs",
+                "19:30hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "11:00hs",
+                "19:00hs"
+              ],
+              "diario": [
+                "13:45hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Colonia Avellaneda",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1700,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:30hs",
+                "18:00hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:15hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:10hs",
+                "12:10hs",
+                "19:10hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "10:40hs",
+                "18:40hs"
+              ],
+              "diario": [
+                "13:45hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "San Benito",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1900,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:30hs",
+                "18:00hs"
+              ],
+              "sabados_domingos_ida": [
+                 "20:15hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:05hs",
+                "12:05hs",
+                "19:05hs"
+              ],
+              "sabados_domingos_vuelta": [
+              
+                 "10:35hs",
+                "18:35hs"
+              ],
+              "diario": [
+                "13:45hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Paraná",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2700,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:30hs",
+                "18:00hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:15hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+              
+                 "6:00hs",
+                "12:00hs",
+                "19:00hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "10:30hs",
+                "18:30hs"
+              ],
+              "diario": [
+                "13:45hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
         "destino": "La Balsa",
         "servicios": [
           {
@@ -3051,6 +4046,294 @@
         ]
       },
       {
+        "destino": "La Picada",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                   "06:25hs",
+                "17:55hs"
+              ],
+              "sabados_domingos_ida": [
+                  "20:10hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+             
+                "6:45hs",
+                "12:45hs",
+                "19:45hs"
+              ],
+              "sabados_domingos_vuelta": [
+              
+                "11:15hs",
+                "19:15hs"
+              ],
+              "diario": [
+                "13:40hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Escuela Almafuerte",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1700,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                   "06:25hs",
+                "17:55hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:10hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+             
+                "6:40hs",
+                "12:40hs",
+                "19:40hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "11:10hs",
+                "19:10hs"
+              ],
+              "diario": [
+                "13:40hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Acceso Escuela Almafuerte",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1700,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:25hs",
+                "17:55hs"
+              ],
+              "sabados_domingos_ida": [
+                 "20:10hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:39hs",
+                "12:39hs",
+                "19:39hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                "11:09hs",
+                "19:09hs"
+              ],
+              "diario": [
+                "13:40hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+       {
+        "destino": "Sauce Montrul",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1900,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:25hs",
+                "17:55hs"
+              ],
+              "sabados_domingos_ida": [
+               "20:10hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:35hs",
+                "12:35hs",
+                "19:35hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                 "11:05hs",
+                "19:05hs"
+              ],
+              "diario": [
+                "13:40hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+       {
+        "destino": "Empalme Ruta 12 Y 18",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1900,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:25hs",
+                "17:55hs"
+              ],
+              "sabados_domingos_ida": [
+                  "20:10hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:30hs",
+                "12:30hs",
+                "19:30hs"
+              ],
+              "sabados_domingos_vuelta": [
+              
+                "11:00hs",
+                "19:00hs"
+              ],
+              "diario": [
+                "13:40hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Colonia Avellaneda",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1900,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+               "06:25hs",
+                "17:55hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:10hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                 "6:10hs",
+                "12:10hs",
+                "19:10hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "10:40hs",
+                "18:40hs"
+              ],
+              "diario": [
+                "13:40hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "San Benito",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+               "06:25hs",
+                "17:55hs"
+              ],
+              "sabados_domingos_ida": [
+                  "20:10hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                 "6:05hs",
+                "12:05hs",
+                "19:05hs"
+              ],
+              "sabados_domingos_vuelta": [
+             
+                 "10:35hs",
+                "18:35hs"
+              ],
+              "diario": [
+                "13:40hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Paraná",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 3000,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:25hs",
+                "17:55hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:10hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                 "6:00hs",
+                "12:00hs",
+                "19:00hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                 "10:30hs",
+                "18:30hs"
+              ],
+              "diario": [
+                "13:40hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
         "destino": "Escuela Agrotecnica",
         "servicios": [
           {
@@ -3158,6 +4441,330 @@
         ]
       },
       {
+        "destino": "Colonia Nueva",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:15hs",
+                "17:45hs"
+              ],
+              "sabados_domingos_ida": [
+                     "20:00hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:50hs",
+                "12:50hs",
+                "19:50hs"
+              ],
+              "sabados_domingos_vuelta": [
+          
+                 "11:20hs",
+                "19:20hs"
+              ],
+              "diario": [
+                "13:30hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "La Picada",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1900,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:15hs",
+                "17:45hs"
+              ],
+              "sabados_domingos_ida": [
+                  "20:00hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:45hs",
+                "12:45hs",
+                "19:45hs"
+              ],
+              "sabados_domingos_vuelta": [
+              
+                "11:15hs",
+                "19:15hs"
+              ],
+              "diario": [
+                "13:30hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Escuela Almafuerte",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1900,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:15hs",
+                "17:45hs"
+              ],
+              "sabados_domingos_ida": [
+                "20:00hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:40hs",
+                "12:40hs",
+                "19:40hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "11:10hs",
+                "19:10hs"
+              ],
+              "diario": [
+                "13:30hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+       {
+        "destino": "Acceso Escuela Almafuerte",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:15hs",
+                "17:45hs"
+              ],
+              "sabados_domingos_ida": [
+                  "20:00hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:39hs",
+                "12:39hs",
+                "19:39hs"
+              ],
+              "sabados_domingos_vuelta": [
+              
+                "11:09hs",
+                "19:09hs"
+              ],
+              "diario": [
+                "13:30hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Sauce Montrul",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                  "06:15hs",
+                "17:45hs"
+              ],
+              "sabados_domingos_ida": [
+               "20:00hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+              
+                "6:35hs",
+                "12:35hs",
+                "19:35hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                 "11:05hs",
+                "19:05hs"
+              ],
+              "diario": [
+                "13:30hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Empalme Ruta 12 Y 18",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2600,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:15hs",
+                "17:45hs"
+              ],
+              "sabados_domingos_ida": [
+                 "20:00hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:30hs",
+                "12:30hs",
+                "19:30hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                "11:00hs",
+                "19:00hs"
+              ],
+              "diario": [
+                "13:30hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+       {
+        "destino": "Colonia Avellaneda",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2800,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:15hs",
+                "17:45hs"
+              ],
+              "sabados_domingos_ida": [
+                 "20:00hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:10hs",
+                "12:10hs",
+                "19:10hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                "10:40hs",
+                "18:40hs"
+              ],
+              "diario": [
+                "13:30hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "San Benito",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2900,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:15hs",
+                "17:45hs"
+              ],
+              "sabados_domingos_ida": [
+               "20:00hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:05hs",
+                "12:05hs",
+                "19:05hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                 "10:35hs",
+                "18:35hs"
+              ],
+              "diario": [
+                "13:30hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+       {
+        "destino": "Paraná",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 3900,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:15hs",
+                "17:45hs"
+              ],
+              "sabados_domingos_ida": [
+               "20:00hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+              
+                 "6:00hs",
+                "12:00hs",
+                "19:00hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                 "10:30hs",
+                "18:30hs"
+              ],
+              "diario": [
+                "13:30hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
         "destino": "Villa Urquiza",
         "servicios": [
           {
@@ -3229,7 +4836,367 @@
             }
           }
         ]
-      }
+      },
+      {
+        "destino": "La Balsa ",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                  "06:02hs",
+                "17:32hs"
+              ],
+              "sabados_domingos_ida": [
+                 "19:47hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+             
+                 "7:00hs",
+                "13:00hs",
+                "20:00hs"
+              ],
+              "sabados_domingos_vuelta": [
+              
+                 "11:30hs",
+                "19:30hs"
+              ],
+              "diario": [
+                "13:17hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+       {
+        "destino": "Colonia Nueva",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1700,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:02hs",
+                "17:32hs"
+              ],
+              "sabados_domingos_ida": [
+                "19:47hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:50hs",
+                "12:50hs",
+                "19:50hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "11:20hs",
+                "19:20hs"
+              ],
+              "diario": [
+                "13:17hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "La Picada",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2400,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:02hs",
+                "17:32hs"
+              ],
+              "sabados_domingos_ida": [
+                 "19:47hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:45hs",
+                "12:45hs",
+                "19:45hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                "11:15hs",
+                "19:15hs"
+              ],
+              "diario": [
+                "13:17hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+       {
+        "destino": "Escuela Almafuerte",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2400,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:02hs",
+                "17:32hs"
+              ],
+              "sabados_domingos_ida": [
+                 "19:47hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:40hs",
+                "12:40hs",
+                "19:40hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                "11:10hs",
+                "19:10hs"
+              ],
+              "diario": [
+                "13:17hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+       {
+        "destino": "Acceso Escuela Almafuerte",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2400,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:02hs",
+                "17:32hs"
+              ],
+              "sabados_domingos_ida": [
+                 "19:47hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:39hs",
+                "12:39hs",
+                "19:39hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                "11:09hs",
+                "19:09hs"
+              ],
+              "diario": [
+                "13:17hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+       {
+        "destino": "Sauce Montrul",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 3100,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                  "06:02hs",
+                "17:32hs"
+              ],
+              "sabados_domingos_ida": [
+                "19:47hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+              
+                "6:35hs",
+                "12:35hs",
+                "19:35hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "11:05hs",
+                "19:05hs"
+              ],
+              "diario": [
+                "13:17hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Empalme Ruta 12 Y 18",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 3200,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "06:02hs",
+                "17:32hs"
+              ],
+              "sabados_domingos_ida": [
+                "19:47hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:30hs",
+                "12:30hs",
+                "19:30hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "11:00hs",
+                "19:00hs"
+              ],
+              "diario": [
+                "13:17hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+           {
+        "destino": "Colonia Avellaneda",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 3500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:02hs",
+                "17:32hs"
+              ],
+              "sabados_domingos_ida": [
+                "19:47hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+               
+                "6:10hs",
+                "12:10hs",
+                "19:10hs"
+              ],
+              "sabados_domingos_vuelta": [
+               
+                 "10:40hs",
+                "18:40hs"
+              ],
+              "diario": [
+                "13:17hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+       {
+        "destino": "San Benito",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 3600,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                  "06:02hs",
+                "17:32hs"
+              ],
+              "sabados_domingos_ida": [
+                "19:47hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+              
+                "6:05hs",
+                "12:05hs",
+                "19:05hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "10:35hs",
+                "18:35hs"
+              ],
+              "diario": [
+                "13:17hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
+        {
+        "destino": "Paraná",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 4600,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                 "06:02hs",
+                "17:32hs"
+              ],
+              "sabados_domingos_ida": [
+                "19:47hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+              
+                 "6:00hs",
+                "12:00hs",
+                "19:00hs"
+              ],
+              "sabados_domingos_vuelta": [
+                
+                "10:30hs",
+                "18:30hs"
+              ],
+              "diario": [
+                "13:17hs"
+              ],
+              "domingos_ida": [],
+              "domingos_vuelta": [],
+              "diario_ida": [],
+              "diario_vuelta": []
+            }
+          }
+        ]
+      },
     ]
   },
   {
@@ -16511,29 +18478,256 @@
       ]
     }
   ]
+},
+{
+  "origen": "Villa Urquiza",
+  "destinos": [
+    {
+      "destino": "Paraná",
+      "servicios": [
+        {
+          "tipo": "Coche común",
+          "precios": 4700,
+          "horarios": {
+            "lunes_a_viernes_ida": ["06:00hs", "17:30hs"],
+            "sabados_domingos_ida": ["19:45hs"],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["06:00hs", "12:00hs", "19:00hs"],
+            "sabados_domingos_vuelta": ["10:30hs", "18:30hs"],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": ["13:15hs"]
+          }
+        }
+      ]
+    },
+    {
+      "destino": "San Benito",
+      "servicios": [
+        {
+          "tipo": "Coche común",
+          "precios": 3700,
+          "horarios": {
+            "lunes_a_viernes_ida": ["06:00hs", "17:30hs"],
+            "sabados_domingos_ida": ["19:45hs"],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["06:05hs", "12:05hs", "19:05hs"],
+            "sabados_domingos_vuelta": ["10:35hs", "18:35hs"],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": ["13:15hs"]
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Colonia Avellaneda",
+      "servicios": [
+        {
+          "tipo": "Coche común",
+          "precios": 3600,
+          "horarios": {
+            "lunes_a_viernes_ida": ["06:00hs", "17:30hs"],
+            "sabados_domingos_ida": ["19:45hs"],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["06:10hs", "12:10hs", "19:10hs"],
+            "sabados_domingos_vuelta": ["10:40hs", "18:40hs"],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": ["13:15hs"]
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Empalme Ruta 12 y 18",
+      "servicios": [
+        {
+          "tipo": "Coche común",
+          "precios": 3300,
+          "horarios": {
+            "lunes_a_viernes_ida": ["06:00hs", "17:30hs"],
+            "sabados_domingos_ida": ["19:45hs"],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["06:30hs", "12:30hs", "19:30hs"],
+            "sabados_domingos_vuelta": ["11:00hs", "19:00hs"],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": ["13:15hs"]
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Sauce Montrul",
+      "servicios": [
+        {
+          "tipo": "Coche común",
+          "precios": 3200,
+          "horarios": {
+            "lunes_a_viernes_ida": ["06:00hs", "17:30hs"],
+            "sabados_domingos_ida": ["19:45hs"],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["06:35hs", "12:35hs", "19:35hs"],
+            "sabados_domingos_vuelta": ["11:05hs", "19:05hs"],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": ["13:15hs"]
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Acceso Escuela Almafuerte",
+      "servicios": [
+        {
+          "tipo": "Coche común",
+          "precios": 2500,
+          "horarios": {
+            "lunes_a_viernes_ida": ["06:00hs", "17:30hs"],
+            "sabados_domingos_ida": ["19:45hs"],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["06:39hs", "12:39hs", "19:39hs"],
+            "sabados_domingos_vuelta": ["11:09hs", "19:09hs"],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": ["13:15hs"]
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Escuela Almafuerte",
+      "servicios": [
+        {
+          "tipo": "Coche común",
+          "precios": 2500,
+          "horarios": {
+            "lunes_a_viernes_ida": ["06:00hs", "17:30hs"],
+            "sabados_domingos_ida": ["19:45hs"],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["06:40hs", "12:40hs", "19:40hs"],
+            "sabados_domingos_vuelta": ["11:10hs", "19:10hs"],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": ["13:15hs"]
+          }
+        }
+      ]
+    },
+    {
+      "destino": "La Picada",
+      "servicios": [
+        {
+          "tipo": "Coche común",
+          "precios": 2500,
+          "horarios": {
+            "lunes_a_viernes_ida": ["06:00hs", "17:30hs"],
+            "sabados_domingos_ida": ["19:45hs"],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["06:45hs", "12:45hs", "19:45hs"],
+            "sabados_domingos_vuelta": ["11:15hs", "19:15hs"],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": ["13:15hs"]
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Colonia Nueva",
+      "servicios": [
+        {
+          "tipo": "Coche común",
+          "precios": 1800,
+          "horarios": {
+            "lunes_a_viernes_ida": ["06:00hs", "17:30hs"],
+            "sabados_domingos_ida": ["19:45hs"],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["06:50hs", "12:50hs", "19:50hs"],
+            "sabados_domingos_vuelta": ["11:20hs", "19:20hs"],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": ["13:15hs"]
+          }
+        }
+      ]
+    },
+    {
+      "destino": "La Balsa",
+      "servicios": [
+        {
+          "tipo": "Coche común",
+          "precios": 1500,
+          "horarios": {
+            "lunes_a_viernes_ida": ["06:00hs", "17:30hs"],
+            "sabados_domingos_ida": ["19:45hs"],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["07:00hs", "13:00hs", "20:00hs"],
+            "sabados_domingos_vuelta": ["11:30hs", "19:30hs"],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": ["13:15hs"]
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Escuela Agrotecnica",
+      "servicios": [
+        {
+          "tipo": "Coche común",
+          "precios": 1500,
+          "horarios": {
+            "lunes_a_viernes_ida": ["06:00hs", "17:30hs"],
+            "sabados_domingos_ida": ["19:45hs"],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["07:13hs", "13:13hs", "20:13hs"],
+            "sabados_domingos_vuelta": ["11:43hs", "19:43hs"],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": ["13:15hs"]
+          }
+        }
+      ]
+    }
+  ]
 }
 
-
 ];
-  function limpiarTexto(texto) {
-    return texto.toLowerCase()
-      .normalize("NFD").replace(/[̀-ͯ]/g, "")
-      .replace(/[-_,()]/g, ' ')
-      .replace(/\s+/g, ' ')
-      .trim();
-  }
-
-  // 🔤 Normalizar texto
-function limpiarTexto(texto) {
-  return (texto || "")
+  const STOPWORDS = new Set(['de','del','la','las','los','y','e','el','a','al','en','por','para']);
+function limpiarTexto(texto = "") {
+  return texto
     .toLowerCase()
-    .normalize("NFD").replace(/[̀-ͯ]/g, "")  // saca acentos
-    .replace(/[-_,()]/g, " ")
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "") // saca acentos robusto
+    .replace(/[^\w\s]/g, " ")                         // saca signos
     .replace(/\s+/g, " ")
     .trim();
 }
+function tokens(s = "") {
+  return limpiarTexto(s)
+    .split(/\s+/)
+    .filter(t => t && !STOPWORDS.has(t));
+}
+function mismasPalabras(tA, tB) {
+  if (tA.length !== tB.length) return false;
+  const setB = new Set(tB);
+  for (const t of tA) if (!setB.has(t)) return false;
+  return true;
+}
 
-// 🔎 Fuzzy matching (tolerancia a typos)
+// 🔎 Fuzzy matching (Levenshtein)
 function lev(a, b) {
   a = limpiarTexto(a); b = limpiarTexto(b);
   const m = Array.from({ length: a.length + 1 }, (_, i) => [i]);
@@ -16547,23 +18741,47 @@ function lev(a, b) {
   return m[a.length][b.length];
 }
 function similitud(a, b) {
-  const L = Math.max(limpiarTexto(a).length, limpiarTexto(b).length) || 1;
+  const la = limpiarTexto(a).length;
+  const lb = limpiarTexto(b).length;
+  const L = Math.max(la, lb) || 1;
   return 1 - (lev(a, b) / L); // 0..1
 }
-function mejorCoincidencia(candidatos, query, umbral = 0.6) {
-  const q = limpiarTexto(query);
-  let best = null, bestScore = -1;
+
+// 🧠 Mejor coincidencia: prioridad exacto → mismas palabras → mejor Jaccard penalizando extras (+ tie con Levenshtein)
+function mejorCoincidencia(candidatos, query) {
+  const qNorm = limpiarTexto(query);
+  const qTok  = tokens(qNorm);
+
+  let best = null;
+  let bestScore = -Infinity;
 
   for (const c of candidatos) {
-    const cn = limpiarTexto(c);
-    if (cn === q) return c;                      // match exacto
-    if (cn.startsWith(q) || cn.includes(q)) {    // prefijo / contiene
-      return c;
+    const cNorm = limpiarTexto(c);
+    const cTok  = tokens(cNorm);
+
+    // 1) Exacto normalizado
+    if (cNorm === qNorm) return c;
+
+    // 2) Mismas palabras (sin importar orden)
+    if (mismasPalabras(qTok, cTok)) return c;
+
+    // 3) Jaccard + penalización de "extras" + Levenshtein como tie-break
+    const inter = new Set(qTok.filter(t => cTok.includes(t))).size;
+    const union = new Set([...qTok, ...cTok]).size || 1;
+    const jaccard = inter / union;
+
+    const extras = Math.max(0, cTok.length - qTok.length); // penaliza superstrings ("acceso ..." vs "escuela almafuerte")
+    const charSim = similitud(cNorm, qNorm);
+
+    // pesos: Jaccard manda, Levenshtein ayuda con typos, extras penaliza
+    const score = (jaccard * 2.0) + (charSim * 0.5) - (extras * 0.4);
+
+    if (score > bestScore) {
+      bestScore = score;
+      best = c;
     }
-    const s = similitud(cn, q);                  // similitud por Levenshtein
-    if (s > bestScore) { bestScore = s; best = c; }
   }
-  return bestScore >= umbral ? best : null;
+  return best; // si nada exacto, devuelve el mejor rankeado
 }
 
 // 🏠 GET raíz
@@ -16571,38 +18789,55 @@ app.get('/', (req, res) => {
   res.send('🚌 API de colectivos funcionando con horarios completos');
 });
 
-// 🔍 GET /rutas?origen=X&destino=Y  (con fuzzy en origen y destino)
+// 🔍 GET /rutas?origen=X&destino=Y  (matching robusto en origen y destino)
 app.get('/rutas', (req, res) => {
-  const origenParam = limpiarTexto(req.query.origen || "");
-  const destinoParam = limpiarTexto(req.query.destino || "");
+  const origenParam  = req.query.origen || "";
+  const destinoParam = req.query.destino || "";
 
-  // Si no mandan ambos, devolvemos todo
+  // Si no mandan ambos, devolvemos todo (mantengo tu comportamiento)
   if (!origenParam || !destinoParam) {
     return res.json(rutas);
   }
 
-  // 1) Buscar origen (exacto) y si no, fuzzy
-  let ruta = rutas.find(r => limpiarTexto(r.origen) === origenParam);
+  // 1) Buscar origen: exacto normalizado → mejorCoincidencia
+  const origenExacto = rutas.find(r => limpiarTexto(r.origen) === limpiarTexto(origenParam));
+  let ruta = origenExacto;
   if (!ruta) {
-    const matchOrigen = mejorCoincidencia(rutas.map(r => r.origen), origenParam, 0.6);
+    const matchOrigen = mejorCoincidencia(rutas.map(r => r.origen), origenParam);
     if (matchOrigen) {
       ruta = rutas.find(r => limpiarTexto(r.origen) === limpiarTexto(matchOrigen));
     }
   }
   if (!ruta) return res.status(404).json({ mensaje: "Origen no encontrado" });
 
-  // 2) Buscar destino (includes) y si no, fuzzy
-  let destino = ruta.destinos.find(d => limpiarTexto(d.destino).includes(destinoParam));
+  // 2) Buscar destino: exacto normalizado → mejorCoincidencia (SIN includes/startsWith)
+  let destino = ruta.destinos.find(d => limpiarTexto(d.destino) === limpiarTexto(destinoParam));
   if (!destino) {
-    const matchDestino = mejorCoincidencia(ruta.destinos.map(d => d.destino), destinoParam, 0.6);
+    const matchDestino = mejorCoincidencia(ruta.destinos.map(d => d.destino), destinoParam);
     if (matchDestino) {
       destino = ruta.destinos.find(d => limpiarTexto(d.destino) === limpiarTexto(matchDestino));
     }
   }
   if (!destino) return res.status(404).json({ mensaje: "Destino no encontrado para ese origen" });
 
-  // 3) Respuesta final
+  // 3) Respuesta final (mismo formato que usabas)
   return res.json([{ origen: ruta.origen, destinos: [destino] }]);
+});
+
+// 🔁 GET /rutas/:origen (todos los destinos desde una ciudad) con matching robusto en origen
+app.get('/rutas/:origen', (req, res) => {
+  const origenParam = req.params.origen || "";
+
+  let ruta = rutas.find(r => limpiarTexto(r.origen) === limpiarTexto(origenParam));
+  if (!ruta) {
+    const matchOrigen = mejorCoincidencia(rutas.map(r => r.origen), origenParam);
+    if (matchOrigen) {
+      ruta = rutas.find(r => limpiarTexto(r.origen) === limpiarTexto(matchOrigen));
+    }
+  }
+
+  if (!ruta) return res.status(404).json({ mensaje: "Origen no encontrado" });
+  res.json(ruta.destinos);
 });
 
 // 🔁 GET /rutas/:origen (todos los destinos desde una ciudad) con fuzzy en origen
