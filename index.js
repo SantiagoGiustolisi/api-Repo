@@ -882,14 +882,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 2700, "Cama": 3100 },
         "horarios": {
-          "lunes_a_viernes_ida": ["08:30hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["08:30hs"],
-          "diario_ida": ["08:30hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["21:05hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["21:05hs"],
-          "diario_vuelta": ["21:05hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -902,14 +902,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 3100, "Cama": 3500 },
         "horarios": {
-          "lunes_a_viernes_ida": ["08:40hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["08:40hs"],
-          "diario_ida": ["08:40hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["20:55hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["20:55hs"],
-          "diario_vuelta": ["20:55hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -922,14 +922,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 3500, "Cama": 3900 },
         "horarios": {
-          "lunes_a_viernes_ida": ["08:50hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["20:45hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -942,14 +942,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 4400, "Cama": 4900 },
         "horarios": {
-          "lunes_a_viernes_ida": ["09:00hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["09:00hs"],
-          "diario_ida": ["09:00hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["20:40hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["20:40hs"],
-          "diario_vuelta": ["20:40hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -962,14 +962,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 6400, "Cama": 7200 },
         "horarios": {
-          "lunes_a_viernes_ida": ["09:15hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["09:15hs"],
-          "diario_ida": ["09:15hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["20:20hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["20:20hs"],
-          "diario_vuelta": ["20:20hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -982,14 +982,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 6400, "Cama": 7200 },
         "horarios": {
-          "lunes_a_viernes_ida": ["09:25hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["09:25hs"],
-          "diario_ida": ["09:25hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["20:10hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["20:10hs"],
-          "diario_vuelta": ["20:10hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1000,16 +1000,16 @@
     "servicios": [
       {
         "tipo": "Semicama y Cama",
-        "precios": { "Semicama": 7400, "Cama": 8200 },
+        "precios": { "Semicama": 7300, "Cama": 8200 },
         "horarios": {
-          "lunes_a_viernes_ida": ["09:37hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["09:37hs"],
-          "diario_ida": ["09:37hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["20:00hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["20:00hs"],
-          "diario_vuelta": ["20:00hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1022,14 +1022,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 8500, "Cama": 9500 },
         "horarios": {
-          "lunes_a_viernes_ida": ["09:45hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["09:45hs"],
-          "diario_ida": ["09:45hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["19:50hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["19:50hs"],
-          "diario_vuelta": ["19:50hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1042,14 +1042,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 10000, "Cama": 11200 },
         "horarios": {
-          "lunes_a_viernes_ida": ["09:55hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["09:55hs"],
-          "diario_ida": ["09:55hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["19:40hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["19:40hs"],
-          "diario_vuelta": ["19:40hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1062,14 +1062,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 11500, "Cama": 12900 },
         "horarios": {
-          "lunes_a_viernes_ida": ["10:06hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["10:06hs"],
-          "diario_ida": ["10:06hs"],
+        "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["19:30hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["19:30hs"],
-          "diario_vuelta": ["19:30hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1082,14 +1082,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 13200, "Cama": 14800 },
         "horarios": {
-          "lunes_a_viernes_ida": ["10:15hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["10:15hs"],
-          "diario_ida": ["10:15hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["19:20hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["19:20hs"],
-          "diario_vuelta": ["19:20hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1102,14 +1102,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 15600, "Cama": 17400 },
         "horarios": {
-          "lunes_a_viernes_ida": ["10:30hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["10:30hs"],
-          "diario_ida": ["10:30hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["19:10hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["19:10hs"],
-          "diario_vuelta": ["19:10hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1122,14 +1122,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 16600, "Cama": 18500 },
         "horarios": {
-          "lunes_a_viernes_ida": ["10:20hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["10:20hs"],
-          "diario_ida": ["10:20hs"],
-          "lunes_a_viernes_vuelta": ["18:50hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": [],
           "sabados_domingos_vuelta": [],
-          "domingos_vuelta": ["18:50hs"],
-          "diario_vuelta": ["18:50hs"],
+          "domingos_vuelta": [],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1142,14 +1142,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 17500, "Cama": 19600 },
         "horarios": {
-          "lunes_a_viernes_ida": ["10:25hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["10:25hs"],
-          "diario_ida": ["10:25hs"],
-          "lunes_a_viernes_vuelta": ["19:00hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": [],
           "sabados_domingos_vuelta": [],
-          "domingos_vuelta": ["19:00hs"],
-          "diario_vuelta": ["19:00hs"],
+          "domingos_vuelta": [],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1160,16 +1160,16 @@
     "servicios": [
       {
         "tipo": "Semicama y Cama",
-        "precios": { "Semicama": 18000, "Cama": 20800 },
+        "precios": { "Semicama": 18600, "Cama": 20800 },
         "horarios": {
-          "lunes_a_viernes_ida": ["10:50hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["10:50hs"],
-          "diario_ida": ["10:50hs"],
-          "lunes_a_viernes_vuelta": ["18:40hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["18:40"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["18:40hs"],
-          "diario_vuelta": ["18:40hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1182,14 +1182,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 20800, "Cama": 23300 },
         "horarios": {
-          "lunes_a_viernes_ida": ["11:05hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["11:05hs"],
-          "diario_ida": ["11:05hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["18:25hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["18:25hs"],
-          "diario_vuelta": ["18:25hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1202,14 +1202,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 22600, "Cama": 25300 },
         "horarios": {
-          "lunes_a_viernes_ida": ["11:30hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["11:30hs"],
-          "diario_ida": ["11:30hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["18:10hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["18:10hs"],
-          "diario_vuelta": ["18:10hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1220,16 +1220,16 @@
     "servicios": [
       {
         "tipo": "Semicama y Cama",
-        "precios": { "Semicama": 24300, "Cama": 27300 },
+        "precios": { "Semicama": 24500, "Cama": 27300 },
         "horarios": {
-          "lunes_a_viernes_ida": ["11:50hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["11:50hs"],
+          "domingos_ida": ["08:15hs"],
           "diario_ida": ["11:50hs"],
           "lunes_a_viernes_vuelta": ["17:45hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["17:45hs"],
-          "diario_vuelta": ["17:45hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1242,14 +1242,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 26100, "Cama": 29200 },
         "horarios": {
-          "lunes_a_viernes_ida": ["12:45hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["12:45hs"],
-          "diario_ida": ["12:45hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["16:55hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["16:55hs"],
-          "diario_vuelta": ["16:55hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1262,14 +1262,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 35500, "Cama": 39800 },
         "horarios": {
-          "lunes_a_viernes_ida": ["13:35hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["13:35hs"],
-          "diario_ida": ["13:35hs"],
-          "lunes_a_viernes_vuelta": ["15:50hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": [],
           "sabados_domingos_vuelta": [],
-          "domingos_vuelta": ["15:50hs"],
-          "diario_vuelta": ["15:50hs"],
+          "domingos_vuelta": [],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -1282,14 +1282,14 @@
         "tipo": "Semicama y Cama",
         "precios": { "Semicama": 35500, "Cama": 39800 },
         "horarios": {
-          "lunes_a_viernes_ida": ["13:45hs"],
+          "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_domingos_ida": [],
-          "domingos_ida": ["13:45hs"],
-          "diario_ida": ["13:45hs"],
+          "domingos_ida": ["08:15hs"],
+          "diario_ida": [],
           "lunes_a_viernes_vuelta": ["15:40hs"],
           "sabados_domingos_vuelta": [],
           "domingos_vuelta": ["15:40hs"],
-          "diario_vuelta": ["15:40hs"],
+          "diario_vuelta": [],
           "diario": []
         }
       }
@@ -9751,7 +9751,7 @@
     ]
   },
   {
-  "origen": "GNL Genolot",
+ "origen": "GNL Genolot",
   "destinos": [
     {
       "destino": "Parana",
@@ -9760,12 +9760,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:25hs"],
-            "domingos_ida": ["21:25hs"],
-            "diario_ida": ["21:25hs"],
+            "lunes_a_viernes_ida": ["21:05hs"],
+            "domingos_ida": ["21:05hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "diario_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -9780,12 +9780,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:40hs"],
-            "domingos_ida": ["08:40hs"],
-            "diario_ida": ["08:40hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["20:55hs"],
             "domingos_vuelta": ["20:55hs"],
-            "diario_vuelta": ["20:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -9800,12 +9800,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3100, "Cama": 3500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:50hs"],
-            "domingos_ida": ["08:50hs"],
-            "diario_ida": ["08:50hs"],
+            "lunes_a_viernes_ida": ["08:300hs"],
+            "domingos_ida": ["08:300hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["20:45hs"],
             "domingos_vuelta": ["20:45hs"],
-            "diario_vuelta": ["20:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -9820,12 +9820,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3400, "Cama": 3800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:00hs"],
-            "domingos_ida": ["09:00hs"],
-            "diario_ida": ["09:00hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["20:40hs"],
             "domingos_vuelta": ["20:40hs"],
-            "diario_vuelta": ["20:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -9838,14 +9838,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 4000, "Cama": 4900 },
+          "precios": { "Semicama": 4400, "Cama": 4900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:15hs"],
-            "domingos_ida": ["09:15hs"],
-            "diario_ida": ["09:15hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["20:20hs"],
             "domingos_vuelta": ["20:20hs"],
-            "diario_vuelta": ["20:20hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -9860,12 +9860,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5400, "Cama": 6000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:25hs"],
-            "domingos_ida": ["09:25hs"],
-            "diario_ida": ["09:25hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["20:10hs"],
             "domingos_vuelta": ["20:10hs"],
-            "diario_vuelta": ["20:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -9880,12 +9880,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6300, "Cama": 7100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["20:00hs"],
             "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -9900,12 +9900,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7500, "Cama": 8400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:45hs"],
-            "domingos_ida": ["09:45hs"],
-            "diario_ida": ["09:45hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:50hs"],
             "domingos_vuelta": ["19:50hs"],
-            "diario_vuelta": ["19:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -9920,12 +9920,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9000, "Cama": 10100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:55hs"],
-            "domingos_ida": ["09:55hs"],
-            "diario_ida": ["09:55hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:40hs"],
             "domingos_vuelta": ["19:40hs"],
-            "diario_vuelta": ["19:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -9940,12 +9940,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 10500, "Cama": 11800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:06hs"],
-            "domingos_ida": ["10:06hs"],
-            "diario_ida": ["10:06hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:30hs"],
             "domingos_vuelta": ["19:30hs"],
-            "diario_vuelta": ["19:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -9960,12 +9960,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 12200, "Cama": 13700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:15hs"],
-            "domingos_ida": ["10:15hs"],
-            "diario_ida": ["10:15hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:20hs"],
             "domingos_vuelta": ["19:20hs"],
-            "diario_vuelta": ["19:20hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -9980,12 +9980,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 14700, "Cama": 16500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:30hs"],
-            "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:10hs"],
             "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10000,12 +10000,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 15500, "Cama": 17500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:20hs"],
-            "domingos_ida": ["10:20hs"],
-            "diario_ida": ["10:20hs"],
-            "lunes_a_viernes_vuelta": ["18:50hs"],
-            "domingos_vuelta": ["18:50hs"],
-            "diario_vuelta": ["18:50hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10020,12 +10020,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16500, "Cama": 18600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:25hs"],
-            "domingos_ida": ["10:25hs"],
-            "diario_ida": ["10:25hs"],
-            "lunes_a_viernes_vuelta": ["19:00hs"],
-            "domingos_vuelta": ["19:00hs"],
-            "diario_vuelta": ["19:00hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10040,12 +10040,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 17600, "Cama": 19700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:50hs"],
-            "domingos_ida": ["10:50hs"],
-            "diario_ida": ["10:50hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:40hs"],
             "domingos_vuelta": ["18:40hs"],
-            "diario_vuelta": ["18:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10060,12 +10060,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 19800, "Cama": 22200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:05hs"],
-            "domingos_ida": ["11:05hs"],
-            "diario_ida": ["11:05hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:25hs"],
             "domingos_vuelta": ["18:25hs"],
-            "diario_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10080,12 +10080,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 21600, "Cama": 24300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:30hs"],
-            "domingos_ida": ["11:30hs"],
-            "diario_ida": ["11:30hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:10hs"],
             "domingos_vuelta": ["18:10hs"],
-            "diario_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10100,12 +10100,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 23500, "Cama": 26300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:50hs"],
-            "domingos_ida": ["11:50hs"],
-            "diario_ida": ["11:50hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["17:45hs"],
             "domingos_vuelta": ["17:45hs"],
-            "diario_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10120,12 +10120,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 25500, "Cama": 28300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["12:45hs"],
-            "domingos_ida": ["12:45hs"],
-            "diario_ida": ["12:45hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
             "domingos_vuelta": ["16:55hs"],
-            "diario_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10140,12 +10140,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 34500, "Cama": 38600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:35hs"],
-            "domingos_ida": ["13:35hs"],
-            "diario_ida": ["13:35hs"],
-            "lunes_a_viernes_vuelta": ["15:50hs"],
-            "domingos_vuelta": ["15:50hs"],
-            "diario_vuelta": ["15:50hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10160,12 +10160,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 34500, "Cama": 38600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:45hs"],
-            "domingos_ida": ["13:45hs"],
-            "diario_ida": ["13:45hs"],
+            "lunes_a_viernes_ida": ["08:30hs"],
+            "domingos_ida": ["08:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
             "domingos_vuelta": ["15:40hs"],
-            "diario_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10185,12 +10185,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3100, "Cama": 3500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:25hs"],
-            "domingos_ida": ["21:25hs"],
-            "diario_ida": ["21:25hs"],
+            "lunes_a_viernes_ida": ["20:55hs"],
+            "domingos_ida": ["20:55hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "diario_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10205,12 +10205,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:05hs"],
-            "domingos_ida": ["21:05hs"],
-            "diario_ida": ["21:05hs"],
+            "lunes_a_viernes_ida": ["20:55hs"],
+            "domingos_ida": ["20:55hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:30hs"],
             "domingos_vuelta": ["08:30hs"],
-            "diario_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10225,12 +10225,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:50hs"],
-            "domingos_ida": ["08:50hs"],
-            "diario_ida": ["08:50hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["20:45hs"],
             "domingos_vuelta": ["20:45hs"],
-            "diario_vuelta": ["20:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10245,12 +10245,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2900, "Cama": 3200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:00hs"],
-            "domingos_ida": ["09:00hs"],
-            "diario_ida": ["09:00hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["20:40hs"],
             "domingos_vuelta": ["20:40hs"],
-            "diario_vuelta": ["20:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10265,12 +10265,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3900, "Cama": 3900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:15hs"],
-            "domingos_ida": ["09:15hs"],
-            "diario_ida": ["09:15hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["20:20hs"],
             "domingos_vuelta": ["20:20hs"],
-            "diario_vuelta": ["20:20hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10285,12 +10285,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4800, "Cama": 4900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:25hs"],
-            "domingos_ida": ["09:25hs"],
-            "diario_ida": ["09:25hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["20:10hs"],
             "domingos_vuelta": ["20:10hs"],
-            "diario_vuelta": ["20:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10303,14 +10303,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 5400, "Cama": 5400 },
+          "precios": { "Semicama": 6000, "Cama": 5400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["20:00hs"],
             "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10325,12 +10325,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7500, "Cama": 6700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:45hs"],
-            "domingos_ida": ["09:45hs"],
-            "diario_ida": ["09:45hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:50hs"],
             "domingos_vuelta": ["19:50hs"],
-            "diario_vuelta": ["19:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10343,14 +10343,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 9000, "Cama": 9000 },
+          "precios": { "Semicama": 9000, "Cama": 8400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:55hs"],
-            "domingos_ida": ["09:55hs"],
-            "diario_ida": ["09:55hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:40hs"],
             "domingos_vuelta": ["19:40hs"],
-            "diario_vuelta": ["19:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10365,12 +10365,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 10700, "Cama": 10100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:06hs"],
-            "domingos_ida": ["10:06hs"],
-            "diario_ida": ["10:06hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:30hs"],
             "domingos_vuelta": ["19:30hs"],
-            "diario_vuelta": ["19:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10383,14 +10383,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 13200, "Cama": 13700 },
+          "precios": { "Semicama": 13200, "Cama": 12000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:15hs"],
-            "domingos_ida": ["10:15hs"],
-            "diario_ida": ["10:15hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:20hs"],
             "domingos_vuelta": ["19:20hs"],
-            "diario_vuelta": ["19:20hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10405,12 +10405,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 15400, "Cama": 14800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:30hs"],
-            "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:10hs"],
             "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10423,14 +10423,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 16500, "Cama": 15700 },
+          "precios": { "Semicama": 16400, "Cama": 15700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:20hs"],
-            "domingos_ida": ["10:20hs"],
-            "diario_ida": ["10:20hs"],
-            "lunes_a_viernes_vuelta": ["18:50hs"],
-            "domingos_vuelta": ["18:50hs"],
-            "diario_vuelta": ["18:50hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10445,12 +10445,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 17400, "Cama": 16900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:25hs"],
-            "domingos_ida": ["10:25hs"],
-            "diario_ida": ["10:25hs"],
-            "lunes_a_viernes_vuelta": ["19:00hs"],
-            "domingos_vuelta": ["19:00hs"],
-            "diario_vuelta": ["19:00hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10465,12 +10465,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 18500, "Cama": 18000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:50hs"],
-            "domingos_ida": ["10:50hs"],
-            "diario_ida": ["10:50hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["10:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:40hs"],
             "domingos_vuelta": ["18:40hs"],
-            "diario_vuelta": ["18:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10483,14 +10483,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 19800, "Cama": 20500 },
+          "precios": { "Semicama": 18300, "Cama": 20500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:05hs"],
-            "domingos_ida": ["11:05hs"],
-            "diario_ida": ["11:05hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:25hs"],
             "domingos_vuelta": ["18:25hs"],
-            "diario_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10503,14 +10503,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 20500, "Cama": 22500 },
+          "precios": { "Semicama": 20200, "Cama": 22500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:30hs"],
-            "domingos_ida": ["11:30hs"],
-            "diario_ida": ["11:30hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:10hs"],
             "domingos_vuelta": ["18:10hs"],
-            "diario_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10525,12 +10525,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 22200, "Cama": 24500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:50hs"],
-            "domingos_ida": ["11:50hs"],
-            "diario_ida": ["11:50hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["17:45hs"],
             "domingos_vuelta": ["17:45hs"],
-            "diario_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10545,12 +10545,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 23500, "Cama": 26500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["12:45hs"],
-            "domingos_ida": ["12:45hs"],
-            "diario_ida": ["12:45hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
             "domingos_vuelta": ["16:55hs"],
-            "diario_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10565,12 +10565,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 35000, "Cama": 37000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:35hs"],
-            "domingos_ida": ["13:35hs"],
-            "diario_ida": ["13:35hs"],
-            "lunes_a_viernes_vuelta": ["15:50hs"],
-            "domingos_vuelta": ["15:50hs"],
-            "diario_vuelta": ["15:50hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10585,14 +10585,439 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 35000, "Cama": 37000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:45hs"],
-            "domingos_ida": ["13:45hs"],
-            "diario_ida": ["13:45hs"],
+            "lunes_a_viernes_ida": ["08:40hs"],
+            "domingos_ida": ["08:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
             "domingos_vuelta": ["15:40hs"],
-            "diario_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    }
+  ]
+},
+{
+  "origen": "Tres Sauces",
+  "destinos": [
+    {
+      "destino": "Parana",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 7300, "Cama": 8200 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["20:00hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["20:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:15hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "GNL Genolot",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 6300, "Cama": 7100 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["20:00hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["20:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:30hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Tres Bocas",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 6300, "Cama": 6300 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["20:00hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["20:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:40hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Quebacho",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 5100, "Cama": 5300 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["20:00hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["20:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:50hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Rambon",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 4100, "Cama": 4100 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["20:00hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["20:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:00hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Viale Acceso",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 3100, "Cama": 3100 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["20:00hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["20:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:15hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Rossier",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 2700, "Cama": 3100 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["20:00hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["20:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:25hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["09:25hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Barbagelatta",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 2700, "Cama": 3100 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:500hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["19:50hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Pineiro",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 3100, "Cama": 3700 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:40hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["19:40hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Fca de Palmas",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 5900, "Cama": 4800 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:30hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["19:30hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Baño Oficial",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 8500, "Cama": 7600 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:20hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["19:20hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Villaguay",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 10300, "Cama": 9900 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:10hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["19:10hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Travichet",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 11400, "Cama": 11000 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Camino de Ripio",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 12700, "Cama": 12100 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Villa Clara",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 13500, "Cama": 13200 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18400hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["18:40hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Jubileo Acceso",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 13300, "Cama": 15700 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:25hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "San Salvador",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 19100, "Cama": 23100 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:10hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "General Campos",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 17000, "Cama": 19900 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["17:45hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Concordia",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 19000, "Cama": 21900 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["16:55hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Acceso Federacion",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 27000, "Cama": 31700 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": []
+          }
+        }
+      ]
+    },
+    {
+      "destino": "Federacion",
+      "servicios": [
+        {
+          "tipo": "Semicama y Cama",
+          "precios": { "Semicama": 28000, "Cama": 31700 },
+          "horarios": {
+            "lunes_a_viernes_ida": ["09:37hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:37hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["15:40hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "diario": []
           }
         }
@@ -10612,10 +11037,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["20:45hs"],
             "domingos_ida": ["20:45hs"],
-            "diario_ida": ["20:45hs"],
-            "lunes_a_viernes_vuelta": ["08:50hs"],
-            "domingos_vuelta": ["08:50hs"],
-            "diario_vuelta": ["08:50hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:150hs"],
+            "domingos_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10632,10 +11057,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["20:45hs"],
             "domingos_ida": ["20:45hs"],
-            "diario_ida": ["20:45hs"],
-            "lunes_a_viernes_vuelta": ["08:50hs"],
-            "domingos_vuelta": ["08:50hs"],
-            "diario_vuelta": ["08:50hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:30hs"],
+            "domingos_vuelta": ["08:300hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10652,10 +11077,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["20:45hs"],
             "domingos_ida": ["20:45hs"],
-            "diario_ida": ["20:45hs"],
-            "lunes_a_viernes_vuelta": ["08:50hs"],
-            "domingos_vuelta": ["08:50hs"],
-            "diario_vuelta": ["08:50hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:40hs"],
+            "domingos_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -10671,10 +11096,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["20:40hs"],
+          "domingos_vuelta": ["20:40hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10688,10 +11113,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["20:20hs"],
+          "domingos_vuelta": ["20:20hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10705,10 +11130,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["20:10hs"],
+          "domingos_vuelta": ["20:10hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10722,10 +11147,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["20:00hs"],
+          "domingos_vuelta": ["20:00hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10739,10 +11164,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["19:50hs"],
+          "domingos_vuelta": ["19:50hs"],
+          "diario_vuelta": [""],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10756,10 +11181,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["19:40hs"],
+          "domingos_vuelta": ["19:40hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10773,10 +11198,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["19:30hs"],
+          "domingos_vuelta": ["19:30hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10790,10 +11215,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["19:20hs"],
           "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10807,10 +11232,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["19:10hs"],
+          "domingos_vuelta": ["19:10hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10824,10 +11249,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": [],
+          "domingos_vuelta": [],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10841,10 +11266,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": [],
+          "domingos_vuelta": [],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10858,10 +11283,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["18:40hs"],
+          "domingos_vuelta": ["18:40hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10875,10 +11300,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["18:25hs"],
+          "domingos_vuelta": ["18:25hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10892,10 +11317,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["18:10hs"],
+          "domingos_vuelta": ["18:10hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10909,10 +11334,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["17:45hs"],
+          "domingos_vuelta": ["17:45hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10926,10 +11351,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["16:55hs"],
+          "domingos_vuelta": ["16:55hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10943,10 +11368,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": [],
+          "domingos_vuelta": [],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10960,10 +11385,10 @@
         "horarios": {
           "lunes_a_viernes_ida": ["08:50hs"],
           "domingos_ida": ["08:50hs"],
-          "diario_ida": ["08:50hs"],
-          "lunes_a_viernes_vuelta": ["20:45hs"],
-          "domingos_vuelta": ["20:45hs"],
-          "diario_vuelta": ["20:45hs"],
+          "diario_ida": [],
+          "lunes_a_viernes_vuelta": ["15:40hs"],
+          "domingos_vuelta": ["15:40hs"],
+          "diario_vuelta": [],
           "sabados_domingos_ida": [],
           "sabados_domingos_vuelta": [],
           "diario": []
@@ -10982,12 +11407,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4400, "Cama": 4900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:25hs"],
-            "domingos_ida": ["21:25hs"],
-            "diario_ida": ["21:25hs"],
+            "lunes_a_viernes_ida": ["20:40hs"],
+            "domingos_ida": ["20:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "diario_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11002,12 +11427,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3800, "Cama": 3800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:05hs"],
-            "domingos_ida": ["21:05hs"],
-            "diario_ida": ["21:05hs"],
+            "lunes_a_viernes_ida": ["20:40hs"],
+            "domingos_ida": ["20:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:30hs"],
             "domingos_vuelta": ["08:30hs"],
-            "diario_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11022,12 +11447,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2900, "Cama": 3300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:55hs"],
-            "domingos_ida": ["20:55hs"],
-            "diario_ida": ["20:55hs"],
+            "lunes_a_viernes_ida": ["20:40hs"],
+            "domingos_ida": ["20:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:40hs"],
             "domingos_vuelta": ["08:40hs"],
-            "diario_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11042,12 +11467,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:45hs"],
-            "domingos_ida": ["20:45hs"],
-            "diario_ida": ["20:45hs"],
+            "lunes_a_viernes_ida": ["20:50hs"],
+            "domingos_ida": ["20:50hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:50hs"],
             "domingos_vuelta": ["08:50hs"],
-            "diario_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11062,12 +11487,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3300, "Cama": 3300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:20hs"],
-            "domingos_ida": ["20:20hs"],
-            "diario_ida": ["20:20hs"],
-            "lunes_a_viernes_vuelta": ["09:15hs"],
-            "domingos_vuelta": ["09:15hs"],
-            "diario_vuelta": ["09:15hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["20:20hs"],
+            "domingos_vuelta": ["20:20hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11082,12 +11507,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2900, "Cama": 3200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:10hs"],
-            "domingos_ida": ["20:10hs"],
-            "diario_ida": ["20:10hs"],
-            "lunes_a_viernes_vuelta": ["09:25hs"],
-            "domingos_vuelta": ["09:25hs"],
-            "diario_vuelta": ["09:25hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["  09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["20:10hs"],
+            "domingos_vuelta": ["20:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11102,12 +11527,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4100, "Cama": 4100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:00hs"],
-            "domingos_ida": ["20:00hs"],
-            "diario_ida": ["20:00hs"],
-            "lunes_a_viernes_vuelta": ["09:37hs"],
-            "domingos_vuelta": ["09:37hs"],
-            "diario_vuelta": ["09:37hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["20:00hs"],
+            "domingos_vuelta": ["20:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11122,12 +11547,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5200, "Cama": 5200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:50hs"],
-            "domingos_ida": ["19:50hs"],
-            "diario_ida": ["19:50hs"],
-            "lunes_a_viernes_vuelta": ["09:45hs"],
-            "domingos_vuelta": ["09:45hs"],
-            "diario_vuelta": ["09:45hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:50hs"],
+            "domingos_vuelta": ["19:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11142,12 +11567,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7100, "Cama": 5600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:40hs"],
-            "domingos_ida": ["19:40hs"],
-            "diario_ida": ["19:40hs"],
-            "lunes_a_viernes_vuelta": ["09:55hs"],
-            "domingos_vuelta": ["09:55hs"],
-            "diario_vuelta": ["09:55hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [""],
+            "lunes_a_viernes_vuelta": ["19:40hs"],
+            "domingos_vuelta": ["19:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11162,12 +11587,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 8800, "Cama": 7600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:30hs"],
-            "domingos_ida": ["19:30hs"],
-            "diario_ida": ["19:30hs"],
-            "lunes_a_viernes_vuelta": ["10:06hs"],
-            "domingos_vuelta": ["10:06hs"],
-            "diario_vuelta": ["10:06hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:30hs"],
+            "domingos_vuelta": ["19:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11182,12 +11607,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 11100, "Cama": 9300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:20hs"],
-            "domingos_ida": ["19:20hs"],
-            "diario_ida": ["19:20hs"],
-            "lunes_a_viernes_vuelta": ["10:15hs"],
-            "domingos_vuelta": ["10:15hs"],
-            "diario_vuelta": ["10:15hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:20hs"],
+            "domingos_vuelta": ["19:20hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11202,12 +11627,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 13200, "Cama": 11100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:10hs"],
-            "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:10hs"],
+            "domingos_vuelta": ["19:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11222,12 +11647,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 14200, "Cama": 12100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:50hs"],
-            "domingos_ida": ["18:50hs"],
-            "diario_ida": ["18:50hs"],
-            "lunes_a_viernes_vuelta": ["10:37hs"],
-            "domingos_vuelta": ["10:37hs"],
-            "diario_vuelta": ["10:37hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["08:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11242,12 +11667,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 15200, "Cama": 13300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:00hs"],
-            "domingos_ida": ["19:00hs"],
-            "diario_ida": ["19:00hs"],
-            "lunes_a_viernes_vuelta": ["10:25hs"],
-            "domingos_vuelta": ["10:25hs"],
-            "diario_vuelta": ["10:25hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11262,12 +11687,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16300, "Cama": 14400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:40hs"],
-            "domingos_ida": ["18:40hs"],
-            "diario_ida": ["18:40hs"],
-            "lunes_a_viernes_vuelta": ["10:50hs"],
-            "domingos_vuelta": ["10:50hs"],
-            "diario_vuelta": ["10:50hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:40hs"],
+            "domingos_vuelta": ["18:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11282,12 +11707,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16900, "Cama": 16900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:25hs"],
-            "domingos_ida": ["18:25hs"],
-            "diario_ida": ["18:25hs"],
-            "lunes_a_viernes_vuelta": ["11:05hs"],
-            "domingos_vuelta": ["11:05hs"],
-            "diario_vuelta": ["11:05hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:25hs"],
+            "domingos_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11302,12 +11727,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 18100, "Cama": 19000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:10hs"],
-            "domingos_ida": ["18:10hs"],
-            "diario_ida": ["18:10hs"],
-            "lunes_a_viernes_vuelta": ["11:30hs"],
-            "domingos_vuelta": ["11:30hs"],
-            "diario_vuelta": ["11:30hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:10hs"],
+            "domingos_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11322,12 +11747,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 20100, "Cama": 21400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["17:45hs"],
-            "domingos_ida": ["17:45hs"],
-            "diario_ida": ["17:45hs"],
-            "lunes_a_viernes_vuelta": ["11:50hs"],
-            "domingos_vuelta": ["11:50hs"],
-            "diario_vuelta": ["11:50hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["00:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["17:45hs"],
+            "domingos_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11342,12 +11767,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 23100, "Cama": 23400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["16:55hs"],
-            "domingos_ida": ["16:55hs"],
-            "diario_ida": ["16:55hs"],
-            "lunes_a_viernes_vuelta": ["12:45hs"],
-            "domingos_vuelta": ["12:45hs"],
-            "diario_vuelta": ["12:45hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["16:55hs"],
+            "domingos_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11362,12 +11787,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 31000, "Cama": 27400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["15:50hs"],
-            "domingos_ida": ["15:50hs"],
-            "diario_ida": ["15:50hs"],
-            "lunes_a_viernes_vuelta": ["13:35hs"],
-            "domingos_vuelta": ["13:35hs"],
-            "diario_vuelta": ["13:35hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11382,12 +11807,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 31000, "Cama": 34700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["15:40hs"],
-            "domingos_ida": ["15:40hs"],
-            "diario_ida": ["15:40hs"],
-            "lunes_a_viernes_vuelta": ["13:45hs"],
-            "domingos_vuelta": ["13:45hs"],
-            "diario_vuelta": ["13:45hs"],
+            "lunes_a_viernes_ida": ["09:00hs"],
+            "domingos_ida": ["09:00hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["15:40hs"],
+            "domingos_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11407,12 +11832,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6400, "Cama": 7200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:25hs"],
-            "domingos_ida": ["21:25hs"],
-            "diario_ida": ["21:25hs"],
+            "lunes_a_viernes_ida": ["20:20hs"],
+            "domingos_ida": ["20:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "diario_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11427,12 +11852,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4400, "Cama": 4900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:05hs"],
-            "domingos_ida": ["21:05hs"],
-            "diario_ida": ["21:05hs"],
+            "lunes_a_viernes_ida": ["20:20hs"],
+            "domingos_ida": ["20:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:30hs"],
             "domingos_vuelta": ["08:30hs"],
-            "diario_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11447,12 +11872,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3200, "Cama": 3300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:55hs"],
-            "domingos_ida": ["20:55hs"],
-            "diario_ida": ["20:55hs"],
+            "lunes_a_viernes_ida": ["20:20hs"],
+            "domingos_ida": ["20:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:40hs"],
             "domingos_vuelta": ["08:40hs"],
-            "diario_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11467,12 +11892,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2900, "Cama": 3400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:45hs"],
-            "domingos_ida": ["20:45hs"],
-            "diario_ida": ["20:45hs"],
+            "lunes_a_viernes_ida": ["20:20hs"],
+            "domingos_ida": ["20:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:50hs"],
             "domingos_vuelta": ["08:50hs"],
-            "diario_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11487,12 +11912,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:40hs"],
-            "domingos_ida": ["20:40hs"],
-            "diario_ida": ["20:40hs"],
+            "lunes_a_viernes_ida": ["20:20hs"],
+            "domingos_ida": ["20:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:00hs"],
             "domingos_vuelta": ["09:00hs"],
-            "diario_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11507,12 +11932,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:10hs"],
-            "domingos_ida": ["20:10hs"],
-            "diario_ida": ["20:10hs"],
-            "lunes_a_viernes_vuelta": ["09:25hs"],
-            "domingos_vuelta": ["09:25hs"],
-            "diario_vuelta": ["09:25hs"],
+            "lunes_a_viernes_ida": ["09:15hs"],
+            "domingos_ida": ["09:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["20:10hs"],
+            "domingos_vuelta": ["20:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11527,12 +11952,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3100, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:00hs"],
-            "domingos_ida": ["20:00hs"],
-            "diario_ida": ["20:00hs"],
-            "lunes_a_viernes_vuelta": ["09:37hs"],
-            "domingos_vuelta": ["09:37hs"],
-            "diario_vuelta": ["09:37hs"],
+            "lunes_a_viernes_ida": ["09:15hs"],
+            "domingos_ida": ["09:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["20:00hs"],
+            "domingos_vuelta": ["20:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11547,12 +11972,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4600, "Cama": 3700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:50hs"],
-            "domingos_ida": ["19:50hs"],
-            "diario_ida": ["19:50hs"],
-            "lunes_a_viernes_vuelta": ["09:45hs"],
-            "domingos_vuelta": ["09:45hs"],
-            "diario_vuelta": ["09:45hs"],
+            "lunes_a_viernes_ida": ["09:15hs"],
+            "domingos_ida": ["09:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:50hs"],
+            "domingos_vuelta": ["19:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11567,12 +11992,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6100, "Cama": 4600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:40hs"],
-            "domingos_ida": ["19:40hs"],
-            "diario_ida": ["19:40hs"],
-            "lunes_a_viernes_vuelta": ["09:55hs"],
-            "domingos_vuelta": ["09:55hs"],
-            "diario_vuelta": ["09:55hs"],
+            "lunes_a_viernes_ida": ["09:15hs"],
+            "domingos_ida": ["09:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:40hs"],
+            "domingos_vuelta": ["19:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11587,12 +12012,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7800, "Cama": 6800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:30hs"],
-            "domingos_ida": ["19:30hs"],
-            "diario_ida": ["19:30hs"],
-            "lunes_a_viernes_vuelta": ["10:06hs"],
-            "domingos_vuelta": ["10:06hs"],
-            "diario_vuelta": ["10:06hs"],
+            "lunes_a_viernes_ida": ["19:15hs"],
+            "domingos_ida": ["19:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:30hs"],
+            "domingos_vuelta": ["19:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11605,14 +12030,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 10300, "Cama": 9600 },
+          "precios": { "Semicama": 10300, "Cama": 9700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:20hs"],
-            "domingos_ida": ["19:20hs"],
-            "diario_ida": ["19:20hs"],
-            "lunes_a_viernes_vuelta": ["10:15hs"],
-            "domingos_vuelta": ["10:15hs"],
-            "diario_vuelta": ["10:15hs"],
+            "lunes_a_viernes_ida": ["19:15hs"],
+            "domingos_ida": ["19:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:20hs"],
+            "domingos_vuelta": ["19:20hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11627,12 +12052,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 12400, "Cama": 11900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:10hs"],
-            "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "lunes_a_viernes_ida": ["19:15hs"],
+            "domingos_ida": ["19:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["19:10hs"],
+            "domingos_vuelta": ["19:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11647,12 +12072,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 13500, "Cama": 13000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:50hs"],
-            "domingos_ida": ["18:50hs"],
-            "diario_ida": ["18:50hs"],
-            "lunes_a_viernes_vuelta": ["10:37hs"],
-            "domingos_vuelta": ["10:37hs"],
-            "diario_vuelta": ["10:37hs"],
+            "lunes_a_viernes_ida": ["19:15hs"],
+            "domingos_ida": ["19:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11667,12 +12092,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 14900, "Cama": 14100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:00hs"],
-            "domingos_ida": ["19:00hs"],
-            "diario_ida": ["19:00hs"],
-            "lunes_a_viernes_vuelta": ["10:25hs"],
-            "domingos_vuelta": ["10:25hs"],
-            "diario_vuelta": ["10:25hs"],
+            "lunes_a_viernes_ida": ["19:15hs"],
+            "domingos_ida": ["19:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11687,12 +12112,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 15600, "Cama": 15300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:40hs"],
-            "domingos_ida": ["18:40hs"],
-            "diario_ida": ["18:40hs"],
-            "lunes_a_viernes_vuelta": ["10:50hs"],
-            "domingos_vuelta": ["10:50hs"],
-            "diario_vuelta": ["10:50hs"],
+            "lunes_a_viernes_ida": ["09:15hs"],
+            "domingos_ida": ["09:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:40hs"],
+            "domingos_vuelta": ["18:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11707,12 +12132,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 15400, "Cama": 17800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:25hs"],
-            "domingos_ida": ["18:25hs"],
-            "diario_ida": ["18:25hs"],
-            "lunes_a_viernes_vuelta": ["11:05hs"],
-            "domingos_vuelta": ["11:05hs"],
-            "diario_vuelta": ["11:05hs"],
+            "lunes_a_viernes_ida": ["19:15hs"],
+            "domingos_ida": ["19:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:25hs"],
+            "domingos_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11727,12 +12152,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 19400, "Cama": 19900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:10hs"],
-            "domingos_ida": ["18:10hs"],
-            "diario_ida": ["18:10hs"],
-            "lunes_a_viernes_vuelta": ["11:30hs"],
-            "domingos_vuelta": ["11:30hs"],
-            "diario_vuelta": ["11:30hs"],
+            "lunes_a_viernes_ida": ["09:15hs"],
+            "domingos_ida": ["09:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:10hs"],
+            "domingos_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11747,12 +12172,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 19100, "Cama": 21900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["17:45hs"],
-            "domingos_ida": ["17:45hs"],
-            "diario_ida": ["17:45hs"],
-            "lunes_a_viernes_vuelta": ["11:50hs"],
-            "domingos_vuelta": ["11:50hs"],
-            "diario_vuelta": ["11:50hs"],
+            "lunes_a_viernes_ida": ["09:15hs"],
+            "domingos_ida": ["09:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["17:45hs"],
+            "domingos_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11767,12 +12192,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 21100, "Cama": 23900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["16:55hs"],
-            "domingos_ida": ["16:55hs"],
-            "diario_ida": ["16:55hs"],
-            "lunes_a_viernes_vuelta": ["12:45hs"],
-            "domingos_vuelta": ["12:45hs"],
-            "diario_vuelta": ["12:45hs"],
+            "lunes_a_viernes_ida": ["09:15hs"],
+            "domingos_ida": ["09:15hs"], 
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["16:55hs"],
+            "domingos_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11787,12 +12212,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 30100, "Cama": 33700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["15:50hs"],
-            "domingos_ida": ["15:50hs"],
-            "diario_ida": ["15:50hs"],
-            "lunes_a_viernes_vuelta": ["13:35hs"],
-            "domingos_vuelta": ["13:35hs"],
-            "diario_vuelta": ["13:35hs"],
+            "lunes_a_viernes_ida": ["09:15hs"],
+            "domingos_ida": ["09:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11807,12 +12232,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 30100, "Cama": 33700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["15:40hs"],
-            "domingos_ida": ["15:40hs"],
-            "diario_ida": ["15:40hs"],
-            "lunes_a_viernes_vuelta": ["13:45hs"],
-            "domingos_vuelta": ["13:45hs"],
-            "diario_vuelta": ["13:45hs"],
+            "lunes_a_viernes_ida": ["09:15hs"],
+            "domingos_ida": ["09:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["15:40hs"],
+            "domingos_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -11832,9 +12257,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6400, "Cama": 7200 },
           "horarios": {
-            "lunes_a_viernes_vuelta": ["21:25hs"],
-            "domingos_vuelta": ["21:25hs"],
-            "diario_vuelta": ["21:25hs"]
+            "lunes_a_viernes_ida": ["20:10hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["20:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:15hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -11846,9 +12277,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5400, "Cama": 6000 },
           "horarios": {
-            "lunes_a_viernes_vuelta": ["21:05hs"],
-            "domingos_vuelta": ["21:05hs"],
-            "diario_vuelta": ["21:05hs"]
+            "lunes_a_viernes_ida": ["20:10hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["20:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:30hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -11860,9 +12297,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3500, "Cama": 3900 },
           "horarios": {
-            "lunes_a_viernes_vuelta": ["20:55hs"],
-            "domingos_vuelta": ["20:55hs"],
-            "diario_vuelta": ["20:55hs"]
+            "lunes_a_viernes_ida": ["20:10hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["20:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:40hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -11874,9 +12317,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3900, "Cama": 4500 },
           "horarios": {
-            "lunes_a_viernes_vuelta": ["20:45hs"],
-            "domingos_vuelta": ["20:45hs"],
-            "diario_vuelta": ["20:45hs"]
+            "lunes_a_viernes_ida": ["20:10hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["  20:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:50hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["05:50hs"],
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -11888,9 +12337,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2900, "Cama": 3200 },
           "horarios": {
-            "lunes_a_viernes_vuelta": ["20:40hs"],
-            "domingos_vuelta": ["20:40hs"],
-            "diario_vuelta": ["20:40hs"]
+            "lunes_a_viernes_ida": ["20:10hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["20:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:00hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -11902,9 +12357,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_vuelta": ["20:20hs"],
-            "domingos_vuelta": ["20:20hs"],
-            "diario_vuelta": ["20:20hs"]
+            "lunes_a_viernes_ida": ["20:10hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["20:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:15hs"],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -11916,12 +12377,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["20:00hs"],
+            "sabados_domingos_vuelta": [],
             "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -11933,12 +12397,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3100, "Cama": 3500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:45hs"],
-            "domingos_ida": ["09:45hs"],
-            "diario_ida": ["09:45hs"],
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:50hs"],
+            "sabados_domingos_vuelta": [],
             "domingos_vuelta": ["19:50hs"],
-            "diario_vuelta": ["19:50hs"]
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -11950,12 +12417,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5100, "Cama": 5600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:55hs"],
-            "domingos_ida": ["09:55hs"],
-            "diario_ida": ["09:55hs"],
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:40hs"],
+            "sabados_domingos_vuelta": [],
             "domingos_vuelta": ["19:40hs"],
-            "diario_vuelta": ["19:40hs"]
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -11967,12 +12437,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6800, "Cama": 7800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:06hs"],
-            "domingos_ida": ["10:06hs"],
-            "diario_ida": ["10:06hs"],
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:30hs"],
+            "sabados_domingos_vuelta": [],
             "domingos_vuelta": ["19:30hs"],
-            "diario_vuelta": ["19:30hs"]
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -11984,12 +12457,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9300, "Cama": 9600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:15hs"],
-            "domingos_ida": ["10:15hs"],
-            "diario_ida": ["10:15hs"],
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:20hs"],
+            "sabados_domingos_vuelta": [],
             "domingos_vuelta": ["19:20hs"],
-            "diario_vuelta": ["19:20hs"]
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -12001,12 +12477,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 11400, "Cama": 10800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:30hs"],
-            "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:10hs"],
+            "sabados_domingos_vuelta": [],
             "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"]
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -12018,12 +12497,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 12400, "Cama": 11900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:20hs"],
-            "domingos_ida": ["10:20hs"],
-            "diario_ida": ["10:20hs"],
-            "lunes_a_viernes_vuelta": ["18:50hs"],
-            "domingos_vuelta": ["18:50hs"],
-            "diario_vuelta": ["18:50hs"]
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -12035,12 +12517,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 13400, "Cama": 13000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:25hs"],
-            "domingos_ida": ["10:25hs"],
-            "diario_ida": ["10:25hs"],
-            "lunes_a_viernes_vuelta": ["19:00hs"],
-            "domingos_vuelta": ["19:00hs"],
-            "diario_vuelta": ["19:00hs"]
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -12052,12 +12537,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 14500, "Cama": 14100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:50hs"],
-            "domingos_ida": ["10:50hs"],
-            "diario_ida": ["10:50hs"],
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:40hs"],
+            "sabados_domingos_vuelta": [],
             "domingos_vuelta": ["18:40hs"],
-            "diario_vuelta": ["18:40hs"]
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -12069,12 +12557,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 14300, "Cama": 16600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:05hs"],
-            "domingos_ida": ["11:05hs"],
-            "diario_ida": ["11:05hs"],
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:25hs"],
+            "sabados_domingos_vuelta": [],
             "domingos_vuelta": ["18:25hs"],
-            "diario_vuelta": ["18:25hs"]
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -12086,12 +12577,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16100, "Cama": 18800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:30hs"],
-            "domingos_ida": ["11:30hs"],
-            "diario_ida": ["11:30hs"],
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:10hs"],
+            "sabados_domingos_vuelta": [],
             "domingos_vuelta": ["18:10hs"],
-            "diario_vuelta": ["18:10hs"]
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -12103,12 +12597,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 18000, "Cama": 20800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:50hs"],
-            "domingos_ida": ["11:50hs"],
-            "diario_ida": ["11:50hs"],
+            "lunes_a_viernes_ida": ["9:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["9:25hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["17:45hs"],
+            "sabados_domingos_vuelta": [],
             "domingos_vuelta": ["17:45hs"],
-            "diario_vuelta": ["17:45hs"]
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -12120,12 +12617,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 20000, "Cama": 22800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["12:45hs"],
-            "domingos_ida": ["12:45hs"],
-            "diario_ida": ["12:45hs"],
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
+            "sabados_domingos_vuelta": [],
             "domingos_vuelta": ["16:55hs"],
-            "diario_vuelta": ["16:55hs"]
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -12137,12 +12637,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 26100, "Cama": 30600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:35hs"],
-            "domingos_ida": ["13:35hs"],
-            "diario_ida": ["13:35hs"],
-            "lunes_a_viernes_vuelta": ["15:50hs"],
-            "domingos_vuelta": ["15:50hs"],
-            "diario_vuelta": ["15:50hs"]
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "sabados_domingos_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -12154,374 +12657,15 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 29000, "Cama": 32600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:45hs"],
-            "domingos_ida": ["13:45hs"],
-            "diario_ida": ["13:45hs"],
+            "lunes_a_viernes_ida": ["09:25hs"],
+            "sabados_domingos_ida": [],
+            "domingos_ida": ["09:25hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
+            "sabados_domingos_vuelta": [],
             "domingos_vuelta": ["15:40hs"],
-            "diario_vuelta": ["15:40hs"]
-          }
-        }
-      ]
-    }
-  ]
-},
-{
-  "origen": "Tres Sauces",
-  "destinos": [
-    {
-      "destino": "Parana",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 7300, "Cama": 8200 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "GNL Genolot",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6300, "Cama": 7100 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Tres Bocas",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6300, "Cama": 6300 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Quebacho",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 5100, "Cama": 5300 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Rambon",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 4100, "Cama": 4100 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Viale Acceso",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 3100, "Cama": 3100 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Rossier",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2700, "Cama": 3100 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Barbagelatta",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2700, "Cama": 3100 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Pineiro",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 3100, "Cama": 3700 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Fca de Palmas",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 5900, "Cama": 4800 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Baño Oficial",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 8500, "Cama": 7600 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Villaguay",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 10300, "Cama": 9900 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Travichet",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 11400, "Cama": 11000 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Camino de Ripio",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 12700, "Cama": 12100 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Villa Clara",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 13500, "Cama": 13200 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Jubileo Acceso",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 13300, "Cama": 15700 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "San Salvador",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 19100, "Cama": 23100 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "General Campos",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 17000, "Cama": 19900 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Concordia",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 19000, "Cama": 21900 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Acceso Federacion",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 27000, "Cama": 31700 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
-          }
-        }
-      ]
-    },
-    {
-      "destino": "Federacion",
-      "servicios": [
-        {
-          "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 28000, "Cama": 31700 },
-          "horarios": {
-            "lunes_a_viernes_ida": ["09:37hs"],
-            "domingos_ida": ["09:37hs"],
-            "diario_ida": ["09:37hs"],
-            "lunes_a_viernes_vuelta": ["20:00hs"],
-            "domingos_vuelta": ["20:00hs"],
-            "diario_vuelta": ["20:00hs"]
+            "diario_vuelta": [],
+            "diario": []
           }
         }
       ]
@@ -12536,14 +12680,14 @@
   "servicios": [
     {
       "tipo": "Semicama y Cama",
-      "precios": { "Semicama": 8500, "Cama": 9700 },
+      "precios": { "Semicama": 8500, "Cama": 9500 },
       "horarios": {
-        "lunes_a_viernes_ida": ["21:25hs"],
-        "domingos_ida": ["21:25hs"],
-        "diario_ida": ["21:25hs"],
-        "lunes_a_viernes_vuelta": ["21:25hs"],
-        "domingos_vuelta": ["21:25hs"],
-        "diario_vuelta": ["21:25hs"],
+        "lunes_a_viernes_ida": ["19:50hs"],
+        "domingos_ida": ["19:50hs"],
+        "diario_ida": [],
+        "lunes_a_viernes_vuelta": ["08:15hs"],
+        "domingos_vuelta": ["08:15hs"],
+        "diario_vuelta": [],
         "sabados_domingos_ida": [],
         "sabados_domingos_vuelta": [],
         "diario": []
@@ -12556,14 +12700,14 @@
   "servicios": [
     {
       "tipo": "Semicama y Cama",
-      "precios": { "Semicama": 7500, "Cama": 8700 },
+      "precios": { "Semicama": 7500, "Cama": 8400 },
       "horarios": {
-        "lunes_a_viernes_ida": ["21:05hs"],
-        "domingos_ida": ["21:05hs"],
-        "diario_ida": ["21:05hs"],
-        "lunes_a_viernes_vuelta": ["21:05hs"],
-        "domingos_vuelta": ["21:05hs"],
-        "diario_vuelta": ["21:05hs"],
+        "lunes_a_viernes_ida": ["19:50hs"],
+        "domingos_ida": ["19:50hs"],
+        "diario_ida": [],
+        "lunes_a_viernes_vuelta": ["08:30hs"],
+        "domingos_vuelta": ["08:30hs"],
+        "diario_vuelta": [],
         "sabados_domingos_ida": [],
         "sabados_domingos_vuelta": [],
         "diario": []
@@ -12576,14 +12720,14 @@
   "servicios": [
     {
       "tipo": "Semicama y Cama",
-      "precios": { "Semicama": 6700, "Cama": 7600 },
+      "precios": { "Semicama": 7500, "Cama": 6700 },
       "horarios": {
-        "lunes_a_viernes_ida": ["20:55hs"],
-        "domingos_ida": ["20:55hs"],
-        "diario_ida": ["20:55hs"],
-        "lunes_a_viernes_vuelta": ["20:55hs"],
-        "domingos_vuelta": ["20:55hs"],
-        "diario_vuelta": ["20:55hs"],
+        "lunes_a_viernes_ida": ["19:50hs"],
+        "domingos_ida": ["19:50hs"],
+        "diario_ida": [],
+        "lunes_a_viernes_vuelta": ["08:40hs"],
+        "domingos_vuelta": ["08:40hs"],
+        "diario_vuelta": [],
         "sabados_domingos_ida": [],
         "sabados_domingos_vuelta": [],
         "diario": []
@@ -12596,14 +12740,14 @@
   "servicios": [
     {
       "tipo": "Semicama y Cama",
-      "precios": { "Semicama": 6500, "Cama": 7400 },
+      "precios": { "Semicama": 6500, "Cama": 6500},
       "horarios": {
-        "lunes_a_viernes_ida": ["20:45hs"],
-        "domingos_ida": ["20:45hs"],
-        "diario_ida": ["20:45hs"],
-        "lunes_a_viernes_vuelta": ["20:45hs"],
-        "domingos_vuelta": ["20:45hs"],
-        "diario_vuelta": ["20:45hs"],
+        "lunes_a_viernes_ida": ["19:50hs"],
+        "domingos_ida": ["19:50hs"],
+        "diario_ida": [],
+        "lunes_a_viernes_vuelta": ["08:50hs"],
+        "domingos_vuelta": ["08:50hs"],
+        "diario_vuelta": [],
         "sabados_domingos_ida": [],
         "sabados_domingos_vuelta": [],
         "diario": []
@@ -12616,14 +12760,14 @@
   "servicios": [
     {
       "tipo": "Semicama y Cama",
-      "precios": { "Semicama": 4600, "Cama": 5300 },
+      "precios": { "Semicama": 5600, "Cama": 4600 },
       "horarios": {
-        "lunes_a_viernes_ida": ["20:40hs"],
-        "domingos_ida": ["20:40hs"],
-        "diario_ida": ["20:40hs"],
-        "lunes_a_viernes_vuelta": ["20:40hs"],
-        "domingos_vuelta": ["20:40hs"],
-        "diario_vuelta": ["20:40hs"],
+        "lunes_a_viernes_ida": ["19:50hs"],
+        "domingos_ida": ["19:50hs"],
+        "diario_ida": [],
+        "lunes_a_viernes_vuelta": ["09:00hs"],
+        "domingos_vuelta": ["09:00hs"],
+        "diario_vuelta": [],
         "sabados_domingos_ida": [],
         "sabados_domingos_vuelta": [],
         "diario": []
@@ -12636,14 +12780,14 @@
   "servicios": [
     {
       "tipo": "Semicama y Cama",
-      "precios": { "Semicama": 4600, "Cama": 5300 },
+      "precios": { "Semicama": 4600, "Cama": 3100 },
       "horarios": {
-        "lunes_a_viernes_ida": ["20:20hs"],
-        "domingos_ida": ["20:20hs"],
-        "diario_ida": ["20:20hs"],
-        "lunes_a_viernes_vuelta": ["20:20hs"],
-        "domingos_vuelta": ["20:20hs"],
-        "diario_vuelta": ["20:20hs"],
+        "lunes_a_viernes_ida": ["19:50hs"],
+        "domingos_ida": ["19:50hs"],
+        "diario_ida": [],
+        "lunes_a_viernes_vuelta": ["09:15hs"],
+        "domingos_vuelta": ["09:15hs"],
+        "diario_vuelta": [],
         "sabados_domingos_ida": [],
         "sabados_domingos_vuelta": [],
         "diario": []
@@ -12656,14 +12800,14 @@
   "servicios": [
     {
       "tipo": "Semicama y Cama",
-      "precios": { "Semicama": 3600, "Cama": 4300 },
+      "precios": { "Semicama": 3600, "Cama": 3100 },
       "horarios": {
-        "lunes_a_viernes_ida": ["20:10hs"],
-        "domingos_ida": ["20:10hs"],
+        "lunes_a_viernes_ida": ["19:50hs"],
+        "domingos_ida": ["19:50hs"],
         "diario_ida": ["20:10hs"],
-        "lunes_a_viernes_vuelta": ["20:10hs"],
-        "domingos_vuelta": ["20:10hs"],
-        "diario_vuelta": ["20:10hs"],
+        "lunes_a_viernes_vuelta": ["09:25hs"],
+        "domingos_vuelta": ["09:25hs"],
+        "diario_vuelta": [],
         "sabados_domingos_ida": [],
         "sabados_domingos_vuelta": [],
         "diario": []
@@ -12678,12 +12822,12 @@
       "tipo": "Semicama y Cama",
       "precios": { "Semicama": 2700, "Cama": 3100 },
       "horarios": {
-        "lunes_a_viernes_ida": ["20:00hs"],
-        "domingos_ida": ["20:00hs"],
-        "diario_ida": ["20:00hs"],
-        "lunes_a_viernes_vuelta": ["20:00hs"],
-        "domingos_vuelta": ["20:00hs"], 
-        "diario_vuelta": ["20:00hs"],
+        "lunes_a_viernes_ida": ["19:50hs"],
+        "domingos_ida": ["19:50hs"],
+        "diario_ida": [],
+        "lunes_a_viernes_vuelta": ["09:37hs"],
+        "domingos_vuelta": ["09:37hs"], 
+        "diario_vuelta": [],
         "sabados_domingos_ida": [],
         "sabados_domingos_vuelta": [],
         "diario": []
@@ -12698,12 +12842,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:55hs"],
-            "domingos_ida": ["09:55hs"],
-            "diario_ida": ["09:55hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:40hs"],
             "domingos_vuelta": ["19:40hs"],
-            "diario_vuelta": ["19:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12716,14 +12860,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 4200, "Cama": 4900 },
+          "precios": { "Semicama": 4200, "Cama": 3400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:06hs"],
-            "domingos_ida": ["10:06hs"],
-            "diario_ida": ["10:06hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:30hs"],
             "domingos_vuelta": ["19:30hs"],
-            "diario_vuelta": ["19:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12736,14 +12880,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 5800, "Cama": 6700 },
+          "precios": { "Semicama": 5900, "Cama": 5900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:15hs"],
-            "domingos_ida": ["10:15hs"],
-            "diario_ida": ["10:15hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:20hs"],
             "domingos_vuelta": ["19:20hs"],
-            "diario_vuelta": ["19:20hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12756,14 +12900,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 8400, "Cama": 9600 },
+          "precios": { "Semicama": 8400, "Cama": 9300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:30hs"],
-            "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:10hs"],
             "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12776,14 +12920,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 9500, "Cama": 10700 },
+          "precios": { "Semicama": 9500, "Cama": 10400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:20hs"],
-            "domingos_ida": ["10:20hs"],
-            "diario_ida": ["10:20hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:50hs"],
             "domingos_vuelta": ["18:50hs"],
-            "diario_vuelta": ["18:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12796,14 +12940,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 10900, "Cama": 11500 },
+          "precios": { "Semicama": 10500, "Cama": 11500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:25hs"],
-            "domingos_ida": ["10:25hs"],
-            "diario_ida": ["10:25hs"],
-            "lunes_a_viernes_vuelta": ["19:00hs"],
-            "domingos_vuelta": ["19:00hs"],
-            "diario_vuelta": ["19:00hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12816,14 +12960,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 11600, "Cama": 12800 },
+          "precios": { "Semicama": 11600, "Cama": 12700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:50hs"],
-            "domingos_ida": ["10:50hs"],
-            "diario_ida": ["10:50hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:40hs"],
             "domingos_vuelta": ["18:40hs"],
-            "diario_vuelta": ["18:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12836,14 +12980,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 10800, "Cama": 12500 },
+          "precios": { "Semicama": 10800, "Cama": 15200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:05hs"],
-            "domingos_ida": ["11:05hs"],
-            "diario_ida": ["11:05hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:25hs"],
             "domingos_vuelta": ["18:25hs"],
-            "diario_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12858,12 +13002,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 12600, "Cama": 17400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:30hs"],
-            "domingos_ida": ["11:30hs"],
-            "diario_ida": ["11:30hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:10hs"],
             "domingos_vuelta": ["18:10hs"],
-            "diario_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12876,14 +13020,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 14500, "Cama": 15900 },
+          "precios": { "Semicama": 14500, "Cama": 19400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:50hs"],
-            "domingos_ida": ["11:50hs"],
-            "diario_ida": ["11:50hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["17:45hs"],
             "domingos_vuelta": ["17:45hs"],
-            "diario_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12896,14 +13040,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 16500, "Cama": 17900 },
+          "precios": { "Semicama": 16500, "Cama": 21400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["12:45hs"],
-            "domingos_ida": ["12:45hs"],
-            "diario_ida": ["12:45hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
             "domingos_vuelta": ["16:55hs"],
-            "diario_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12916,14 +13060,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 25500, "Cama": 28100 },
+          "precios": { "Semicama": 25500, "Cama": 31200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:35hs"],
-            "domingos_ida": ["13:35hs"],
-            "diario_ida": ["13:35hs"],
-            "lunes_a_viernes_vuelta": ["15:50hs"],
-            "domingos_vuelta": ["15:50hs"],
-            "diario_vuelta": ["15:50hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12936,14 +13080,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 25500, "Cama": 28100 },
+          "precios": { "Semicama": 25500, "Cama": 31200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:45hs"],
-            "domingos_ida": ["13:45hs"],
-            "diario_ida": ["13:45hs"],
+            "lunes_a_viernes_ida": ["09:45hs"],
+            "domingos_ida": ["09:45hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
             "domingos_vuelta": ["15:40hs"],
-            "diario_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -12983,12 +13127,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9000, "Cama": 10100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:05hs"],
-            "domingos_ida": ["21:05hs"],
-            "diario_ida": ["21:05hs"],
+            "lunes_a_viernes_ida": ["19:40hs"],
+            "domingos_ida": ["19:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:30hs"],
             "domingos_vuelta": ["08:30hs"],
-            "diario_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13003,12 +13147,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9000, "Cama": 8400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:55hs"],
-            "domingos_ida": ["20:55hs"],
-            "diario_ida": ["20:55hs"],
+            "lunes_a_viernes_ida": ["19:40hs"],
+            "domingos_ida": ["19:40hss"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:40hs"],
             "domingos_vuelta": ["08:40hs"],
-            "diario_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13023,12 +13167,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 8000, "Cama": 7700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:45hs"],
-            "domingos_ida": ["20:45hs"],
-            "diario_ida": ["20:45hs"],
+            "lunes_a_viernes_ida": ["19:40hs"],
+            "domingos_ida": ["19:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:50hs"],
             "domingos_vuelta": ["08:50hs"],
-            "diario_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13043,12 +13187,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7100, "Cama": 5600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:40hs"],
-            "domingos_ida": ["20:40hs"],
-            "diario_ida": ["20:40hs"],
+            "lunes_a_viernes_ida": ["19:40hs"],
+            "domingos_ida": ["19:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:00hs"],
             "domingos_vuelta": ["09:00hs"],
-            "diario_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13063,12 +13207,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6100, "Cama": 4600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:20hs"],
-            "domingos_ida": ["20:20hs"],
-            "diario_ida": ["20:20hs"],
+            "lunes_a_viernes_ida": ["19:40hs"],
+            "domingos_ida": ["19:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:15hs"],
             "domingos_vuelta": ["09:15hs"],
-            "diario_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13083,12 +13227,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5100, "Cama": 3400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:10hs"],
-            "domingos_ida": ["20:10hs"],
-            "diario_ida": ["20:10hs"],
+            "lunes_a_viernes_ida": ["19:40hs"],
+            "domingos_ida": ["19:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:25hs"],
             "domingos_vuelta": ["09:25hs"],
-            "diario_vuelta": ["09:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13103,12 +13247,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4200, "Cama": 3700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:00hs"],
-            "domingos_ida": ["20:00hs"],
-            "diario_ida": ["20:00hs"],
+            "lunes_a_viernes_ida": ["19:40hs"],
+            "domingos_ida": ["19:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:37hs"],
             "domingos_vuelta": ["09:37hs"],
-            "diario_vuelta": ["09:37hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13123,12 +13267,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:50hs"],
-            "domingos_ida": ["19:50hs"],
-            "diario_ida": ["19:50hs"],
+            "lunes_a_viernes_ida": ["19:40hs"],
+            "domingos_ida": ["19:40hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:45hs"],
             "domingos_vuelta": ["09:45hs"],
-            "diario_vuelta": ["09:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13143,12 +13287,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:06hs"],
-            "domingos_ida": ["10:06hs"],
-            "diario_ida": ["10:06hs"],
+            "lunes_a_viernes_ida": ["09:55hs"],
+            "domingos_ida": ["09:55hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:30hs"],
             "domingos_vuelta": ["19:30hs"],
-            "diario_vuelta": ["19:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13161,14 +13305,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 3000, "Cama": 5100 },
+          "precios": { "Semicama": 4200, "Cama": 5100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:15hs"],
-            "domingos_ida": ["10:15hs"],
-            "diario_ida": ["10:15hs"],
+            "lunes_a_viernes_ida": ["09:55hs"],
+            "domingos_ida": ["09:55hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:20hs"],
             "domingos_vuelta": ["19:20hs"],
-            "diario_vuelta": ["19:20hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13183,12 +13327,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5800, "Cama": 7500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:30hs"],
-            "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
+            "lunes_a_viernes_ida": ["09:55hs"],
+            "domingos_ida": ["09:55hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:10hs"],
             "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13203,12 +13347,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7000, "Cama": 8600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:45hs"],
-            "domingos_ida": ["10:45hs"],
-            "diario_ida": ["10:45hs"],
-            "lunes_a_viernes_vuelta": ["18:50hs"],
-            "domingos_vuelta": ["18:50hs"],
-            "diario_vuelta": ["18:50hs"],
+            "lunes_a_viernes_ida": ["09:55hs"],
+            "domingos_ida": ["09:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13223,12 +13367,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 8000, "Cama": 9700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:47hs"],
-            "domingos_ida": ["10:47hs"],
-            "diario_ida": ["10:47hs"],
-            "lunes_a_viernes_vuelta": ["18:55hs"],
-            "domingos_vuelta": ["18:55hs"],
-            "diario_vuelta": ["18:55hs"],
+            "lunes_a_viernes_ida": ["09:55hs"],
+            "domingos_ida": ["09:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13243,12 +13387,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9100, "Cama": 10900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:50hs"],
-            "domingos_ida": ["10:50hs"],
-            "diario_ida": ["10:50hs"],
+            "lunes_a_viernes_ida": ["09:55hs"],
+            "domingos_ida": ["09:55hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:40hs"],
             "domingos_vuelta": ["18:40hs"],
-            "diario_vuelta": ["18:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13263,12 +13407,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9400, "Cama": 13400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:05hs"],
-            "domingos_ida": ["11:05hs"],
-            "diario_ida": ["11:05hs"],
+            "lunes_a_viernes_ida": ["09:55hs"],
+            "domingos_ida": ["09:55hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:25hs"],
             "domingos_vuelta": ["18:25hs"],
-            "diario_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13283,12 +13427,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 11200, "Cama": 15600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:30hs"],
-            "domingos_ida": ["11:30hs"],
-            "diario_ida": ["11:30hs"],
+            "lunes_a_viernes_ida": ["09:55hs"],
+            "domingos_ida": ["09:55hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:10hs"],
             "domingos_vuelta": ["18:10hs"],
-            "diario_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13303,12 +13447,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 13200, "Cama": 17600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:50hs"],
-            "domingos_ida": ["11:50hs"],
-            "diario_ida": ["11:50hs"],
+            "lunes_a_viernes_ida": ["09:55hs"],
+            "domingos_ida": ["09:55hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["17:45hs"],
             "domingos_vuelta": ["17:45hs"],
-            "diario_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13323,12 +13467,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 15100, "Cama": 19600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["12:45hs"],
-            "domingos_ida": ["12:45hs"],
-            "diario_ida": ["12:45hs"],
+            "lunes_a_viernes_ida": ["09:55hs"],
+            "domingos_ida": ["09:55hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
             "domingos_vuelta": ["16:55hs"],
-            "diario_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13343,12 +13487,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 24200, "Cama": 29900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:35hs"],
-            "domingos_ida": ["13:35hs"],
-            "diario_ida": ["13:35hs"],
-            "lunes_a_viernes_vuelta": ["15:50hs"],
-            "domingos_vuelta": ["15:50hs"],
-            "diario_vuelta": ["15:50hs"],
+            "lunes_a_viernes_ida": ["09:55hs"],
+            "domingos_ida": ["09:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13363,12 +13507,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 24200, "Cama": 29900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:45hs"],
-            "domingos_ida": ["13:45hs"],
-            "diario_ida": ["13:45hs"],
+            "lunes_a_viernes_ida": ["09:55hs"],
+            "domingos_ida": ["09:55hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
             "domingos_vuelta": ["15:40hs"],
-            "diario_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13388,12 +13532,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 11500, "Cama": 12900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:25hs"],
-            "domingos_ida": ["21:25hs"],
-            "diario_ida": ["21:25hs"],
+            "lunes_a_viernes_ida": ["19:30hs"],
+            "domingos_ida": ["19:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "diario_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13408,12 +13552,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 10500, "Cama": 11800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:05hs"],
-            "domingos_ida": ["21:05hs"],
-            "diario_ida": ["21:05hs"],
+            "lunes_a_viernes_ida": ["19:30hs"],
+            "domingos_ida": ["19:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:30hs"],
             "domingos_vuelta": ["08:30hs"],
-            "diario_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13426,14 +13570,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 10700, "Cama": 11800 },
+          "precios": { "Semicama": 10700, "Cama": 10100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:55hs"],
-            "domingos_ida": ["20:55hs"],
-            "diario_ida": ["20:55hs"],
+            "lunes_a_viernes_ida": ["19:30hs"],
+            "domingos_ida": ["19:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:40hs"],
             "domingos_vuelta": ["08:40hs"],
-            "diario_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13448,12 +13592,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9700, "Cama": 9300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:45hs"],
-            "domingos_ida": ["20:45hs"],
-            "diario_ida": ["20:45hs"],
+            "lunes_a_viernes_ida": ["19:30hs"],
+            "domingos_ida": ["19:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:50hs"],
             "domingos_vuelta": ["08:50hs"],
-            "diario_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13466,14 +13610,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 8600, "Cama": 7600 },
+          "precios": { "Semicama": 8800, "Cama": 7100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:40hs"],
-            "domingos_ida": ["20:40hs"],
-            "diario_ida": ["20:40hs"],
+            "lunes_a_viernes_ida": ["19:30hs"],
+            "domingos_ida": ["19:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:00hs"],
             "domingos_vuelta": ["09:00hs"],
-            "diario_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13488,12 +13632,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7800, "Cama": 6800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:20hs"],
-            "domingos_ida": ["20:20hs"],
-            "diario_ida": ["20:20hs"],
+            "lunes_a_viernes_ida": ["19:30hs"],
+            "domingos_ida": ["19:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:15hs"],
             "domingos_vuelta": ["09:15hs"],
-            "diario_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13508,12 +13652,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6800, "Cama": 5400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:10hs"],
-            "domingos_ida": ["20:10hs"],
-            "diario_ida": ["20:10hs"],
+            "lunes_a_viernes_ida": ["19:30hs"],
+            "domingos_ida": ["19:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:25hs"],
             "domingos_vuelta": ["09:25hs"],
-            "diario_vuelta": ["09:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13526,14 +13670,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 5900, "Cama": 5000 },
+          "precios": { "Semicama": 5900, "Cama": 4800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:00hs"],
-            "domingos_ida": ["20:00hs"],
-            "diario_ida": ["20:00hs"],
+            "lunes_a_viernes_ida": ["19:30hs"],
+            "domingos_ida": ["19:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:37hs"],
             "domingos_vuelta": ["09:37hs"],
-            "diario_vuelta": ["09:37hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13546,14 +13690,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 4200, "Cama": 3100 },
+          "precios": { "Semicama": 4200, "Cama": 3400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:50hs"],
-            "domingos_ida": ["19:50hs"],
-            "diario_ida": ["19:50hs"],
+            "lunes_a_viernes_ida": ["19:30hs"],
+            "domingos_ida": ["19:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:45hs"],
             "domingos_vuelta": ["09:45hs"],
-            "diario_vuelta": ["09:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13568,12 +13712,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:40hs"],
-            "domingos_ida": ["19:40hs"],
-            "diario_ida": ["19:40hs"],
+            "lunes_a_viernes_ida": ["19:30hs"],
+            "domingos_ida": ["19:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:55hs"],
             "domingos_vuelta": ["09:55hs"],
-            "diario_vuelta": ["09:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13586,14 +13730,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 5000, "Cama": 5800 },
+          "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:15hs"],
-            "domingos_ida": ["10:15hs"],
-            "diario_ida": ["10:15hs"],
+            "lunes_a_viernes_ida": ["10:06hs"],
+            "domingos_ida": ["10:06hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:20hs"],
             "domingos_vuelta": ["19:20hs"],
-            "diario_vuelta": ["19:20hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13608,12 +13752,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4000, "Cama": 5800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:30hs"],
-            "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
+            "lunes_a_viernes_ida": ["10:06hs"],
+            "domingos_ida": ["10:06hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:10hs"],
             "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13628,12 +13772,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5600, "Cama": 7000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:45hs"],
-            "domingos_ida": ["10:45hs"],
-            "diario_ida": ["10:45hs"],
-            "lunes_a_viernes_vuelta": ["18:50hs"],
-            "domingos_vuelta": ["18:50hs"],
-            "diario_vuelta": ["18:50hs"],
+            "lunes_a_viernes_ida": ["10:06hs"],
+            "domingos_ida": ["10:06hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13646,14 +13790,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6400, "Cama": 8200 },
+          "precios": { "Semicama": 6600, "Cama": 8200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:47hs"],
-            "domingos_ida": ["10:47hs"],
-            "diario_ida": ["10:47hs"],
-            "lunes_a_viernes_vuelta": ["18:55hs"],
-            "domingos_vuelta": ["18:55hs"],
-            "diario_vuelta": ["18:55hs"],
+            "lunes_a_viernes_ida": ["10:06hs"],
+            "domingos_ida": ["10:06hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13668,12 +13812,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7700, "Cama": 9400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:50hs"],
-            "domingos_ida": ["10:50hs"],
-            "diario_ida": ["10:50hs"],
+            "lunes_a_viernes_ida": ["10:06hs"],
+            "domingos_ida": ["10:06hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:40hs"],
             "domingos_vuelta": ["18:40hs"],
-            "diario_vuelta": ["18:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13688,12 +13832,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9300, "Cama": 11900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:05hs"],
-            "domingos_ida": ["11:05hs"],
-            "diario_ida": ["11:05hs"],
+            "lunes_a_viernes_ida": ["10:06hs"],
+            "domingos_ida": ["10:06hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:25hs"],
             "domingos_vuelta": ["18:25hs"],
-            "diario_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13706,14 +13850,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 10200, "Cama": 14000 },
+          "precios": { "Semicama": 10100, "Cama": 14000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:30hs"],
-            "domingos_ida": ["11:30hs"],
-            "diario_ida": ["11:30hs"],
+            "lunes_a_viernes_ida": ["10:06hs"],
+            "domingos_ida": ["10:06hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:10hs"],
             "domingos_vuelta": ["18:10hs"],
-            "diario_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13728,12 +13872,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 12000, "Cama": 16100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:50hs"],
-            "domingos_ida": ["11:50hs"],
-            "diario_ida": ["11:50hs"],
+            "lunes_a_viernes_ida": ["10:06hs"],
+            "domingos_ida": ["10:06hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["17:45hs"],
             "domingos_vuelta": ["17:45hs"],
-            "diario_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13748,12 +13892,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 14000, "Cama": 18100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["12:45hs"],
-            "domingos_ida": ["12:45hs"],
-            "diario_ida": ["12:45hs"],
+            "lunes_a_viernes_ida": ["10:06hs"],
+            "domingos_ida": ["10:06hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
             "domingos_vuelta": ["16:55hs"],
-            "diario_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13768,12 +13912,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 23000, "Cama": 27600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:35hs"],
-            "domingos_ida": ["13:35hs"],
-            "diario_ida": ["13:35hs"],
-            "lunes_a_viernes_vuelta": ["15:50hs"],
-            "domingos_vuelta": ["15:50hs"],
-            "diario_vuelta": ["15:50hs"],
+            "lunes_a_viernes_ida": ["10:06hs"],
+            "domingos_ida": ["10:06hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13788,12 +13932,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 23000, "Cama": 27600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:45hs"],
-            "domingos_ida": ["13:45hs"],
-            "diario_ida": ["13:45hs"],
+            "lunes_a_viernes_ida": ["10:06hs"],
+            "domingos_ida": ["10:06hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
             "domingos_vuelta": ["15:40hs"],
-            "diario_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13813,12 +13957,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 13200, "Cama": 14800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:25hs"],
-            "domingos_ida": ["21:25hs"],
-            "diario_ida": ["21:25hs"],
+            "lunes_a_viernes_ida": ["19:20hs"],
+            "domingos_ida": ["19:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "diario_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13833,12 +13977,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 12200, "Cama": 13700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:05hs"],
-            "domingos_ida": ["21:05hs"],
-            "diario_ida": ["21:05hs"],
+            "lunes_a_viernes_ida": ["19:20hs"],
+            "domingos_ida": ["19:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:30hs"],
             "domingos_vuelta": ["08:30hs"],
-            "diario_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13851,14 +13995,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 12300, "Cama": 12800 },
+          "precios": { "Semicama": 13200, "Cama": 12000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:55hs"],
-            "domingos_ida": ["20:55hs"],
-            "diario_ida": ["20:55hs"],
+            "lunes_a_viernes_ida": ["19:20hs"],
+            "domingos_ida": ["19:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:40hs"],
             "domingos_vuelta": ["08:40hs"],
-            "diario_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13873,12 +14017,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 12200, "Cama": 11200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:45hs"],
-            "domingos_ida": ["20:45hs"],
-            "diario_ida": ["20:45hs"],
+            "lunes_a_viernes_ida": ["19:20hs"],
+            "domingos_ida": ["19:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:50hs"],
             "domingos_vuelta": ["08:50hs"],
-            "diario_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13891,14 +14035,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 11200, "Cama": 8800 },
+          "precios": { "Semicama": 11100, "Cama": 8800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:40hs"],
-            "domingos_ida": ["20:40hs"],
-            "diario_ida": ["20:40hs"],
+            "lunes_a_viernes_ida": ["19:20hs"],
+            "domingos_ida": ["19:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:00hs"],
             "domingos_vuelta": ["09:00hs"],
-            "diario_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13913,12 +14057,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 10300, "Cama": 9700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:20hs"],
-            "domingos_ida": ["20:20hs"],
-            "diario_ida": ["20:20hs"],
+            "lunes_a_viernes_ida": ["19:20hs"],
+            "domingos_ida": ["19:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:15hs"],
             "domingos_vuelta": ["09:15hs"],
-            "diario_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13933,12 +14077,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9300, "Cama": 8500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:10hs"],
-            "domingos_ida": ["20:10hs"],
-            "diario_ida": ["20:10hs"],
+            "lunes_a_viernes_ida": ["19:20hs"],
+            "domingos_ida": ["19:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:25hs"],
             "domingos_vuelta": ["09:25hs"],
-            "diario_vuelta": ["09:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13951,14 +14095,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 8500, "Cama": 7800 },
+          "precios": { "Semicama": 8500, "Cama": 7600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:00hs"],
-            "domingos_ida": ["20:00hs"],
-            "diario_ida": ["20:00hs"],
+            "lunes_a_viernes_ida": ["19:20hs"],
+            "domingos_ida": ["19:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:37hs"],
             "domingos_vuelta": ["09:37hs"],
-            "diario_vuelta": ["09:37hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13971,14 +14115,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 5900, "Cama": 5100 },
+          "precios": { "Semicama": 5900, "Cama": 5900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:50hs"],
-            "domingos_ida": ["19:50hs"],
-            "diario_ida": ["19:50hs"],
+            "lunes_a_viernes_ida": ["19:20hs"],
+            "domingos_ida": ["19:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:45hs"],
             "domingos_vuelta": ["09:45hs"],
-            "diario_vuelta": ["09:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13993,12 +14137,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4200, "Cama": 5100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:40hs"],
-            "domingos_ida": ["19:40hs"],
-            "diario_ida": ["19:40hs"],
+            "lunes_a_viernes_ida": ["19:20hs"],
+            "domingos_ida": ["19:20hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:55hs"],
             "domingos_vuelta": ["09:55hs"],
-            "diario_vuelta": ["09:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14011,14 +14155,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 3600, "Cama": 3800 },
+          "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
             "lunes_a_viernes_ida": ["19:30hs"],
             "domingos_ida": ["19:30hs"],
-            "diario_ida": ["19:30hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["10:06hs"],
             "domingos_vuelta": ["10:06hs"],
-            "diario_vuelta": ["10:06hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14031,14 +14175,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2700, "Cama": 5800 },
+          "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:30hs"],
-            "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
+            "lunes_a_viernes_ida": ["10:15hs"],
+            "domingos_ida": ["10:15hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["19:10hs"],
             "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14053,12 +14197,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3300, "Cama": 3300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:45hs"],
-            "domingos_ida": ["10:45hs"],
-            "diario_ida": ["10:45hs"],
-            "lunes_a_viernes_vuelta": ["18:50hs"],
-            "domingos_vuelta": ["18:50hs"],
-            "diario_vuelta": ["18:50hs"],
+            "lunes_a_viernes_ida": ["10:15hs"],
+            "domingos_ida": ["10:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14071,14 +14215,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 4300, "Cama": 4600 },
+          "precios": { "Semicama": 4300, "Cama": 4400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:47hs"],
-            "domingos_ida": ["10:47hs"],
-            "diario_ida": ["10:47hs"],
-            "lunes_a_viernes_vuelta": ["18:55hs"],
-            "domingos_vuelta": ["18:55hs"],
-            "diario_vuelta": ["18:55hs"],
+            "lunes_a_viernes_ida": ["10:15hs"],
+            "domingos_ida": ["10:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14093,12 +14237,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5400, "Cama": 5600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["10:50hs"],
-            "domingos_ida": ["10:50hs"],
-            "diario_ida": ["10:50hs"],
+            "lunes_a_viernes_ida": ["10:15hs"],
+            "domingos_ida": ["10:15hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:40hs"],
             "domingos_vuelta": ["18:40hs"],
-            "diario_vuelta": ["18:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14113,12 +14257,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6100, "Cama": 8100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:05hs"],
-            "domingos_ida": ["11:05hs"],
-            "diario_ida": ["11:05hs"],
+            "lunes_a_viernes_ida": ["10:15hs"],
+            "domingos_ida": ["10:15hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:25hs"],
             "domingos_vuelta": ["18:25hs"],
-            "diario_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14131,14 +14275,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 9300, "Cama": 10400 },
+          "precios": { "Semicama": 7600, "Cama": 10400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:30hs"],
-            "domingos_ida": ["11:30hs"],
-            "diario_ida": ["11:30hs"],
+            "lunes_a_viernes_ida": ["10:15hs"],
+            "domingos_ida": ["10:15hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["18:10hs"],
             "domingos_vuelta": ["18:10hs"],
-            "diario_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14153,12 +14297,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9500, "Cama": 12400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:50hs"],
-            "domingos_ida": ["11:50hs"],
-            "diario_ida": ["11:50hs"],
+            "lunes_a_viernes_ida": ["10:15hs"],
+            "domingos_ida": ["10:15hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["17:45hs"],
             "domingos_vuelta": ["17:45hs"],
-            "diario_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14173,12 +14317,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 11300, "Cama": 14400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["12:45hs"],
-            "domingos_ida": ["12:45hs"],
-            "diario_ida": ["12:45hs"],
+            "lunes_a_viernes_ida": ["10:15hs"],
+            "domingos_ida": ["10:15hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
             "domingos_vuelta": ["16:55hs"],
-            "diario_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14193,12 +14337,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 22300, "Cama": 25600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:35hs"],
-            "domingos_ida": ["13:35hs"],
-            "diario_ida": ["13:35hs"],
-            "lunes_a_viernes_vuelta": ["15:50hs"],
-            "domingos_vuelta": ["15:50hs"],
-            "diario_vuelta": ["15:50hs"],
+            "lunes_a_viernes_ida": ["10:15hs"],
+            "domingos_ida": ["10:15hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14213,12 +14357,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 22300, "Cama": 25600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["13:45hs"],
-            "domingos_ida": ["13:45hs"],
-            "diario_ida": ["13:45hs"],
+            "lunes_a_viernes_ida": ["10:15hs"],
+            "domingos_ida": ["10:15hs"],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
             "domingos_vuelta": ["15:40hs"],
-            "diario_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14240,10 +14384,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:15hs"],
+            "domingos_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14260,10 +14404,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:30hs"],
+            "domingos_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14276,14 +14420,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 15400, "Cama": 16500 },
+          "precios": { "Semicama": 15400, "Cama": 14800 },
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:40hs"],
+            "domingos_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14300,10 +14444,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:50hs"],
+            "domingos_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14320,10 +14464,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:00hs"],
+            "domingos_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14340,10 +14484,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:15hs"],
+            "domingos_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14360,10 +14504,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:25hs"],
+            "domingos_vuelta": ["09:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14376,14 +14520,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 10600, "Cama": 9300 },
+          "precios": { "Semicama": 10300, "Cama": 9900 },
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:37hs"],
+            "domingos_vuelta": ["90:37hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14420,10 +14564,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:55hs"],
+            "domingos_vuelta": ["09:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14436,14 +14580,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 4300, "Cama": 6300 },
+          "precios": { "Semicama": 4000, "Cama": 5800 },
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:06hs"],
+            "domingos_vuelta": ["10:06hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14460,10 +14604,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["10:30hs"],
-            "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:15hs"],
+            "domingos_vuelta": ["10:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14480,10 +14624,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
-            "lunes_a_viernes_vuelta": ["19:10hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14500,10 +14644,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
-            "lunes_a_viernes_vuelta": ["19:10hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14520,10 +14664,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
-            "lunes_a_viernes_vuelta": ["19:10hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:40hs"],
+            "domingos_vuelta": ["18:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14540,10 +14684,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
-            "lunes_a_viernes_vuelta": ["19:10hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:25hs"],
+            "domingos_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14556,14 +14700,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 7300, "Cama": 9300 },
+          "precios": { "Semicama": 6600, "Cama": 9400 },
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
-            "lunes_a_viernes_vuelta": ["19:10hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:10hs"],
+            "domingos_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14580,10 +14724,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
-            "lunes_a_viernes_vuelta": ["19:10hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["17:45hs"],
+            "domingos_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14600,10 +14744,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
-            "lunes_a_viernes_vuelta": ["19:10hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["16:55hs"],
+            "domingos_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14620,10 +14764,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
-            "lunes_a_viernes_vuelta": ["19:10hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14640,10 +14784,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "diario_ida": ["10:30hs"],
-            "lunes_a_viernes_vuelta": ["19:10hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["19:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["15:40hs"],
+            "domingos_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14663,12 +14807,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16600, "Cama": 18500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:25hs"],
-            "domingos_ida": ["21:25hs"],
-            "diario_ida": ["21:25hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "diario_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14681,14 +14825,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 16500, "Cama": 17500 },
+          "precios": { "Semicama": 15500, "Cama": 17500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["21:05hs"],
-            "domingos_ida": ["21:05hs"],
-            "diario_ida": ["21:05hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:30hs"],
             "domingos_vuelta": ["08:30hs"],
-            "diario_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14703,12 +14847,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16400, "Cama": 15700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:55hs"],
-            "domingos_ida": ["20:55hs"],
-            "diario_ida": ["20:55hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:40hs"],
             "domingos_vuelta": ["08:40hs"],
-            "diario_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14723,12 +14867,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 15300, "Cama": 15000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:45hs"],
-            "domigos_ida": ["20:45hs"],
-            "diario_ida": ["20:45hs"],
+            "lunes_a_viernes_ida": [],
+            "domigos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["08:50hs"],
             "domingos_vuelta": ["08:50hs"],
-            "diario_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14743,12 +14887,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 14200, "Cama": 12100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:40hs"],
-            "domingos_ida": ["20:40hs"],
-            "diario_ida": ["20:40hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:00hs"],
             "domingos_vuelta": ["09:00hs"],
-            "diario_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14763,12 +14907,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 13500, "Cama": 13000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:20hs"],
-            "domingos_ida": ["20:20hs"],
-            "diario_ida": ["20:20hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:15hs"],
             "domingos_vuelta": ["09:15hs"],
-            "diario_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14783,12 +14927,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 12400, "Cama": 11900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:10hs"],
-            "domingos_ida": ["20:10hs"],
-            "diario_ida": ["20:10hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:25hs"],
             "domingos_vuelta": ["09:25hs"],
-            "diario_vuelta": ["09:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14801,14 +14945,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 11300, "Cama": 11000 },
+          "precios": { "Semicama": 11400, "Cama": 11000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["20:00hs"],
-            "domingos_ida": ["20:00hs"],
-            "diario_ida": ["20:00hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:37hs"],
             "domingos_vuelta": ["09:37hs"],
-            "diario_vuelta": ["09:37hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14823,12 +14967,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9500, "Cama": 10400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:50hs"],
-            "domingos_ida": ["19:50hs"],
-            "diario_ida": ["19:50hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:45hs"],
             "domingos_vuelta": ["09:45hs"],
-            "diario_vuelta": ["09:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14843,12 +14987,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7000, "Cama": 8600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:40hs"],
-            "domingos_ida": ["19:40hs"],
-            "diario_ida": ["19:40hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["09:55hs"],
             "domingos_vuelta": ["09:55hs"],
-            "diario_vuelta": ["09:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14861,14 +15005,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6700, "Cama": 7000 },
+          "precios": { "Semicama": 5600, "Cama": 7000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:30hs"],
-            "domingos_ida": ["19:30hs"],
-            "diario_ida": ["19:30hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["10:06hs"],
             "domingos_vuelta": ["10:06hs"],
-            "diario_vuelta": ["10:06hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14883,12 +15027,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3300, "Cama": 3300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:20hs"],
-            "domingos_ida": ["19:20hs"],
-            "diario_ida": ["19:20hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["10:15hs"],
             "domingos_vuelta": ["10:15hs"],
-            "diario_vuelta": ["10:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14903,12 +15047,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["19:10hs"],
-            "domingos_ida": ["19:10hs"],
-            "diario_ida": ["19:10hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
             "lunes_a_viernes_vuelta": ["10:30hs"],
             "domingos_vuelta": ["10:30hs"],
-            "diario_vuelta": ["10:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14923,12 +15067,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["10:47hs"],
-            "domingos_vuelta": ["10:47hs"],
-            "diario_vuelta": ["10:47hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14943,12 +15087,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3300, "Cama": 3300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:40hs"],
-            "domingos_ida": ["18:40hs"],
-            "diario_ida": ["18:40hs"],
-            "lunes_a_viernes_vuelta": ["10:50hs"],
-            "domingos_vuelta": ["10:50hs"],
-            "diario_vuelta": ["10:50hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:40hs"],
+            "domingos_vuelta": ["18:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14963,12 +15107,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4200, "Cama": 6300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:25hs"],
-            "domingos_ida": ["18:25hs"],
-            "diario_ida": ["18:25hs"],
-            "lunes_a_viernes_vuelta": ["11:05hs"],
-            "domingos_vuelta": ["11:05hs"],
-            "diario_vuelta": ["11:05hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:25hs"],
+            "domingos_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14981,14 +15125,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 7300, "Cama": 8600 },
+          "precios": { "Semicama": 5700, "Cama": 8600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:10hs"],
-            "domingos_ida": ["18:10hs"],
-            "diario_ida": ["18:10hs"],
-            "lunes_a_viernes_vuelta": ["11:30hs"],
-            "domingos_vuelta": ["11:30hs"],
-            "diario_vuelta": ["11:30hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:10hs"],
+            "domingos_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15003,12 +15147,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7500, "Cama": 10600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["17:45hs"],
-            "domingos_ida": ["17:45hs"],
-            "diario_ida": ["17:45hs"],
-            "lunes_a_viernes_vuelta": ["11:50hs"],
-            "domingos_vuelta": ["11:50hs"],
-            "diario_vuelta": ["11:50hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["17:45hs"],
+            "domingos_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15021,14 +15165,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 9200, "Cama": 12600 },
+          "precios": { "Semicama": 9300, "Cama": 12600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["16:55hs"],
-            "domingos_ida": ["16:55hs"],
-            "diario_ida": ["16:55hs"],
-            "lunes_a_viernes_vuelta": ["12:45hs"],
-            "domingos_vuelta": ["12:45hs"],
-            "diario_vuelta": ["12:45hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["16:55hs"],
+            "domingos_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15043,12 +15187,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 20300, "Cama": 22500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["15:50hs"],
-            "domingos_ida": ["15:50hs"],
-            "diario_ida": ["15:50hs"],
-            "lunes_a_viernes_vuelta": ["13:35hs"],
-            "domingos_vuelta": ["13:35hs"],
-            "diario_vuelta": ["13:35hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15063,12 +15207,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 20300, "Cama": 22500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["15:40hs"],
-            "domingos_ida": ["15:40hs"],
-            "diario_ida": ["15:40hs"],
-            "lunes_a_viernes_vuelta": ["13:45hs"],
-            "domingos_vuelta": ["13:45hs"],
-            "diario_vuelta": ["13:45hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["15:40hs"],
+            "domingos_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15088,12 +15232,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 17500, "Cama": 19600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["06:20hs"],
-            "domingos_vuelta": ["06:20hs"],
-            "diario_vuelta": ["06:20hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:15hs"],
+            "domingos_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15108,12 +15252,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16500, "Cama": 18600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["06:25hs"],
-            "domingos_vuelta": ["06:25hs"],
-            "diario_vuelta": ["06:25hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:30hs"],
+            "domingos_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15128,12 +15272,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 17400, "Cama": 16900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["06:30hs"],
-            "domingos_vuelta": ["06:30hs"],
-            "diario_vuelta": ["06:30hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:40hs"],
+            "domingos_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15148,12 +15292,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16300, "Cama": 16100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["06:32hs"],
-            "domingos_vuelta": ["06:32hs"],
-            "diario_vuelta": ["06:32hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:50hs"],
+            "domingos_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15166,14 +15310,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 15200, "Cama": 16000 },
+          "precios": { "Semicama": 15200, "Cama": 13300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["06:35hs"],
-            "domingos_vuelta": ["06:35hs"],
-            "diario_vuelta": ["06:35hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": ["09:00hs"],
+            "diario_vuelta": ["09:00hs"],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15188,12 +15332,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 14500, "Cama": 14100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["06:40hs"],
-            "domingos_vuelta": ["06:40hs"],
-            "diario_vuelta": ["06:40hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:15hs"],
+            "domingos_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15206,14 +15350,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 13000, "Cama": 13000 },
+          "precios": { "Semicama": 13400, "Cama": 13000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["06:45hs"],
-            "domingos_vuelta": ["06:45hs"],
-            "diario_vuelta": ["06:45hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:25hs"],
+            "domingos_vuelta": ["09:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15226,14 +15370,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 12400, "Cama": 11900 },
+          "precios": { "Semicama": 12400, "Cama": 12100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["06:50hs"],
-            "domingos_vuelta": ["06:50hs"],
-            "diario_vuelta": ["06:50hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:37hs"],
+            "domingos_vuelta": ["09:37hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15248,12 +15392,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 10500, "Cama": 11500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["06:55hs"],
-            "domingos_vuelta": ["06:55hs"],
-            "diario_vuelta": ["06:55hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:45hs"],
+            "domingos_vuelta": ["09:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15266,14 +15410,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 8500, "Cama": 9700 },
+          "precios": { "Semicama": 8000, "Cama": 9700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["07:05hs"],
-            "domingos_vuelta": ["07:05hs"],
-            "diario_vuelta": ["07:05hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:55hs"],
+            "domingos_vuelta": ["09:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15288,12 +15432,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6600, "Cama": 8200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["07:15hs"],
-            "domingos_vuelta": ["07:15hs"],
-            "diario_vuelta": ["07:15hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:06hs"],
+            "domingos_vuelta": ["10:06hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15308,12 +15452,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4300, "Cama": 4400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["07:20hs"],
-            "domingos_vuelta": ["07:20hs"],
-            "diario_vuelta": ["07:20hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:15hs"],
+            "domingos_vuelta": ["10:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15328,12 +15472,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3300, "Cama": 3300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["07:35hs"],
-            "domingos_vuelta": ["07:35hs"],
-            "diario_vuelta": ["07:35hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:30hs"],
+            "domingos_vuelta": ["10:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15348,12 +15492,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["07:40hs"],
-            "domingos_vuelta": ["07:40hs"],
-            "diario_vuelta": ["07:40hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15368,12 +15512,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["07:50hs"],
-            "domingos_vuelta": ["07:50hs"],
-            "diario_vuelta": ["07:50hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:40hs"],
+            "domingos_vuelta": ["18:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15388,12 +15532,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2900, "Cama": 5200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["08:05hs"],
-            "domingos_vuelta": ["08:05hs"],
-            "diario_vuelta": ["08:05hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:25hs"],
+            "domingos_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15408,12 +15552,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4400, "Cama": 7600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["08:20hs"],
-            "domingos_vuelta": ["08:20hs"],
-            "diario_vuelta": ["08:20hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:10hs"],
+            "domingos_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15426,14 +15570,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6100, "Cama": 10600 },
+          "precios": { "Semicama": 5900, "Cama": 9600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["08:35hs"],
-            "domingos_vuelta": ["08:35hs"],
-            "diario_vuelta": ["08:35hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["17:45hs"],
+            "domingos_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15448,12 +15592,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7800, "Cama": 11600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["08:55hs"],
-            "domingos_vuelta": ["08:55hs"],
-            "diario_vuelta": ["08:55hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["16:55hs"],
+            "domingos_vuelta": ["16:55hs"],
+            "diario_vuelta": ["16:55hs"],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15468,12 +15612,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 19800, "Cama": 21100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["09:55hs"],
-            "domingos_vuelta": ["09:55hs"],
-            "diario_vuelta": ["09:55hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15488,12 +15632,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 19800, "Cama": 21100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["18:55hs"],
-            "domingos_ida": ["18:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["10:05hs"],
-            "domingos_vuelta": ["10:05hs"],
-            "diario_vuelta": ["10:05hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["15:40hs"],
+            "domingos_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15513,12 +15657,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 18600, "Cama": 20800 },
           "horarios": {
-            "lunes_a_viernes_ida": [],
-            "domingos_ida": [],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
             "diario_ida": [],
-            "lunes_a_viernes_vuelta": ["08:05hs"],
-            "domingos_vuelta": ["08:05hs"],
-            "diario_vuelta": ["08:05hs"],
+            "lunes_a_viernes_vuelta": ["08:15hs"],
+            "domingos_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15533,12 +15677,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 17600, "Cama": 19700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:30hs"],
+            "domingos_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15553,12 +15697,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 18500, "Cama": 18000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:40hs"],
+            "domingos_vuelta": ["08:40hs"],
+            "diario_vuelta": [  ],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15571,14 +15715,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 16300, "Cama": 17200 },
+          "precios": { "Semicama": 17400, "Cama": 17200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:50hs"],
+            "domingos_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15593,12 +15737,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16300, "Cama": 14400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:00hs"],
+            "domingos_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15613,12 +15757,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 15600, "Cama": 15300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:15hs"],
+            "domingos_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15633,12 +15777,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 14500, "Cama": 14100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:25hs"],
+            "domingos_vuelta": ["09:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15653,12 +15797,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 13500, "Cama": 13200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:37hs"],
+            "domingos_vuelta": ["09:37hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15673,12 +15817,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 11600, "Cama": 12700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:45hs"],
+            "domingos_vuelta": ["09:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15691,14 +15835,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 9100, "Cama": 9100 },
+          "precios": { "Semicama": 9100, "Cama": 10900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:55hs"],
+            "domingos_vuelta": ["09:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15713,12 +15857,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7700, "Cama": 9400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:06hs"],
+            "domingos_vuelta": ["10:06hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15731,14 +15875,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6500, "Cama": 5600 },
+          "precios": { "Semicama": 5400, "Cama": 5600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:15hs"],
+            "domingos_vuelta": ["10:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15753,12 +15897,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4400, "Cama": 4500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:30hs"],
+            "domingos_vuelta": ["10:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15773,12 +15917,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 3300, "Cama": 3300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15793,12 +15937,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["18:40hs"],
+            "domingos_ida": ["18:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15811,14 +15955,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2700, "Cama": 6300 },
+          "precios": { "Semicama": 2700, "Cama": 3900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["10:50hs"],
+            "domingos_ida": ["10:50hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:25hs"],
+            "domingos_vuelta": ["18:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15831,14 +15975,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 4000, "Cama": 8400 },
+          "precios": { "Semicama": 4000, "Cama": 6400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["10:50hs"],
+            "domingos_ida": ["10:50hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:10hs"],
+            "domingos_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15851,14 +15995,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6300, "Cama": 10600 },
+          "precios": { "Semicama": 5500, "Cama": 8400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["10:50hs"],
+            "domingos_ida": ["10:50hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["17:45hs"],
+            "domingos_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15871,14 +16015,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 7400, "Cama": 12600 },
+          "precios": { "Semicama": 7400, "Cama": 10400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["10:50hs"],
+            "domingos_ida": ["10:50hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["16:55hs"],
+            "domingos_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15893,12 +16037,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 18800, "Cama": 19800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["10:50hs"],
+            "domingos_ida": ["10:50hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15913,12 +16057,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 18800, "Cama": 19800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["11:02hs"],
-            "domingos_ida": ["11:02hs"],
-            "diario_ida": ["11:02hs"],
-            "lunes_a_viernes_vuelta": ["18:35hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["18:35hs"],
+            "lunes_a_viernes_ida": ["10:50hs"],
+            "domingos_ida": ["10:50hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["15:40hs"],
+            "domingos_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15938,12 +16082,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 20800, "Cama": 23300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["05:55hs","11:25hs","18:10hs"],
-            "domingos_ida": ["10:15hs"],
-            "diario_ida": ["16:20hs"],
-            "lunes_a_viernes_vuelta": ["07:20hs","15:05hs","21:35hs"],
-            "domingos_vuelta": ["19:30hs"],
-            "diario_vuelta": ["12:45hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:15hs"],
+            "domingos_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15958,12 +16102,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 19800, "Cama": 22200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:08hs","11:18hs","17:55hs"],
-            "domingos_ida": ["10:05hs"],
-            "diario_ida": ["15:45hs"],
-            "lunes_a_viernes_vuelta": ["07:32hs","14:52hs","21:10hs"],
-            "domingos_vuelta": ["19:20hs"],
-            "diario_vuelta": ["12:35hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:30hs"],
+            "domingos_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15978,12 +16122,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 18300, "Cama": 20500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:15hs","11:40hs","18:25hs"],
-            "domingos_ida": ["10:25hs"],
-            "diario_ida": ["16:05hs"],
-            "lunes_a_viernes_vuelta": ["07:05hs","15:20hs","21:15hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["13:05hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:40hs"],
+            "domingos_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -15998,12 +16142,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 17300, "Cama": 19700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:22hs","11:50hs","18:35hs"],
-            "domingos_ida": ["10:35hs"],
-            "diario_ida": ["16:15hs"],
-            "lunes_a_viernes_vuelta": ["07:12hs","15:28hs","21:22hs"],
-            "domingos_vuelta": ["19:18hs"],
-            "diario_vuelta": ["13:12hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:50hs"],
+            "domingos_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16016,14 +16160,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 16400, "Cama": 16800 },
+          "precios": { "Semicama": 16400, "Cama": 16900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["05:45hs","10:55hs","17:30hs"],
-            "domingos_ida": ["09:50hs"],
-            "diario_ida": ["15:20hs"],
-            "lunes_a_viernes_vuelta": ["06:50hs","14:20hs","20:40hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["12:20hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:00hs"],
+            "domingos_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16038,12 +16182,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 15400, "Cama": 17800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:05hs","12:05hs","18:50hs"],
-            "domingos_ida": ["10:45hs"],
-            "diario_ida": ["16:30hs"],
-            "lunes_a_viernes_vuelta": ["07:18hs","15:05hs","21:05hs"],
-            "domingos_vuelta": ["19:22hs"],
-            "diario_vuelta": ["12:58hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:15hs"],
+            "domingos_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16056,14 +16200,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 14300, "Cama": 16800 },
+          "precios": { "Semicama": 14300, "Cama": 16600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:12hs","12:12hs","18:57hs"],
-            "domingos_ida": ["10:52hs"],
-            "diario_ida": ["16:37hs"],
-            "lunes_a_viernes_vuelta": ["07:25hs","15:12hs","21:12hs"],
-            "domingos_vuelta": ["19:29hs"],
-            "diario_vuelta": ["13:05hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:25hs"],
+            "domingos_vuelta": ["09:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16076,14 +16220,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 13200, "Cama": 15700 },
+          "precios": { "Semicama": 13300, "Cama": 15700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:18hs","12:18hs","19:03hs"],
-            "domingos_ida": ["10:58hs"],
-            "diario_ida": ["16:43hs"],
-            "lunes_a_viernes_vuelta": ["07:31hs","15:18hs","21:18hs"],
-            "domingos_vuelta": ["19:35hs"],
-            "diario_vuelta": ["13:11hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:37hs"],
+            "domingos_vuelta": ["09:37hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16098,12 +16242,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 10800, "Cama": 15200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:25hs","12:25hs","19:10hs"],
-            "domingos_ida": ["11:05hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
             "diario_ida": ["16:50hs"],
-            "lunes_a_viernes_vuelta": ["07:38hs","15:25hs","21:25hs"],
-            "domingos_vuelta": ["19:42hs"],
-            "diario_vuelta": ["13:18hs"],
+            "lunes_a_viernes_vuelta": ["09:45hs"],
+            "domingos_vuelta": ["09:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16118,12 +16262,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9400, "Cama": 13400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:32hs","12:32hs","19:17hs"],
-            "domingos_ida": ["11:12hs"],
-            "diario_ida": ["16:57hs"],
-            "lunes_a_viernes_vuelta": ["07:45hs","15:32hs","21:32hs"],
-            "domingos_vuelta": ["19:49hs"],
-            "diario_vuelta": ["13:25hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:55hs"],
+            "domingos_vuelta": ["09:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16138,12 +16282,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9300, "Cama": 11900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:40hs","12:40hs","19:24hs"],
-            "domingos_ida": ["11:19hs"],
-            "diario_ida": ["17:04hs"],
-            "lunes_a_viernes_vuelta": ["07:52hs","15:40hs","21:40hs"],
-            "domingos_vuelta": ["19:56hs"],
-            "diario_vuelta": ["13:32hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:06hs"],
+            "domingos_vuelta": ["10:06hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16156,14 +16300,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 8100, "Cama": 8100 },
+          "precios": { "Semicama": 6100, "Cama": 8100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:48hs","12:48hs","19:31hs"],
-            "domingos_ida": ["11:26hs"],
-            "diario_ida": ["17:11hs"],
-            "lunes_a_viernes_vuelta": ["08:00hs","15:48hs","21:48hs"],
-            "domingos_vuelta": ["20:03hs"],
-            "diario_vuelta": ["13:39hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:15hs"],
+            "domingos_vuelta": ["10:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16178,12 +16322,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5100, "Cama": 7100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:05hs","13:05hs","19:50hs"],
-            "domingos_ida": ["11:45hs"],
-            "diario_ida": ["17:30hs"],
-            "lunes_a_viernes_vuelta": ["08:18hs","16:05hs","22:05hs"],
-            "domingos_vuelta": ["20:20hs"],
-            "diario_vuelta": ["13:55hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:30hs"],
+            "domingos_vuelta": ["10:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16198,12 +16342,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4200, "Cama": 6300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:12hs","13:12hs","19:57hs"],
-            "domingos_ida": ["11:52hs"],
-            "diario_ida": ["17:37hs"],
-            "lunes_a_viernes_vuelta": ["08:25hs","16:12hs","22:12hs"],
-            "domingos_vuelta": ["20:27hs"],
-            "diario_vuelta": ["14:02hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16218,12 +16362,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2900, "Cama": 5200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:20hs","13:20hs","20:05hs"],
-            "domingos_ida": ["12:00hs"],
-            "diario_ida": ["17:45hs"],
-            "lunes_a_viernes_vuelta": ["08:33hs","16:20hs","22:20hs"],
-            "domingos_vuelta": ["20:35hs"],
-            "diario_vuelta": ["14:10hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16238,12 +16382,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:28hs","13:28hs","20:13hs"],
-            "domingos_ida": ["12:08hs"],
-            "diario_ida": ["17:53hs"],
-            "lunes_a_viernes_vuelta": ["08:41hs","16:28hs","22:28hs"],
-            "domingos_vuelta": ["20:43hs"],
-            "diario_vuelta": ["14:18hs"],
+            "lunes_a_viernes_ida": ["18:25hs"],
+            "domingos_ida": ["18:25hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:50hs"],
+            "domingos_vuelta": ["10:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16258,12 +16402,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:40hs","13:40hs","20:25hs"],
-            "domingos_ida": ["12:20hs"],
-            "diario_ida": ["18:05hs"],
-            "lunes_a_viernes_vuelta": ["08:53hs","16:40hs","22:40hs"],
-            "domingos_vuelta": ["20:55hs"],
-            "diario_vuelta": ["14:30hs"],
+            "lunes_a_viernes_ida": ["11:05hs"],
+            "domingos_ida": ["11:05hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["18:10hs"],
+            "domingos_vuelta": ["18:10hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16276,14 +16420,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 3000, "Cama": 3300 },
+          "precios": { "Semicama": 3900, "Cama": 5000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:55hs","13:55hs","20:40hs"],
-            "domingos_ida": ["12:35hs"],
-            "diario_ida": ["18:20hs"],
-            "lunes_a_viernes_vuelta": ["09:08hs","16:55hs","22:55hs"],
-            "domingos_vuelta": ["21:10hs"],
-            "diario_vuelta": ["14:45hs"],
+            "lunes_a_viernes_ida": ["11:05hs"],
+            "domingos_ida": ["11:05hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["17:45hs"],
+            "domingos_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16298,12 +16442,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5900, "Cama": 7000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:10hs","14:10hs","20:55hs"],
-            "domingos_ida": ["12:50hs"],
-            "diario_ida": ["18:35hs"],
-            "lunes_a_viernes_vuelta": ["09:23hs","17:10hs","23:10hs"],
-            "domingos_vuelta": ["21:25hs"],
-            "diario_vuelta": ["15:00hs"],
+            "lunes_a_viernes_ida": ["11:05hs"],
+            "domingos_ida": ["11:05hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["16:55hs"],
+            "domingos_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16318,12 +16462,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16000, "Cama": 18300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:25hs","14:25hs","21:10hs"],
-            "domingos_ida": ["13:05hs"],
-            "diario_ida": ["18:50hs"],
-            "lunes_a_viernes_vuelta": ["09:38hs","17:25hs","23:25hs"],
-            "domingos_vuelta": ["21:40hs"],
-            "diario_vuelta": ["15:15hs"],
+            "lunes_a_viernes_ida": ["11:05hs"],
+            "domingos_ida": ["11:05hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16338,12 +16482,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16000, "Cama": 18300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:35hs","14:35hs","21:20hs"],
-            "domingos_ida": ["13:15hs"],
-            "diario_ida": ["19:00hs"],
-            "lunes_a_viernes_vuelta": ["09:48hs","17:35hs","23:35hs"],
-            "domingos_vuelta": ["21:50hs"],
-            "diario_vuelta": ["15:25hs"],
+            "lunes_a_viernes_ida": ["15:40hs"],
+            "domingos_ida": ["15:40hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["11:05hs"],
+            "domingos_vuelta": ["11:05hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16789,12 +16933,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 35500, "Cama": 39800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["05:40hs","12:20hs","18:35hs"],
-            "domingos_ida": ["10:05hs"],
-            "diario_ida": ["16:10hs"],
-            "lunes_a_viernes_vuelta": ["07:10hs","15:15hs","21:20hs"],
-            "domingos_vuelta": ["19:25hs"],
-            "diario_vuelta": ["12:55hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:15hs"],
+            "domingos_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16807,14 +16951,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 34500, "Cama": 38800 },
+          "precios": { "Semicama": 34500, "Cama": 38600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:08hs","11:18hs","17:55hs"],
-            "domingos_ida": ["10:35hs"],
-            "diario_ida": ["15:45hs"],
-            "lunes_a_viernes_vuelta": ["07:32hs","14:52hs","21:10hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["12:35hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:30hs"],
+            "domingos_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16829,12 +16973,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 35000, "Cama": 37000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:15hs","11:40hs","18:25hs"],
-            "domingos_ida": ["10:25hs"],
-            "diario_ida": ["16:05hs"],
-            "lunes_a_viernes_vuelta": ["07:05hs","15:20hs","21:15hs"],
-            "domingos_vuelta": ["19:15hs"],
-            "diario_vuelta": ["13:05hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:40hs"],
+            "domingos_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16849,12 +16993,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 32000, "Cama": 35500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:22hs","11:50hs","18:35hs"],
-            "domingos_ida": ["10:45hs"],
-            "diario_ida": ["16:15hs"],
-            "lunes_a_viernes_vuelta": ["07:12hs","15:28hs","21:22hs"],
-            "domingos_vuelta": ["19:35hs"],
-            "diario_vuelta": ["13:12hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:50hs"],
+            "domingos_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16869,12 +17013,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 31000, "Cama": 34700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["05:55hs","10:55hs","17:30hs"],
-            "domingos_ida": ["09:50hs"],
-            "diario_ida": ["15:20hs"],
-            "lunes_a_viernes_vuelta": ["06:50hs","14:20hs","20:40hs"],
-            "domingos_vuelta": ["18:40hs"],
-            "diario_vuelta": ["12:20hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:00hs"],
+            "domingos_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16889,12 +17033,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 30100, "Cama": 33700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:05hs","12:05hs","18:50hs"],
-            "domingos_ida": ["10:40hs"],
-            "diario_ida": ["16:30hs"],
-            "lunes_a_viernes_vuelta": ["07:18hs","15:05hs","21:05hs"],
-            "domingos_vuelta": ["19:28hs"],
-            "diario_vuelta": ["12:58hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:15hs"],
+            "domingos_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16909,12 +17053,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 29000, "Cama": 32600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:12hs","12:12hs","18:57hs"],
-            "domingos_ida": ["10:52hs"],
-            "diario_ida": ["16:37hs"],
-            "lunes_a_viernes_vuelta": ["07:25hs","15:12hs","21:12hs"],
-            "domingos_vuelta": ["19:22hs"],
-            "diario_vuelta": ["13:05hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:25hs"],
+            "domingos_vuelta": ["09:25hs"],
+            "diario_vuelta": [  ],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16929,12 +17073,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 28000, "Cama": 31700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:18hs","12:18hs","19:03hs"],
-            "domingos_ida": ["10:58hs"],
-            "diario_ida": ["16:43hs"],
-            "lunes_a_viernes_vuelta": ["07:31hs","15:18hs","21:18hs"],
-            "domingos_vuelta": ["19:30hs"],
-            "diario_vuelta": ["13:11hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:37hs"],
+            "domingos_vuelta": ["09:37hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16949,12 +17093,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 25500, "Cama": 31200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:25hs","12:25hs","19:10hs"],
-            "domingos_ida": ["11:05hs"],
-            "diario_ida": ["16:50hs"],
-            "lunes_a_viernes_vuelta": ["07:38hs","15:25hs","21:25hs"],
-            "domingos_vuelta": ["19:45hs"],
-            "diario_vuelta": ["13:18hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:45hs"],
+            "domingos_vuelta": ["09:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16969,12 +17113,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 24200, "Cama": 29900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:32hs","12:32hs","19:17hs"],
-            "domingos_ida": ["11:12hs"],
-            "diario_ida": ["16:57hs"],
-            "lunes_a_viernes_vuelta": ["07:45hs","15:32hs","21:32hs"],
-            "domingos_vuelta": ["19:52hs"],
-            "diario_vuelta": ["13:25hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:55hs"],
+            "domingos_vuelta": ["09:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16989,12 +17133,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 23000, "Cama": 27600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:40hs","12:40hs","19:24hs"],
-            "domingos_ida": ["11:19hs"],
-            "diario_ida": ["17:04hs"],
-            "lunes_a_viernes_vuelta": ["07:52hs","15:40hs","21:40hs"],
-            "domingos_vuelta": ["19:58hs"],
-            "diario_vuelta": ["13:32hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:06hs"],
+            "domingos_vuelta": ["10:06hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17009,12 +17153,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 22300, "Cama": 25600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:48hs","12:48hs","19:31hs"],
-            "domingos_ida": ["11:26hs"],
-            "diario_ida": ["17:11hs"],
-            "lunes_a_viernes_vuelta": ["08:00hs","15:48hs","21:48hs"],
-            "domingos_vuelta": ["20:03hs"],
-            "diario_vuelta": ["13:39hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:15hs"],
+            "domingos_vuelta": ["10:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17029,14 +17173,14 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 21300, "Cama": 23500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:05hs","13:05hs","19:50hs"],
-            "domingos_ida": ["11:45hs"],
-            "diario_ida": ["17:30hs"],
-            "lunes_a_viernes_vuelta": ["08:18hs","16:05hs","22:05hs"],
-            "domingos_vuelta": ["20:20hs"],
-            "diario_vuelta": ["13:55hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:30hs"],
+            "domingos_vuelta": ["10:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
-            "sabados_domingos_vuelta": [],
+            "sabados_domingos_vuelta": [],  
             "diario": []
           }
         }
@@ -17049,12 +17193,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 20300, "Cama": 22500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:12hs","13:12hs","19:57hs"],
-            "domingos_ida": ["11:52hs"],
-            "diario_ida": ["17:37hs"],
-            "lunes_a_viernes_vuelta": ["08:25hs","16:12hs","22:12hs"],
-            "domingos_vuelta": ["20:27hs"],
-            "diario_vuelta": ["14:02hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17069,12 +17213,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 19800, "Cama": 21100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:20hs","13:20hs","20:05hs"],
-            "domingos_ida": ["12:00hs"],
-            "diario_ida": ["17:45hs"],
-            "lunes_a_viernes_vuelta": ["08:33hs","16:20hs","22:20hs"],
-            "domingos_vuelta": ["20:35hs"],
-            "diario_vuelta": ["14:10hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17089,12 +17233,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 18800, "Cama": 19800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:28hs","13:28hs","20:13hs"],
-            "domingos_ida": ["12:08hs"],
-            "diario_ida": ["17:53hs"],
-            "lunes_a_viernes_vuelta": ["08:41hs","16:28hs","22:28hs"],
-            "domingos_vuelta": ["20:43hs"],
-            "diario_vuelta": ["14:18hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:50hs"],
+            "domingos_vuelta": ["10:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17109,12 +17253,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16000, "Cama": 18300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:35hs","13:35hs","20:20hs"],
-            "domingos_ida": ["12:15hs"],
-            "diario_ida": ["18:00hs"],
-            "lunes_a_viernes_vuelta": ["08:48hs","16:35hs","22:35hs"],
-            "domingos_vuelta": ["20:50hs"],
-            "diario_vuelta": ["14:22hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["11:05hs"],
+            "domingos_vuelta": ["11:05hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17129,12 +17273,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 11600, "Cama": 17400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:40hs","13:40hs","20:25hs"],
-            "domingos_ida": ["12:20hs"],
-            "diario_ida": ["18:05hs"],
-            "lunes_a_viernes_vuelta": ["08:53hs","16:40hs","22:40hs"],
-            "domingos_vuelta": ["20:55hs"],
-            "diario_vuelta": ["14:30hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["11:30hs"],
+            "domingos_vuelta": ["11:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17149,12 +17293,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6400, "Cama": 15900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:55hs","13:55hs","20:40hs"],
-            "domingos_ida": ["12:35hs"],
-            "diario_ida": ["18:20hs"],
-            "lunes_a_viernes_vuelta": ["09:08hs","16:55hs","22:55hs"],
-            "domingos_vuelta": ["21:10hs"],
-            "diario_vuelta": ["14:45hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["11:50hs"],
+            "domingos_vuelta": ["11:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17167,14 +17311,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6400, "Cama": 14100 },
+          "precios": { "Semicama": 6400, "Cama": 14000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:10hs","14:10hs","20:55hs"],
-            "domingos_ida": ["12:50hs"],
-            "diario_ida": ["18:35hs"],
-            "lunes_a_viernes_vuelta": ["09:23hs","17:10hs","23:10hs"],
-            "domingos_vuelta": ["21:25hs"],
-            "diario_vuelta": ["15:00hs"],
+            "lunes_a_viernes_ida": [],
+            "domingos_ida": [],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["12:45hs"],
+            "domingos_vuelta": ["12:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17187,14 +17331,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6400, "Cama": 13100 },
+          "precios": { "Semicama": 6400, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:20hs","14:25hs","21:10hs"],
-            "domingos_ida": ["13:05hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["09:35hs","17:25hs","23:15hs"],
-            "domingos_vuelta": ["21:40hs"],
-            "diario_vuelta": ["15:15hs"],
+            "lunes_a_viernes_ida": ["13:45hs"],
+            "domingos_ida": ["13:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["15:40hs"],
+            "domingos_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17214,12 +17358,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 26100, "Cama": 29200 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:00hs","12:10hs","18:40hs"],
-            "domingos_ida": ["10:20hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
             "diario_ida": ["16:25hs"],
-            "lunes_a_viernes_vuelta": ["07:25hs","15:00hs","21:30hs"],
-            "domingos_vuelta": ["19:35hs"],
-            "diario_vuelta": ["12:50hs"],
+            "lunes_a_viernes_vuelta": ["08:15hs"],
+            "domingos_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17234,12 +17378,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 25500, "Cama": 28300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:08hs","11:18hs","17:55hs"],
-            "domingos_ida": ["10:05hs"],
-            "diario_ida": ["15:45hs"],
-            "lunes_a_viernes_vuelta": ["07:32hs","14:52hs","21:10hs"],
-            "domingos_vuelta": ["19:20hs"],
-            "diario_vuelta": ["12:35hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:30hs"],
+            "domingos_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17252,14 +17396,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 24000, "Cama": 28500 },
+          "precios": { "Semicama": 24000, "Cama": 26500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:15hs","11:40hs","18:25hs"],
-            "domingos_ida": ["10:25hs"],
-            "diario_ida": ["16:05hs"],
-            "lunes_a_viernes_vuelta": ["07:05hs","15:20hs","21:15hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["13:05hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["8:40hs"],
+            "domingos_vuelta": ["8:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17272,14 +17416,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 23100, "Cama": 25700 },
+          "precios": { "Semicama": 23000, "Cama": 25700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:22hs","11:50hs","18:35hs"],
-            "domingos_ida": ["10:35hs"],
-            "diario_ida": ["16:15hs"],
-            "lunes_a_viernes_vuelta": ["07:12hs","15:28hs","21:22hs"],
-            "domingos_vuelta": ["19:18hs"],
-            "diario_vuelta": ["13:12hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:50hs"],
+            "domingos_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17294,12 +17438,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 22100, "Cama": 23400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["05:45hs","10:55hs","17:30hs"],
-            "domingos_ida": ["09:50hs"],
-            "diario_ida": ["15:20hs"],
-            "lunes_a_viernes_vuelta": ["06:50hs","14:20hs","20:40hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["12:20hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:00hs"],
+            "domingos_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17312,14 +17456,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 21100, "Cama": 23900 },
+          "precios": { "Semicama": 20000, "Cama": 22800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:05hs","12:05hs","18:50hs"],
-            "domingos_ida": ["10:45hs"],
-            "diario_ida": ["16:30hs"],
-            "lunes_a_viernes_vuelta": ["07:18hs","15:05hs","21:05hs"],
-            "domingos_vuelta": ["19:22hs"],
-            "diario_vuelta": ["12:58hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:25hs"],
+            "domingos_vuelta": ["09:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17328,7 +17472,7 @@
       ]
     },
     {
-      "destino": "Rosier",
+      "destino": "Rossier",
       "servicios": [
         {
           "tipo": "Semicama y Cama",
@@ -17354,12 +17498,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 19000, "Cama": 21900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:18hs","12:18hs","19:03hs"],
-            "domingos_ida": ["10:58hs"],
-            "diario_ida": ["16:43hs"],
-            "lunes_a_viernes_vuelta": ["07:31hs","15:18hs","21:18hs"],
-            "domingos_vuelta": ["19:35hs"],
-            "diario_vuelta": ["13:11hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:37hs"],
+            "domingos_vuelta": ["09:37hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17372,14 +17516,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 18500, "Cama": 21400 },
+          "precios": { "Semicama": 16500, "Cama": 21400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:25hs","12:25hs","19:10hs"],
-            "domingos_ida": ["11:05hs"],
-            "diario_ida": ["16:50hs"],
-            "lunes_a_viernes_vuelta": ["07:38hs","15:25hs","21:25hs"],
-            "domingos_vuelta": ["19:42hs"],
-            "diario_vuelta": ["13:18hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:45hs"],
+            "domingos_vuelta": ["09:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17392,14 +17536,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 15100, "Cama": 19800 },
+          "precios": { "Semicama": 15100, "Cama": 19600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:32hs","12:32hs","19:17hs"],
-            "domingos_ida": ["11:12hs"],
-            "diario_ida": ["16:57hs"],
-            "lunes_a_viernes_vuelta": ["07:45hs","15:32hs","21:32hs"],
-            "domingos_vuelta": ["19:49hs"],
-            "diario_vuelta": ["13:25hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:55hs"],
+            "domingos_vuelta": ["09:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17414,12 +17558,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 14000, "Cama": 18100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:40hs","12:40hs","19:24hs"],
-            "domingos_ida": ["11:19hs"],
-            "diario_ida": ["17:04hs"],
-            "lunes_a_viernes_vuelta": ["07:52hs","15:40hs","21:40hs"],
-            "domingos_vuelta": ["19:56hs"],
-            "diario_vuelta": ["13:32hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:06hs"],
+            "domingos_vuelta": ["10:06hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17434,12 +17578,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 11300, "Cama": 14400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:48hs","12:48hs","19:31hs"],
-            "domingos_ida": ["11:26hs"],
-            "diario_ida": ["17:11hs"],
-            "lunes_a_viernes_vuelta": ["08:00hs","15:48hs","21:48hs"],
-            "domingos_vuelta": ["20:03hs"],
-            "diario_vuelta": ["13:39hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:15hs"],
+            "domingos_vuelta": ["10:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17454,12 +17598,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 10300, "Cama": 13400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:05hs","13:05hs","19:50hs"],
-            "domingos_ida": ["11:45hs"],
-            "diario_ida": ["17:30hs"],
-            "lunes_a_viernes_vuelta": ["08:18hs","16:05hs","22:05hs"],
-            "domingos_vuelta": ["20:20hs"],
-            "diario_vuelta": ["13:55hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:30hs"],
+            "domingos_vuelta": ["10:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17474,12 +17618,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 9300, "Cama": 12600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:12hs","13:12hs","19:57hs"],
-            "domingos_ida": ["11:52hs"],
-            "diario_ida": ["17:37hs"],
-            "lunes_a_viernes_vuelta": ["08:25hs","16:12hs","22:12hs"],
-            "domingos_vuelta": ["20:27hs"],
-            "diario_vuelta": ["14:02hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17494,12 +17638,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7800, "Cama": 11600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:20hs","13:20hs","20:05hs"],
-            "domingos_ida": ["12:00hs"],
-            "diario_ida": ["17:45hs"],
-            "lunes_a_viernes_vuelta": ["08:33hs","16:20hs","22:20hs"],
-            "domingos_vuelta": ["20:35hs"],
-            "diario_vuelta": ["14:10hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17514,12 +17658,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7400, "Cama": 10400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:28hs","13:28hs","20:13hs"],
-            "domingos_ida": ["12:08hs"],
-            "diario_ida": ["17:53hs"],
-            "lunes_a_viernes_vuelta": ["08:41hs","16:28hs","22:28hs"],
-            "domingos_vuelta": ["20:43hs"],
-            "diario_vuelta": ["14:18hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:50hs"],
+            "domingos_vuelta": ["10:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17532,14 +17676,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6900, "Cama": 7000 },
+          "precios": { "Semicama": 5900, "Cama": 7000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:35hs","13:35hs","20:20hs"],
-            "domingos_ida": ["12:15hs"],
-            "diario_ida": ["18:00hs"],
-            "lunes_a_viernes_vuelta": ["08:48hs","16:35hs","22:35hs"],
-            "domingos_vuelta": ["20:50hs"],
-            "diario_vuelta": ["14:22hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["11:05hs"],
+            "domingos_vuelta": ["11:05hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17552,14 +17696,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6500, "Cama": 9100 },
+          "precios": { "Semicama": 4600, "Cama": 5100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:40hs","13:40hs","20:25hs"],
-            "domingos_ida": ["12:20hs"],
-            "diario_ida": ["18:05hs"],
-            "lunes_a_viernes_vuelta": ["08:53hs","16:40hs","22:40hs"],
-            "domingos_vuelta": ["20:55hs"],
-            "diario_vuelta": ["14:30hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["11:30hs"],
+            "domingos_vuelta": ["11:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17574,12 +17718,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:55hs","13:55hs","20:40hs"],
-            "domingos_ida": ["12:35hs"],
-            "diario_ida": ["18:20hs"],
-            "lunes_a_viernes_vuelta": ["09:08hs","16:55hs","22:55hs"],
-            "domingos_vuelta": ["21:10hs"],
-            "diario_vuelta": ["14:45hs"],
+            "lunes_a_viernes_ida": ["16:55hs"],
+            "domingos_ida": ["16:55hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["11:50hs"],
+            "domingos_vuelta": ["11:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17594,12 +17738,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6400, "Cama": 14000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:15hs","14:20hs","21:00hs"],
-            "domingos_ida": ["13:10hs"],
-            "diario_ida": ["18:40hs"],
-            "lunes_a_viernes_vuelta": ["09:28hs","17:20hs","23:20hs"],
-            "domingos_vuelta": ["21:28hs"],
-            "diario_vuelta": ["15:05hs"],
+            "lunes_a_viernes_ida": ["12:45hs"],
+            "domingos_ida": ["12:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17614,12 +17758,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6400, "Cama": 14000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:20hs","14:25hs","21:10hs"],
-            "domingos_ida": ["13:15hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["09:35hs","17:25hs","23:15hs"],
-            "domingos_vuelta": ["21:40hs"],
-            "diario_vuelta": ["15:15hs"],
+            "lunes_a_viernes_ida": ["12:45hs"],
+            "domingos_ida": ["12:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["15:40hs"],
+            "domingos_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17639,12 +17783,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 22600, "Cama": 25300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["05:55hs","11:25hs","18:10hs"],
-            "domingos_ida": ["10:15hs"],
-            "diario_ida": ["16:20hs"],
-            "lunes_a_viernes_vuelta": ["07:20hs","15:05hs","21:35hs"],
-            "domingos_vuelta": ["19:30hs"],
-            "diario_vuelta": ["12:45hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:15hs"],
+            "domingos_vuelta": ["08:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17659,12 +17803,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 21600, "Cama": 24300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:08hs","11:18hs","17:55hs"],
-            "domingos_ida": ["10:05hs"],
-            "diario_ida": ["15:45hs"],
-            "lunes_a_viernes_vuelta": ["07:32hs","14:52hs","21:10hs"],
-            "domingos_vuelta": ["19:20hs"],
-            "diario_vuelta": ["12:35hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:30hs"],
+            "domingos_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17677,14 +17821,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 20200, "Cama": 24300 },
+          "precios": { "Semicama": 20200, "Cama": 22500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:15hs","11:40hs","18:25hs"],
-            "domingos_ida": ["10:25hs"],
-            "diario_ida": ["16:05hs"],
-            "lunes_a_viernes_vuelta": ["07:05hs","15:20hs","21:15hs"],
-            "domingos_vuelta": ["19:10hs"],
-            "diario_vuelta": ["13:05hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:40hs"],
+            "domingos_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17699,12 +17843,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 19100, "Cama": 21700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:22hs","11:50hs","18:35hs"],
-            "domingos_ida": ["10:35hs"],
-            "diario_ida": ["16:15hs"],
-            "lunes_a_viernes_vuelta": ["07:12hs","15:28hs","21:22hs"],
-            "domingos_vuelta": ["19:18hs"],
-            "diario_vuelta": ["13:12hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:50hs"],
+            "domingos_vuelta": ["08:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17719,12 +17863,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 18100, "Cama": 19300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["05:45hs","10:55hs","17:30hs"],
-            "domingos_ida": ["09:50hs"],
-            "diario_ida": ["15:20hs"],
-            "lunes_a_viernes_vuelta": ["06:50hs","14:20hs","20:40hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["12:20hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:00hs"],
+            "domingos_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17739,12 +17883,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 17200, "Cama": 19900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:05hs","12:05hs","18:50hs"],
-            "domingos_ida": ["10:45hs"],
-            "diario_ida": ["16:30hs"],
-            "lunes_a_viernes_vuelta": ["07:18hs","15:05hs","21:05hs"],
-            "domingos_vuelta": ["19:22hs"],
-            "diario_vuelta": ["12:58hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:15hs"],
+            "domingos_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17759,12 +17903,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 16100, "Cama": 18800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:12hs","12:12hs","18:57hs"],
-            "domingos_ida": ["10:52hs"],
-            "diario_ida": ["16:37hs"],
-            "lunes_a_viernes_vuelta": ["07:25hs","15:12hs","21:12hs"],
-            "domingos_vuelta": ["19:29hs"],
-            "diario_vuelta": ["13:05hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:25hs"],
+            "domingos_vuelta": ["09:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17779,12 +17923,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 15100, "Cama": 17900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:18hs","12:18hs","19:03hs"],
-            "domingos_ida": ["10:58hs"],
-            "diario_ida": ["16:43hs"],
-            "lunes_a_viernes_vuelta": ["07:31hs","15:18hs","21:18hs"],
-            "domingos_vuelta": ["19:35hs"],
-            "diario_vuelta": ["13:11hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:37hs"],
+            "domingos_vuelta": ["09:37hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17799,12 +17943,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 12600, "Cama": 17400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:25hs","12:25hs","19:10hs"],
-            "domingos_ida": ["11:05hs"],
-            "diario_ida": ["16:50hs"],
-            "lunes_a_viernes_vuelta": ["07:38hs","15:25hs","21:25hs"],
-            "domingos_vuelta": ["19:42hs"],
-            "diario_vuelta": ["13:18hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:45hs"],
+            "domingos_vuelta": ["09:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17819,12 +17963,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 11200, "Cama": 15600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:32hs","12:32hs","19:17hs"],
-            "domingos_ida": ["11:12hs"],
-            "diario_ida": ["16:57hs"],
-            "lunes_a_viernes_vuelta": ["07:45hs","15:32hs","21:32hs"],
-            "domingos_vuelta": ["19:49hs"],
-            "diario_vuelta": ["13:25hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:55hs"],
+            "domingos_vuelta": ["09:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17839,12 +17983,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 10100, "Cama": 14100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:40hs","12:40hs","19:24hs"],
-            "domingos_ida": ["11:19hs"],
-            "diario_ida": ["17:04hs"],
-            "lunes_a_viernes_vuelta": ["07:52hs","15:40hs","21:40hs"],
-            "domingos_vuelta": ["19:56hs"],
-            "diario_vuelta": ["13:32hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:06hs"],
+            "domingos_vuelta": ["10:06hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17859,12 +18003,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 7600, "Cama": 10400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:48hs","12:48hs","19:31hs"],
-            "domingos_ida": ["11:26hs"],
-            "diario_ida": ["17:11hs"],
-            "lunes_a_viernes_vuelta": ["08:00hs","15:48hs","21:48hs"],
-            "domingos_vuelta": ["20:03hs"],
-            "diario_vuelta": ["13:39hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:15hs"],
+            "domingos_vuelta": ["10:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17879,12 +18023,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6600, "Cama": 9400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:05hs","13:05hs","19:50hs"],
-            "domingos_ida": ["11:45hs"],
-            "diario_ida": ["17:30hs"],
-            "lunes_a_viernes_vuelta": ["08:18hs","16:05hs","22:05hs"],
-            "domingos_vuelta": ["20:20hs"],
-            "diario_vuelta": ["13:55hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:30hs"],
+            "domingos_vuelta": ["10:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17899,12 +18043,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5700, "Cama": 8600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:12hs","13:12hs","19:57hs"],
-            "domingos_ida": ["11:52hs"],
-            "diario_ida": ["17:37hs"],
-            "lunes_a_viernes_vuelta": ["08:25hs","16:12hs","22:12hs"],
-            "domingos_vuelta": ["20:27hs"],
-            "diario_vuelta": ["14:02hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17919,12 +18063,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4400, "Cama": 7600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:20hs","13:20hs","20:05hs"],
-            "domingos_ida": ["12:00hs"],
-            "diario_ida": ["17:45hs"],
-            "lunes_a_viernes_vuelta": ["08:33hs","16:20hs","22:20hs"],
-            "domingos_vuelta": ["20:35hs"],
-            "diario_vuelta": ["14:10hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17939,12 +18083,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4000, "Cama": 6400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:28hs","13:28hs","20:13hs"],
-            "domingos_ida": ["12:08hs"],
-            "diario_ida": ["17:53hs"],
-            "lunes_a_viernes_vuelta": ["08:41hs","16:28hs","22:28hs"],
-            "domingos_vuelta": ["20:43hs"],
-            "diario_vuelta": ["14:18hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:50hs"],
+            "domingos_vuelta": ["10:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17959,12 +18103,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:35hs","13:35hs","20:20hs"],
-            "domingos_ida": ["12:15hs"],
-            "diario_ida": ["18:00hs"],
-            "lunes_a_viernes_vuelta": ["08:48hs","16:35hs","22:35hs"],
-            "domingos_vuelta": ["20:50hs"],
-            "diario_vuelta": ["14:22hs"],
+            "lunes_a_viernes_ida": ["18:10hs"],
+            "domingos_ida": ["18:10hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["11:05hs"],
+            "domingos_vuelta": ["11:05hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17979,12 +18123,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:55hs","13:55hs","20:40hs"],
-            "domingos_ida": ["12:35hs"],
-            "diario_ida": ["18:20hs"],
-            "lunes_a_viernes_vuelta": ["09:08hs","16:55hs","22:55hs"],
-            "domingos_vuelta": ["21:10hs"],
-            "diario_vuelta": ["14:45hs"],
+            "lunes_a_viernes_ida": ["11:30hs"],
+            "domingos_ida": ["11:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["17:45hs"],
+            "domingos_vuelta": ["17:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17999,12 +18143,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 4600, "Cama": 5100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:10hs","14:10hs","20:55hs"],
-            "domingos_ida": ["12:50hs"],
-            "diario_ida": ["18:35hs"],
-            "lunes_a_viernes_vuelta": ["09:23hs","17:10hs","23:10hs"],
-            "domingos_vuelta": ["21:25hs"],
-            "diario_vuelta": ["15:00hs"],
+            "lunes_a_viernes_ida": ["11:30hs"],
+            "domingos_ida": ["11:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["16:55hs"],
+            "domingos_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18019,12 +18163,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 11600, "Cama": 17400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:25hs","14:25hs","21:10hs"],
-            "domingos_ida": ["13:05hs"],
-            "diario_ida": ["18:50hs"],
-            "lunes_a_viernes_vuelta": ["09:38hs","17:25hs","23:25hs"],
-            "domingos_vuelta": ["21:40hs"],
-            "diario_vuelta": ["15:15hs"],
+            "lunes_a_viernes_ida": ["11:30hs"],
+            "domingos_ida": ["11:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18039,12 +18183,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 11600, "Cama": 17400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:45hs","14:45hs","21:30hs"],
-            "domingos_ida": ["13:25hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["09:15hs","15:40hs","22:40hs"],
-            "domingos_vuelta": ["20:55hs"],
-            "diario_vuelta": ["14:30hs"],
+            "lunes_a_viernes_ida": ["11:30hs"],
+            "domingos_ida": ["11:30hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["15:40hs"],
+            "domingos_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18064,12 +18208,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 24500, "Cama": 27300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["05:40hs","11:10hs","17:55hs"],
-            "domingos_ida": ["09:55hs"],
-            "diario_ida": ["15:55hs"],
-            "lunes_a_viernes_vuelta": ["07:35hs","15:20hs","21:50hs"],
-            "domingos_vuelta": ["19:45hs"],
-            "diario_vuelta": ["12:55hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:15hs"],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18084,12 +18228,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 23500, "Cama": 26300 },
           "horarios": {
-            "lunes_a_viernes_ida": ["05:55hs","11:05hs","17:45hs"],
-            "domingos_ida": ["09:45hs"],
-            "diario_ida": ["15:45hs"],
-            "lunes_a_viernes_vuelta": ["07:25hs","15:05hs","21:35hs"],
-            "domingos_vuelta": ["19:35hs"],
-            "diario_vuelta": ["12:45hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:30hs"],
+            "domingos_vuelta": ["08:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18102,14 +18246,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 22200, "Cama": 24300 },
+          "precios": { "Semicama": 22200, "Cama": 24500 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:05hs","11:25hs","18:10hs"],
-            "domingos_ida": ["10:05hs"],
-            "diario_ida": ["16:05hs"],
-            "lunes_a_viernes_vuelta": ["07:10hs","15:15hs","21:25hs"],
-            "domingos_vuelta": ["19:25hs"],
-            "diario_vuelta": ["13:00hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:40hs"],
+            "domingos_vuelta": ["08:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18124,12 +18268,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 21000, "Cama": 23700 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:15hs","11:35hs","18:20hs"],
-            "domingos_ida": ["10:15hs"],
-            "diario_ida": ["16:15hs"],
-            "lunes_a_viernes_vuelta": ["07:00hs","15:25hs","21:35hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["08:50hs"],
             "domingos_vuelta": ["19:15hs"],
-            "diario_vuelta": ["13:10hs"],
+            "diario_vuelta": ["08:50hs"],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18144,12 +18288,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 20100, "Cama": 21400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:25hs","11:45hs","18:30hs"],
-            "domingos_ida": ["10:25hs"],
-            "diario_ida": ["16:25hs"],
-            "lunes_a_viernes_vuelta": ["06:50hs","15:35hs","21:45hs"],
-            "domingos_vuelta": ["19:05hs"],
-            "diario_vuelta": ["13:20hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:00hs"],
+            "domingos_vuelta": ["09:00hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18164,12 +18308,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 19100, "Cama": 21900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:35hs","11:55hs","18:40hs"],
-            "domingos_ida": ["10:35hs"],
-            "diario_ida": ["16:35hs"],
-            "lunes_a_viernes_vuelta": ["06:40hs","15:45hs","21:55hs"],
-            "domingos_vuelta": ["18:55hs"],
-            "diario_vuelta": ["13:30hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:15hs"],
+            "domingos_vuelta": ["09:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18184,12 +18328,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 18000, "Cama": 20800 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:45hs","12:05hs","18:50hs"],
-            "domingos_ida": ["10:45hs"],
-            "diario_ida": ["16:45hs"],
-            "lunes_a_viernes_vuelta": ["06:30hs","15:55hs","22:05hs"],
-            "domingos_vuelta": ["18:45hs"],
-            "diario_vuelta": ["13:40hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:25hs"],
+            "domingos_vuelta": ["09:25hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18202,14 +18346,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 17100, "Cama": 19900 },
+          "precios": { "Semicama": 17000, "Cama": 19900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["06:55hs","12:15hs","19:00hs"],
-            "domingos_ida": ["10:55hs"],
-            "diario_ida": ["16:55hs"],
-            "lunes_a_viernes_vuelta": ["06:20hs","16:05hs","22:15hs"],
-            "domingos_vuelta": ["18:35hs"],
-            "diario_vuelta": ["13:50hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["9:37hs"],
+            "domingos_vuelta": ["09:37hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18224,12 +18368,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 14500, "Cama": 19400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:05hs","12:25hs","19:10hs"],
-            "domingos_ida": ["11:05hs"],
-            "diario_ida": ["17:05hs"],
-            "lunes_a_viernes_vuelta": ["06:10hs","16:15hs","22:25hs"],
-            "domingos_vuelta": ["18:25hs"],
-            "diario_vuelta": ["14:00hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:45hs"],
+            "domingos_vuelta": ["09:45hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18244,12 +18388,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 13200, "Cama": 17600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:15hs","12:35hs","19:20hs"],
-            "domingos_ida": ["11:15hs"],
-            "diario_ida": ["17:15hs"],
-            "lunes_a_viernes_vuelta": ["06:00hs","16:25hs","22:35hs"],
-            "domingos_vuelta": ["18:15hs"],
-            "diario_vuelta": ["14:10hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["09:55hs"],
+            "domingos_vuelta": ["09:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18262,14 +18406,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 9100, "Cama": 16100 },
+          "precios": { "Semicama": 12000, "Cama": 16100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:25hs","12:45hs","19:30hs"],
-            "domingos_ida": ["11:25hs"],
-            "diario_ida": ["17:25hs"],
-            "lunes_a_viernes_vuelta": ["09:55hs","16:35hs","22:45hs"],
-            "domingos_vuelta": ["21:05hs"],
-            "diario_vuelta": ["14:20hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:06hs"],
+            "domingos_vuelta": ["10:06hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18282,14 +18426,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 5200, "Cama": 12400 },
+          "precios": { "Semicama": 9500, "Cama": 12400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:35hs","12:55hs","19:40hs"],
-            "domingos_ida": ["11:35hs"],
-            "diario_ida": ["17:35hs"],
-            "lunes_a_viernes_vuelta": ["09:45hs","16:45hs","22:55hs"],
-            "domingos_vuelta": ["20:55hs"],
-            "diario_vuelta": ["14:30hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:15hs"],
+            "domingos_vuelta": ["10:15hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18304,12 +18448,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 8500, "Cama": 11400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:50hs","13:10hs","19:55hs"],
-            "domingos_ida": ["11:50hs"],
-            "diario_ida": ["17:50hs"],
-            "lunes_a_viernes_vuelta": ["09:30hs","17:00hs","23:10hs"],
-            "domingos_vuelta": ["20:40hs"],
-            "diario_vuelta": ["14:45hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:30hs"],
+            "domingos_vuelta": ["10:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18322,14 +18466,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 7200, "Cama": 10400 },
+          "precios": { "Semicama": 7500, "Cama": 10600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["07:58hs","13:18hs","20:03hs"],
-            "domingos_ida": ["11:58hs"],
-            "diario_ida": ["17:58hs"],
-            "lunes_a_viernes_vuelta": ["09:22hs","17:08hs","23:18hs"],
-            "domingos_vuelta": ["20:32hs"],
-            "diario_vuelta": ["14:53hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18344,12 +18488,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5900, "Cama": 9600 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:05hs","13:25hs","20:10hs"],
-            "domingos_ida": ["12:05hs"],
-            "diario_ida": ["18:05hs"],
-            "lunes_a_viernes_vuelta": ["09:15hs","17:15hs","23:25hs"],
-            "domingos_vuelta": ["20:25hs"],
-            "diario_vuelta": ["15:00hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18364,12 +18508,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 5500, "Cama": 8400 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:12hs","13:32hs","20:17hs"],
-            "domingos_ida": ["12:12hs"],
-            "diario_ida": ["18:12hs"],
-            "lunes_a_viernes_vuelta": ["09:08hs","17:22hs","23:32hs"],
-            "domingos_vuelta": ["20:18hs"],
-            "diario_vuelta": ["15:07hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["10:50hs"],
+            "domingos_vuelta": ["10:50hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18382,14 +18526,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2700, "Cama": 5000 },
+          "precios": { "Semicama": 3900, "Cama": 5000 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:18hs","13:38hs","20:23hs"],
-            "domingos_ida": ["12:18hs"],
-            "diario_ida": ["18:18hs"],
-            "lunes_a_viernes_vuelta": ["09:02hs","17:28hs","23:38hs"],
-            "domingos_vuelta": ["20:12hs"],
-            "diario_vuelta": ["15:13hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["11:05hs"],
+            "domingos_vuelta": ["11:05hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18402,14 +18546,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2700, "Cama": 5300 },
+          "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:25hs","13:45hs","20:30hs"],
-            "domingos_ida": ["12:25hs"],
-            "diario_ida": ["18:25hs"],
-            "lunes_a_viernes_vuelta": ["08:55hs","17:35hs","23:45hs"],
-            "domingos_vuelta": ["20:05hs"],
-            "diario_vuelta": ["15:20hs"],
+            "lunes_a_viernes_ida": ["17:45hs"],
+            "domingos_ida": ["17:45hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["11:30hs"],
+            "domingos_vuelta": ["11:30hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18422,14 +18566,14 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 3200, "Cama": 3700 },
+          "precios": { "Semicama": 2700, "Cama": 3100 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:40hs","14:00hs","20:45hs"],
-            "domingos_ida": ["12:40hs"],
-            "diario_ida": ["18:40hs"],
-            "lunes_a_viernes_vuelta": ["08:40hs","17:50hs","23:55hs"],
-            "domingos_vuelta": ["19:50hs"],
-            "diario_vuelta": ["15:35hs"],
+            "lunes_a_viernes_ida": ["11:50hs"],
+            "domingos_ida": ["11:50hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["16:55hs"],
+            "domingos_vuelta": ["16:55hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18444,12 +18588,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6400, "Cama": 15900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["08:55hs","14:15hs","21:00hs"],
-            "domingos_ida": ["12:55hs"],
-            "diario_ida": ["18:55hs"],
-            "lunes_a_viernes_vuelta": ["08:25hs","18:05hs","00:10hs"],
-            "domingos_vuelta": ["19:35hs"],
-            "diario_vuelta": ["15:50hs"],
+            "lunes_a_viernes_ida": ["11:50hs"],
+            "domingos_ida": ["11:50hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": [],
+            "domingos_vuelta": [],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18464,12 +18608,12 @@
           "tipo": "Semicama y Cama",
           "precios": { "Semicama": 6400, "Cama": 15900 },
           "horarios": {
-            "lunes_a_viernes_ida": ["09:10hs","14:30hs","21:15hs"],
-            "domingos_ida": ["13:10hs"],
-            "diario_ida": ["19:10hs"],
-            "lunes_a_viernes_vuelta": ["08:10hs","18:20hs","00:25hs"],
-            "domingos_vuelta": ["19:20hs"],
-            "diario_vuelta": ["16:05hs"],
+            "lunes_a_viernes_ida": ["11:50hs"],
+            "domingos_ida": ["11:50hs"],
+            "diario_ida": [],
+            "lunes_a_viernes_vuelta": ["15:40hs"],
+            "domingos_vuelta": ["15:40hs"],
+            "diario_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
