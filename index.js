@@ -1316,12 +1316,12 @@
                 "20:50hs"
               ],
               "diario": [
-                "14:20hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:05hs", "19:05hs"],
+              "diario_vuelta": ["14:20hs", "21:35hs"]
             }
           }
         ]
@@ -1337,11 +1337,11 @@
             "sabados_domingos_ida": ["20:55hs"],
             "lunes_a_viernes_vuelta": ["6:00hs", "12:00hs", "19:00hs"],
             "sabados_domingos_vuelta": ["10:30hs", "18:30hs"],
-            "diario": ["14:25hs"],
+            "diario": [],
             "domingos_ida": [],
             "domingos_vuelta": [],
-            "diario_ida": [],
-            "diario_vuelta": []
+            "diario_ida": ["14:25hs", "21:40hs"],
+            "diario_vuelta": ["10:00hs", "19:00hs"]
           }
         }
       ]
@@ -1370,12 +1370,12 @@
                 "20:30hs"
               ],
               "diario": [
-                "14:00hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:05hs", "19:05hs"],
+              "diario_vuelta": ["14:00hs", "21:15hs"]
             }
           }
         ]
@@ -1404,12 +1404,12 @@
                 "20:25hs"
               ],
               "diario": [
-                "13:55hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:05hs", "19:05hs"],
+              "diario_vuelta": ["13:55hs", "21:10hs"]
             }
           }
         ]
@@ -1438,12 +1438,12 @@
                 "20:21hs"
               ],
               "diario": [
-                "13:51hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:05hs", "19:05hs"],
+              "diario_vuelta": ["13:49hs", "21:04hs"]
             }
           }
         ]
@@ -1472,12 +1472,12 @@
                 "20:20hs"
               ],
               "diario": [
-                "13:50hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:05hs", "19:05hs"],
+              "diario_vuelta": ["13:50hs", "21:05hs"]
             }
           }
         ]
@@ -1506,12 +1506,12 @@
                 "20:15hs"
               ],
               "diario": [
-                "13:45hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:05hs", "19:05hs"],
+              "diario_vuelta": ["13:45hs", "21:00hs"]
             }
           }
         ]
@@ -1540,12 +1540,12 @@
                 "20:10hs"
               ],
               "diario": [
-                "13:40hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:05hs", "19:05hs"],
+              "diario_vuelta": ["13:40hs", "20:55hs"]
             }
           }
         ]
@@ -1574,12 +1574,12 @@
                 "20:00hs"
               ],
               "diario": [
-                "13:30hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:05hs", "19:05hs"],
+              "diario_vuelta": ["13:30hs", "20:45hs"]
             }
           }
         ]
@@ -1608,12 +1608,12 @@
                 "19:47hs"
               ],
               "diario": [
-                "13:17hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:05hs", "19:05hs"],
+              "diario_vuelta": ["13:17hs", "20:32hs"]
             }
           }
         ]
@@ -1642,12 +1642,12 @@
                 "19:45hs"
               ],
               "diario": [
-                "13:15hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:05hs", "19:05hs"],
+              "diario_vuelta": ["13:15hs", "20:30hs"]
             }
           }
         ]
@@ -1663,11 +1663,11 @@
             "sabados_domingos_ida": ["20:55hs"],
             "lunes_a_viernes_vuelta": ["6:00hs", "12:00hs", "19:00hs"],
             "sabados_domingos_vuelta": ["10:30hs", "18:30hs"],
-            "diario": ["14:25hs"],
+            "diario": [],
             "domingos_ida": [],
             "domingos_vuelta": [],
-            "diario_ida": [],
-            "diario_vuelta": []
+            "diario_ida": ["14:25hs", "21:40hs"],
+            "diario_vuelta": ["10:00hs", "19:00hs"]
           }
         }
       ]
@@ -1701,12 +1701,12 @@
                 "20:30hs"
               ],
               "diario": [
-                "14:00hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:10hs", "19:10hs"],
+              "diario_vuelta": ["14:00hs", "21:15hs"]
             }
           }
         ]
@@ -1737,12 +1737,12 @@
                 
               ],
               "diario": [
-                "14:20hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["14:20hs", "21:35hs"],
+              "diario_vuelta": ["10:05hs", "19:05hs"]
             }
           }
         ]
@@ -1773,12 +1773,12 @@
                 "18:30hs"
               ],
               "diario": [
-                "14:20hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["14:20hs", "21:35hs"],
+              "diario_vuelta": ["10:00hs", "19:00hs"]
             }
           }
         ]
@@ -1807,12 +1807,12 @@
                 "20:25hs"
               ],
               "diario": [
-                "13:55hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:10hs", "19:10hs"],
+              "diario_vuelta": ["13:55hs", "21:10hs"]
             }
           }
         ]
@@ -1841,12 +1841,12 @@
                 "20:21hs"
               ],
               "diario": [
-                "13:51hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:10hs", "19:10hs"],
+              "diario_vuelta": ["13:49hs", "21:04hs"]
             }
           }
         ]
@@ -1875,12 +1875,12 @@
                 "20:20hs"
               ],
               "diario": [
-                "13:50hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:10hs", "19:10hs"],
+              "diario_vuelta": ["13:50hs", "21:05hs"]
             }
           }
         ]
@@ -1909,12 +1909,12 @@
                 "20:15hs"
               ],
               "diario": [
-                "13:45hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:10hs", "19:10hs"],
+              "diario_vuelta": ["13:45hs", "21:00hs"]
             }
           }
         ]
@@ -1943,12 +1943,12 @@
                 "20:10hs"
               ],
               "diario": [
-                "13:40hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:10hs", "19:10hs"],
+              "diario_vuelta": ["13:40hs", "21:55hs"]
             }
           }
         ]
@@ -1977,12 +1977,12 @@
                 "20:00hs"
               ],
               "diario": [
-                "13:30hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:10hs", "19:10hs"],
+              "diario_vuelta": ["13:30hs", "20:45hs"]
             }
           }
         ]
@@ -2011,12 +2011,12 @@
                 "19:47hs"
               ],
               "diario": [
-                "13:17hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:10hs", "19:10hs"],
+              "diario_vuelta": ["13:27hs", "21:32hs"]
             }
           }
         ]
@@ -2045,12 +2045,12 @@
                 "19:45hs"
               ],
               "diario": [
-                "13:15hs"
+              
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:10hs", "19:10hs"],
+              "diario_vuelta": ["13:15hs", "21:30hs"]
             }
           }
         ]
@@ -2084,12 +2084,12 @@
                 "20:25hs"
               ],
               "diario": [
-                "13:55hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:30hs", "19:30hs"],
+              "diario_vuelta": ["13:55hs", "21:10hs"]
             }
           }
         ]
@@ -2120,12 +2120,12 @@
                 "18:40hs"
               ],
               "diario": [
-                "14:00hs"
+               
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["14:00hs", "21:15hs"],
+              "diario_vuelta": ["10:10hs", "19:10hs"]
             }
           }
         ]
@@ -2156,12 +2156,12 @@
                 
               ],
               "diario": [
-                "14:00hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["14:00hs", "21:15hs"],
+              "diario_vuelta": ["10:05hs", "19:05hs"]
             }
           }
         ]
@@ -2192,12 +2192,12 @@
                 
               ],
               "diario": [
-                "14:00hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["14:00hs", "21:15hs"],
+              "diario_vuelta": ["10:00hs", "19:00hs"]
             }
           }
         ]
@@ -2226,12 +2226,12 @@
                 "20:21hs"
               ],
               "diario": [
-                "13:51hs"
+               
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:30hs", "19:30hs"],
+              "diario_vuelta": ["13:49hs", "21:04hs"]
             }
           }
         ]
@@ -2260,12 +2260,12 @@
                 "20:20hs"
               ],
               "diario": [
-                "13:50hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:30hs", "19:30hs"],
+              "diario_vuelta": ["13:50hs", "21:05hs"]
             }
           }
         ]
@@ -2294,12 +2294,12 @@
                 "20:15hs"
               ],
               "diario": [
-                "13:45hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:30hs", "19:30hs"],
+              "diario_vuelta": ["13:45hs", "21:00hs"]
             }
           }
         ]
@@ -2328,12 +2328,12 @@
                 "20:10hs"
               ],
               "diario": [
-                "13:40hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:30hs", "19:30hs"],
+              "diario_vuelta": ["13:40hs", "20:55hs"]
             }
           }
         ]
@@ -2362,12 +2362,12 @@
                 "20:00hs"
               ],
               "diario": [
-                "13:30hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:30hs", "19:30hs"],
+              "diario_vuelta": ["13:30hs", "20:45hs"]
             }
           }
         ]
@@ -2396,12 +2396,12 @@
                 "19:47hs"
               ],
               "diario": [
-                "13:17hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:30hs", "19:30hs"],
+              "diario_vuelta": ["13:17hs", "20:32hs"]
             }
           }
         ]
@@ -2430,12 +2430,12 @@
                 "19:45hs"
               ],
               "diario": [
-                "13:15hs"
+               
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:30hs", "19:30hs"],
+              "diario_vuelta": ["13:15hs", "20:30hs"]
             }
           }
         ]
@@ -2469,12 +2469,12 @@
                 "20:21hs"
               ],
               "diario": [
-                "13:51hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:35hs", "19:35hs"],
+              "diario_vuelta": ["13:49hs", "21:04hs"]
             }
           }
         ]
@@ -2504,12 +2504,12 @@
                 "19:00hs"
               ],
               "diario": [
-                "13:55hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:55hs", "21:10hs"],
+              "diario_vuelta": ["10:30hs", "19:30hs"]
             }
           }
         ]
@@ -2539,12 +2539,12 @@
                 "18:40hs"
               ],
               "diario": [
-                "13:55hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:55hs", "21:10hs"],
+              "diario_vuelta": ["10:10hs", "19:10hs"]
             }
           }
         ]
@@ -2574,12 +2574,12 @@
                 "18:35hs"
               ],
               "diario": [
-                "13:55hs"
+               
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:55hs", "21:10hs"],
+              "diario_vuelta": ["10:05hs", "19:05hs"]
             }
           }
         ]
@@ -2610,12 +2610,12 @@
                 "18:30hs"
               ],
               "diario": [
-                "13:55hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:55hs", "21:10hs"],
+              "diario_vuelta": ["10:00hs", "19:00hs"]
             }
           }
         ]
@@ -2644,12 +2644,12 @@
                 "20:20hs"
               ],
               "diario": [
-                "13:50hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:35hs", "19:35hs"],
+              "diario_vuelta": ["13:50hs", "21:05hs"]
             }
           }
         ]
@@ -2678,12 +2678,12 @@
                 "20:15hs"
               ],
               "diario": [
-                "13:45hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:35hs", "19:35hs"],
+              "diario_vuelta": ["13:45hs", "21:00hs"]
             }
           }
         ]
@@ -2712,12 +2712,12 @@
                 "20:10hs"
               ],
               "diario": [
-                "13:40hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:35hs", "19:35hs"],
+              "diario_vuelta": ["13:40hs", "20:55hs"]
             }
           }
         ]
@@ -2746,12 +2746,12 @@
                 "20:00hs"
               ],
               "diario": [
-                "13:30hs"
+               
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:35hs", "19:35hs"],
+              "diario_vuelta": ["13:30hs", "20:45hs"]
             }
           }
         ]
@@ -2780,12 +2780,12 @@
                 "19:47hs"
               ],
               "diario": [
-                "13:17hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:35hs", "19:35hs"],
+              "diario_vuelta": ["13:17hs", "20:32hs"]
             }
           }
         ]
@@ -2814,12 +2814,12 @@
                 "19:45hs"
               ],
               "diario": [
-                "13:15hs"
+               
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:35hs", "19:35hs"],
+              "diario_vuelta": ["13:15hs", "20:30hs"]
             }
           }
         ]
@@ -2853,12 +2853,12 @@
                 "20:20hs"
               ],
               "diario": [
-                "13:50hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:39hs", "19:39hs"],
+              "diario_vuelta": ["19:49hs", "21:04hs"]
             }
           }
         ]
@@ -2889,12 +2889,12 @@
                 "19:05hs"
               ],
               "diario": [
-                "13:51hs"
+               
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:49hs", "21:04hs"],
+              "diario_vuelta": ["10:35hs", "19:35hs"]
             }
           }
         ]
@@ -2925,12 +2925,12 @@
                 "19:00hs"
               ],
               "diario": [
-                "13:51hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:49hs", "21:04hs"],
+              "diario_vuelta": ["10:30hs", "19:30hs"]
             }
           }
         ]
@@ -2961,12 +2961,12 @@
                 "18:40hs"
               ],
               "diario": [
-                "13:51hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:49hs", "21:04hs"],
+              "diario_vuelta": ["10:10hs", "19:10hs"]
             }
           }
         ]
@@ -2997,12 +2997,12 @@
                 "18:35hs"
               ],
               "diario": [
-                "13:51hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:49hs", "21:04hs"],
+              "diario_vuelta": ["10:05hs", "19:05hs"]
             }
           }
         ]
@@ -3033,12 +3033,12 @@
                 "18:30hs"
               ],
               "diario": [
-                "13:51hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:49hs", "21:04hs"],
+              "diario_vuelta": ["10:00hs", "19:00hs"]
             }
           }
         ]
@@ -3067,12 +3067,12 @@
                 "20:15hs"
               ],
               "diario": [
-                "13:45hs"
+             
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:39hs", "19:39hs"],
+              "diario_vuelta": ["13:45hs", "21:00hs"]
             }
           }
         ]
@@ -3101,12 +3101,12 @@
                 "20:10hs"
               ],
               "diario": [
-                "13:40hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:39hs", "19:39hs"],
+              "diario_vuelta": ["13:40hs", "20:55hs"]
             }
           }
         ]
@@ -3135,12 +3135,12 @@
                 "20:00hs"
               ],
               "diario": [
-                "13:30hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:39hs", "19:39hs"],
+              "diario_vuelta": ["13:30hs", "20:45hs"]
             }
           }
         ]
@@ -3169,12 +3169,12 @@
                 "19:47hs"
               ],
               "diario": [
-                "13:17hs"
+               
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:39hs", "19:39hs"],
+              "diario_vuelta": ["13:17hs", "20:32hs"]
             }
           }
         ]
@@ -3207,8 +3207,8 @@
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:39hs", "19:39hs"],
+              "diario_vuelta": ["13:15hs", "20:30hs"]
             }
           }
         ]
@@ -3242,12 +3242,12 @@
                 "20:15hs"
               ],
               "diario": [
-                "13:45hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:40hs", "19:40hs"],
+              "diario_vuelta": ["13:45hs", "21:00hs"]
             }
           }
         ]
@@ -3278,12 +3278,12 @@
                 "19:09hs"
               ],
               "diario": [
-                "13:50hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:50hs", "21:05hs"],
+              "diario_vuelta": ["10:39hs", "19:39hs"]
             }
           }
         ]
@@ -3314,12 +3314,12 @@
                 "19:05hs"
               ],
               "diario": [
-                "13:50hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:50hs", "21:05hs"],
+              "diario_vuelta": ["10:35hs", "19:35hs"]
             }
           }
         ]
@@ -3350,12 +3350,12 @@
                 "19:00hs"
               ],
               "diario": [
-                "13:50hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:50hs", "21:05hs"],
+              "diario_vuelta": ["10:30hs", "19:30hs"]
             }
           }
         ]
@@ -3386,12 +3386,12 @@
                 "18:40hs"
               ],
               "diario": [
-                "13:50hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:50hs", "21:05hs"],
+              "diario_vuelta": ["10:10hs", "19:10hs"]
             }
           }
         ]
@@ -3422,12 +3422,12 @@
                 "18:35hs"
               ],
               "diario": [
-                "13:50hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:50hs", "21:05hs"],
+              "diario_vuelta": ["10:05hs", "19:05hs"]
             }
           }
         ]
@@ -3458,12 +3458,12 @@
                 "18:30hs"
               ],
               "diario": [
-                "13:51hs"
+               
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["13:50hs", "21:05hs"],
+              "diario_vuelta": ["10:00hs", "19:00hs"]
             }
           }
         ]
@@ -3492,12 +3492,12 @@
                 "20:10hs"
               ],
               "diario": [
-                "13:40hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:40hs", "19:40hs"],
+              "diario_vuelta": ["13:40hs", "20:55hs"]
             }
           }
         ]
@@ -3526,12 +3526,12 @@
                 "20:00hs"
               ],
               "diario": [
-                "13:30hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:40hs", "19:40hs"],
+              "diario_vuelta": ["13:30hs", "20:45hs"]
             }
           }
         ]
@@ -3560,12 +3560,12 @@
                 "19:47hs"
               ],
               "diario": [
-                "13:17hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:40hs", "19:40hs"],
+              "diario_vuelta": ["13:17hs", "20:32hs"]
             }
           }
         ]
@@ -3594,12 +3594,12 @@
                 "19:45hs"
               ],
               "diario": [
-                "13:15hs"
+                
               ],
               "domingos_ida": [],
               "domingos_vuelta": [],
-              "diario_ida": [],
-              "diario_vuelta": []
+              "diario_ida": ["10:40hs", "19:40hs"],
+              "diario_vuelta": ["13:15hs", "20:30hs"]
             }
           }
         ]
