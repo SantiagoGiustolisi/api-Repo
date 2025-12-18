@@ -6871,13 +6871,14 @@
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
-                "6:33hs",
-                "9:33hs",
-                "12:48hs"
+                "7:52hs",
+                "11:22hs",
+                "14:07hs"
               ],
               "diario_vuelta": [
-                "15:33hs",
-                "22:03hs"
+                "17:07hs",
+                "20:52hs",
+                "23:37hs"
               ]
             }
           }
@@ -6890,49 +6891,45 @@
             "tipo": "Coche Común",
             "precio": 1500,
             "horarios": {
-              "lunes_a_viernes_ida": [
-                "7:02hs",
-                "9:22hs",
-                "10:07hs",
-                "11:47hs",
-                "12:47hs",
-                "14:47hs",
-                "15:47hs",
-                "18:37hs",
-                "21:47hs"
+             "lunes_a_viernes_ida": [
+                "5:23hs",
+                "6:08hs",
+                "7:53hs",
+                "10:53hs",
+                "12:53hs",
+                "14:03hs",
+                "16:53hs",
+                "18:38hs"
               ],
-              "sabados_domingos_ida": [],
+              "sabados_domingos_ida": ["18:23hs"],
               "domingos_ida": [
-                "8:02hs",
-                "11:32hs",
-                "14:17hs"
+                "6:23hs",
+                "9:23hs",
+                "12:38hs"
               ],
               "diario_ida": [
-                "17:17hs",
-                "21:02hs",
-                "23:47hs"
+                "15:23hs",
+                "21:53hs"
               ],
               "lunes_a_viernes_vuelta": [
-                "5:29hs",
-                "6:14hs",
-                "7:59hs",
-                "8:59hs",
-                "10:59hs",
-                "12:59hs",
-                "13:09hs",
-                "16:59hs",
-                "18:44hs",
-                "19:59hs"
+                "6:56hs",
+                "9:16hs",
+                "10:01hs",
+                "12:41hs",
+                "14:41hs",
+                "15:41hs",
+                "18:31hs"
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
-                "6:29hs",
-                "9:29hs",
-                "12:44hs"
+                "7:56hs",
+                "11:26hs",
+                "14:11hs"
               ],
               "diario_vuelta": [
-                "15:29hs",
-                "21:59hs"
+                "17:11hs",
+                "20:56hs",
+                "23:41hs"
               ]
             }
           }
@@ -6953,8 +6950,7 @@
                 "12:47hs",
                 "14:47hs",
                 "15:47hs",
-                "18:37hs",
-                "21:47hs"
+                "18:37hs"
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
@@ -6976,10 +6972,9 @@
                 "12:47hs",
                 "13:57hs",
                 "16:47hs",
-                "18:32hs",
-                "19:47hs"
+                "18:32hs"
               ],
-              "sabados_domingos_vuelta": [],
+              "sabados_domingos_vuelta": ["18:17hs"],
               "domingos_vuelta": [
                 "6:17hs",
                 "9:17hs",
@@ -7008,8 +7003,7 @@
                 "12:47hs",
                 "14:47hs",
                 "15:47hs",
-                "18:37hs",
-                "21:47hs"
+                "18:37hs"
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
@@ -7031,10 +7025,9 @@
                 "12:44hs",
                 "13:54hs",
                 "16:44hs",
-                "18:29hs",
-                "19:44hs"
+                "18:29hs"
               ],
-              "sabados_domingos_vuelta": [],
+              "sabados_domingos_vuelta": ["18:14hs"],
               "domingos_vuelta": [
                 "6:14hs",
                 "9:14hs",
@@ -7063,8 +7056,7 @@
                 "12:47hs",
                 "14:47hs",
                 "15:47hs",
-                "18:37hs",
-                "21:47hs"
+                "18:37hs"
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
@@ -7086,10 +7078,9 @@
                 "12:40hs",
                 "13:50hs",
                 "16:40hs",
-                "18:25hs",
-                "19:40hs"
+                "18:25hs"
               ],
-              "sabados_domingos_vuelta": [],
+              "sabados_domingos_vuelta": ["18:10hs"],
               "domingos_vuelta": [
                 "6:10hs",
                 "9:10hs",
@@ -7118,8 +7109,7 @@
                 "12:47hs",
                 "14:47hs",
                 "15:47hs",
-                "18:37hs",
-                "21:47hs"
+                "18:37hs"
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
@@ -7141,10 +7131,9 @@
                 "12:30hs",
                 "13:40hs",
                 "16:30hs",
-                "18:15hs",
-                "19:30hs"
+                "18:15hs"
               ],
-              "sabados_domingos_vuelta": [],
+              "sabados_domingos_vuelta": ["18:00hs"],
               "domingos_vuelta": [
                 "6:00hs",
                 "9:00hs",
@@ -9113,6 +9102,482 @@
       }
     ]
   },
+  {
+    "origen": "Aldea Spattzenkuter",
+    "destinos": [
+      {
+        "destino": "Paraná",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 3400,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "5:29hs",
+                "6:14hs",
+                "7:59hs",
+                "10:59hs",
+                "12:59hs",
+                "14:09hs",
+                "16:59hs",
+                "18:44hs"
+              ],
+              "sabados_domingos_ida": ["18:29"],
+              "domingos_ida": [
+                "6:29hs",
+                "9:29hs",
+                "12:44hs"
+              ],
+              "diario_ida": [
+                "15:29hs",
+                "21:59hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "6:15hs",
+                
+                "8:35hs",
+                "9:20hs",
+                "12:00hs",
+                "14:00hs",
+                "15:00hs",
+                "17:50hs"
+              ],
+              "sabados_domingos_vuelta": [],
+              "domingos_vuelta": [
+                "7:15hs",
+                "10:45hs",
+                "13:30hs"
+              ],
+              "diario_vuelta": [
+                "16:30hs",
+                "23:00hs"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Oro Verde",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2200,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "5:29hs",
+                "6:14hs",
+                "7:59hs",
+                "10:59hs",
+                "12:59hs",
+                "14:09hs",
+                "16:59hs",
+                "18:44hs"
+              ],
+              "sabados_domingos_ida": ["18:29"],
+              "domingos_ida": [
+                "6:29hs",
+                "9:29hs",
+                "12:44hs"
+              ],
+              "diario_ida": [
+                "15:29hs",
+                "21:59hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                
+                "6:43hs",
+                "9:03hs",
+                "9:48hs",
+                "12:28hs",
+                "14:28hs",
+                "15:28hs",
+                "18:18hs"
+              ],
+              "sabados_domingos_vuelta": [],
+              "domingos_vuelta": [
+                "7:43hs",
+                "11:13hs",
+                "13:58hs"
+              ],
+              "diario_vuelta": [
+                "16:58hs",
+                "20:43hs",
+                "23:28hs"
+              ]
+            }
+          }
+        ]
+      },
+
+      {
+        "destino": "Colonia Ensayo",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+             "lunes_a_viernes_ida": [
+                "5:29hs",
+                "6:14hs",
+                "7:59hs",
+                "10:59hs",
+                "12:59hs",
+                "14:09hs",
+                "16:59hs",
+                "18:44hs"
+              ],
+              "sabados_domingos_ida": ["18:29"],
+              "domingos_ida": [
+                "6:29hs",
+                "9:29hs",
+                "12:44hs"
+              ],
+              "diario_ida": [
+                "15:29hs",
+                "21:59hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "6:49hs",
+                "9:09hs",
+                "9:54hs",
+                "12:34hs",
+                "14:34hs",
+                "15:34hs",
+                "18:24hs"
+              ],
+              "sabados_domingos_vuelta": [],
+              "domingos_vuelta": [
+                "7:49hs",
+                "11:19hs",
+                "14:04hs"
+              ],
+              "diario_vuelta": [
+                "17:04hs",
+                "20:49hs",
+                "23:34hs"   
+              ]
+            }
+          }
+        ]
+      },
+
+
+
+      {
+        "destino": "Aldea Brasilera",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "5:29hs",
+                "6:14hs",
+                "7:59hs",
+                "10:59hs",
+                "12:59hs",
+                "14:09hs",
+                "16:59hs",
+                "18:44hs"
+              ],
+              "sabados_domingos_ida": ["18:29"],
+              "domingos_ida": [
+                "6:29hs",
+                "9:29hs",
+                "12:44hs"
+              ],
+              "diario_ida": [
+                "15:29hs",
+                "21:59hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "6:52hs",
+                "9:12hs",
+                "9:57hs",
+                "12:37hs",
+                "14:37hs",
+                "15:37hs",
+                "18:27hs"
+              ],
+              "sabados_domingos_vuelta": [],
+              "domingos_vuelta": [
+                "7:52hs",
+                "11:22hs",
+                "14:07hs"
+              ],
+              "diario_vuelta": [
+                "17:07hs",
+                "20:51hs",
+                "23:37hs"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Valle María",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "6:56hs",
+                "9:16hs",
+                "10:01hs",
+                "12:41hs",
+                "14:41hs",
+                "15:41hs",
+                "18:31hs"
+              ],
+              "sabados_domingos_ida": [],
+              "domingos_ida": [
+                "7:56hs",
+                "11:26hs",
+                "14:11hs"
+              ],
+              "diario_ida": [
+                "17:11hs",
+                "20:56hs",
+                "23:41hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "5:23hs",
+                "6:08hs",
+                "7:53hs",
+                
+                "10:53hs",
+                "12:53hs",
+                "14:03hs",
+                "16:53hs",
+                "18:38hs"
+              ],
+              "sabados_domingos_vuelta": ["18:23hs"],
+              "domingos_vuelta": [
+                "6:23hs",
+                "9:23hs",
+                "12:38hs"
+              ],
+              "diario_vuelta": [
+                "15:23hs",
+                "21:53hs"
+              ]
+            }
+          }
+        ]
+      },
+
+
+      {
+        "destino": "La Tablilla",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "6:56hs",
+                "9:16hs",
+                "10:01hs",
+                "12:41hs",
+                "14:41hs",
+                "15:41hs",
+                "18:31hs"
+              ],
+              "sabados_domingos_ida": [],
+              "domingos_ida": [
+                "7:56hs",
+                "11:26hs",
+                "14:11hs"
+              ],
+              "diario_ida": [
+                "17:11hs",
+                "20:56hs",
+                "23:41hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "5:17hs",
+                "6:02hs",
+                "7:47hs",
+                
+                "10:47hs",
+                "12:47hs",
+                "13:57hs",
+                "16:47hs",
+                "18:32hs"
+              ],
+              "sabados_domingos_vuelta": ["18:17hs"],
+              "domingos_vuelta": [
+                "6:17hs",
+                "9:17hs",
+                "12:32hs"
+              ],
+              "diario_vuelta": [
+                "15:17hs",
+                "21:47hs"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "destino": "La Virgen",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1500,
+            "horarios": {
+              "lunes_a_viernes_ida": [
+                "6:56hs",
+                "9:16hs",
+                "10:01hs",
+                "12:41hs",
+                "14:41hs",
+                "15:41hs",
+                "18:31hs"
+              ],
+              "sabados_domingos_ida": [],
+              "domingos_ida": [
+                "7:56hs",
+                "11:26hs",
+                "14:11hs"
+              ],
+              "diario_ida": [
+                "17:11hs",
+                "20:56hs",
+                "23:41hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "5:14hs",
+                "5:59hs",
+                "7:44hs",
+                
+                "10:44hs",
+                "12:44hs",
+                "13:54hs",
+                "16:44hs",
+                "18:29hs"
+              ],
+              "sabados_domingos_vuelta": ["18:14hs"],
+              "domingos_vuelta": [
+                "6:14hs",
+                "9:14hs",
+                "12:29hs"
+              ],
+              "diario_vuelta": [
+                "15:14hs",
+                "21:44hs"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Strobel",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 1700,
+            "horarios": {
+               "lunes_a_viernes_ida": [
+                "6:56hs",
+                "9:16hs",
+                "10:01hs",
+                "12:41hs",
+                "14:41hs",
+                "15:41hs",
+                "18:31hs"
+              ],
+              "sabados_domingos_ida": [],
+              "domingos_ida": [
+                "7:56hs",
+                "11:26hs",
+                "14:11hs"
+              ],
+              "diario_ida": [
+                "17:11hs",
+                "20:56hs",
+                "23:41hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "5:10hs",
+                "5:55hs",
+                "7:40hs",
+                "10:40hs",
+                "12:40hs",
+                "13:50hs",
+                "16:40hs",
+                "18:25hs"
+              ],
+              "sabados_domingos_vuelta": ["18:10hs"],
+              "domingos_vuelta": [
+                "6:10hs",
+                "9:10hs",
+                "12:25hs"
+              ],
+              "diario_vuelta": [
+                "15:10hs",
+                "21:40hs"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "destino": "Diamante",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 2200,
+            "horarios": {
+               "lunes_a_viernes_ida": [
+                "6:56hs",
+                "9:16hs",
+                "10:01hs",
+                "12:41hs",
+                "14:41hs",
+                "15:41hs",
+                "18:31hs"
+              ],
+              "sabados_domingos_ida": [],
+              "domingos_ida": [
+                "7:56hs",
+                "11:26hs",
+                "14:11hs"
+              ],
+              "diario_ida": [
+                "17:11hs",
+                "20:56hs",
+                "23:41hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "5:00hs",
+                "5:45hs",
+                "7:30hs",
+                
+                "10:30hs",
+                "12:30hs",
+                "13:40hs",
+                "16:30hs",
+                "18:15hs"
+              ],
+              "sabados_domingos_vuelta": ["18:00hs"],
+              "domingos_vuelta": [
+                "6:00hs",
+                "9:00hs",
+                "12:15hs"
+              ],
+              "diario_vuelta": [
+                "15:00hs",
+                "21:30hs"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+
   {
  "origen": "GNL Genolot",
   "destinos": [
