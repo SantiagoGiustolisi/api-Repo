@@ -8563,51 +8563,68 @@
           "5:00hs",
           "5:45hs",
           "7:30hs",
+          "8:30hs",
           "10:30hs",
           "12:30hs",
           "13:40hs",
+          "15:00hs",
           "16:30hs",
-          "18:15hs"
+          "18:15hs",
+          "19:30hs",
+          "21:30hs"
         ],
 
         "sabados_ida": [
-         
+         "15:00hs",
+         "18:00hs",
+         "21:30hs",
         ],
         
-        "sabados_domingos_ida": [ "18:00hs"],
+        "sabados_domingos_ida": [],
 
         "domingos_ida": [
           "6:00hs",
           "9:00hs",
-          "12:15hs"
+          "12:15hs",
+          "15:00hs",
+          "18:00hs",
+          "21:30hs"
         ],
 
         "diario_ida": [
-          "15:00hs",
-          "21:30hs"
         ],
 
         "lunes_a_viernes_vuelta": [
           "6:15hs",
           "8:35hs",
           "9:20hs",
+          "11:00hs",
           "12:00hs",
           "14:00hs",
           "15:00hs",
-          "17:50hs"
+          "16:30hs",
+          "17:50hs",
+          "20:15hs",
+          "21:00hs",
+          "23:00hs"
         ],
 
         "sabados_vuelta": [
-          
+          "16:30hs",
+          "20:15hs",
+          "23:00hs"
         ],
 
         "domingos_vuelta": [
           "7:15hs",
-          "10:15hs",
-          "13:30hs"
+          "10:45hs",
+          "13:30hs",
+          "16:30hs",
+          "20:15hs",
+          "23:00hs"
         ],
 
-        "diario_vuelta": [ "16:30hs","20:15hs","23:00hs"],
+        "diario_vuelta": [],
 
        
         "sabados_domingos_vuelta": [],
