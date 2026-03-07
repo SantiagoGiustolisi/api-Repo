@@ -5204,38 +5204,54 @@
                 "5:42hs",
                 "6:27hs",
                 "8:12hs",
+                "9:12hs",
                 "11:12hs",
                 "13:12hs",
                 "14:22hs",
+                "15:42hs",
                 "17:12hs",
-                "18:57hs"
+                "18:57hs",
+                "20:12hs",
+                "22:12hs"
               ],
-              "sabados_domingos_ida": ["18:42hs"],
+              "sabados_domingos_ida": [],
               "domingos_ida": [
                 "6:42hs",
                 "9:42hs",
-                "12:57hs"
-              ],
-              "diario_ida": [
+                "12:57hs",
                 "15:42hs",
+                "18:42hs",
+                "22:12hs"
+              ],
+              "sabados_ida": [
+                "15:42hs",
+                "18:42hs",
                 "22:12hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "6:15hs",
                 "8:35hs",
                 "9:20hs",
+                "11:00hs",
                 "12:00hs",
                 "14:00hs",
                 "15:00hs",
-                "17:50hs"
+                "16:30hs",
+                "17:50hs",
+                "20:15hs",
+                "21:00hs",
+                "23:00hs"
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "7:15hs",
                 "10:45hs",
-                "13:30hs"
+                "13:30hs",
+                "16:30hs",
+                "20:15hs",
+                "23:00hs"
               ],
-              "diario_vuelta": [
+              "sabados_vuelta": [
                 "16:30hs",
                 "20:15hs",
                 "23:00hs"
@@ -5255,18 +5271,26 @@
                 "6:43hs",
                 "9:03hs",
                 "9:48hs",
+                "11:28hs",
                 "12:28hs",
                 "14:28hs",
                 "15:28hs",
-                "18:18hs"
+                "16:58hs",
+                "18:18hs",
+                "20:43hs",
+                "21:28hs",
+                "23:28hs"
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:43hs",
                 "11:13hs",
-                "13:58hs"
+                "13:58hs",
+                "16:58hs",
+                "20:43hs",
+                "23:28hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "16:58hs",
                 "20:43hs",
                 "23:28hs"
@@ -5278,17 +5302,24 @@
                 "11:06hs",
                 "13:06hs",
                 "14:16hs",
+                "15:36hs",
                 "17:06hs",
-                "18:51hs"
+                "18:51hs",
+                "20:06hs",
+                "22:06hs"
               ],
-              "sabados_domingos_vuelta": ["18:36hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:36hs",
                 "9:36hs",
-                "12:51hs"
-              ],
-              "diario_vuelta": [
+                "12:51hs",
                 "15:36hs",
+                "18:36hs",
+                "22:06hs"
+              ],
+              "sabados_vuelta": [
+                "15:36hs",
+                "18:36hs",
                 "22:06hs"
               ]
             }
@@ -5679,43 +5710,57 @@
                 "5:36hs",
                 "6:21hs",
                 "8:06hs",
+                "9:06hs",
                 "11:06hs",
                 "13:06hs",
                 "14:16hs",
+                "15:36hs",
                 "17:06hs",
-                "18:51hs"
+                "18:51hs",
+                "20:06hs",
+                "22:06hs" 
               ],
-              "sabados_domingos_ida": ["18:36hs"],
+              "sabados_domingos_ida": [],
               "domingos_ida": [
                 "06:36hs",
                 "9:36hs",
-                "12:51hs"
-              ],
-              "diario_ida": [
+                "12:51hs",
                 "15:36hs",
+                "18:36hs",
+                "22:06hs"
+              ],
+              "sabados_ida": [
+                "15:36hs",
+                "18:36hs",
                 "22:06hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "6:15hs",
-                "8:hs",
-                "8:40hs",
-                "9:40hs",
-                "11:40hs",
-                "13:40hs",
-                "14:50hs",
-                "17:40hs",
-                "19:25hs",
-                "20:40hs"
+                "8:35hs",
+                "9:20hs",
+                "11:00hs",
+                "12:00hs",
+                "14:00hs",
+                "15:00hs",
+                "16:30hs",
+                "17:50hs",
+                "20:15hs",
+                "21:00hs",
+                "23:00hs"
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
-                "7:10hs",
-                "10:10hs",
-                "13:25hs"
+                "7:15hs",
+                "10:45hs",
+                "13:30hs",
+                "16:30hs",
+                "20:15hs",
+                "23:00hs"
               ],
-              "diario_vuelta": [
-                "16:10hs",
-                "22:40hs"
+              "sabados_vuelta": [
+                "16:30hs",
+                "20:15hs",
+                "23:00hs"
               ]
             }
           }
@@ -5728,45 +5773,61 @@
             "tipo": "Coche Común",
             "precio": 1500,
             "horarios": {
-              "lunes_a_viernes_ida": [
+               "lunes_a_viernes_ida": [
                 "5:36hs",
                 "6:21hs",
                 "8:06hs",
+                "9:06hs",
                 "11:06hs",
                 "13:06hs",
                 "14:16hs",
+                "15:36hs",
                 "17:06hs",
-                "18:51hs"
+                "18:51hs",
+                "20:06hs",
+                "22:06hs" 
               ],
-              "sabados_domingos_ida": ["18:36hs"],
+              "sabados_domingos_ida": [],
               "domingos_ida": [
                 "06:36hs",
                 "9:36hs",
-                "12:51hs"
-              ],
-              "diario_ida": [
+                "12:51hs",
                 "15:36hs",
+                "18:36hs",
+                "22:06hs"
+              ],
+              "sabados_ida": [
+                "15:36hs",
+                "18:36hs",
                 "22:06hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "6:43hs",
                 "9:03hs",
                 "9:48hs",
+                "11:28hs",
                 "12:28hs",
                 "14:28hs",
                 "15:28hs",
-                "18:18hs"
+                "16:58hs",
+                "18:18hs",
+                "20:43hs",
+                "21:28hs",
+                "23:28hs"
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
-                "7:15hs",
-                "10:45hs",
-                "13:30hs"
+                "7:43hs",
+                "11:13hs",
+                "13:58hs",
+                "16:58hs",
+                "20:43hs",
+                "23:38hs"
               ],
-              "diario_vuelta": [
-                "16:30hs",
-                "20:15hs",
-                "23:00hs"
+              "sabados_vuelta": [
+                "16:58hs",
+                "20:43hs",
+                "23:28hs"
               ]
             }
           }
@@ -5792,20 +5853,27 @@
                 "6:49hs",
                 "9:09hs",
                 "9:54hs",
-                
+                "11:34hs",
                 "12:34hs",
                 "14:34hs",
                 "15:34hs",
-                "18:24hs"
+                "17:04hs",
+                "18:24hs",
+                "20:49hs",
+                "21:34hs",
+                "23:34hs"
                 
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:49hs",
                 "11:19hs",
-                "14:04hs"
+                "14:04hs",
+                "17:04hs",
+                "20:49hs",
+                "23:34hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:04hs",
                 "20:49hs",
                 "23:34hs"
@@ -5814,22 +5882,29 @@
                 "5:33hs",
                 "6:18hs",
                 "8:03hs",
-                
+                "9:03hs",
                 "11:03hs",
                 "13:03hs",
                 "14:13hs",
+                "15:33hs",
                 "17:03hs",
-                "18:48hs"
+                "18:48hs",
+                "20:03hs",
+                "22:03hs" 
                 
               ],
-              "sabados_domingos_vuelta": ["18:33hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:33hs",
                 "9:33hs",
-                "12:48hs"
-              ],
-              "diario_vuelta": [
+                "12:48hs",
                 "15:33hs",
+                "18:33hs",
+                "22:03hs"
+              ],
+              "sabados_vuelta": [
+                "15:33hs",
+                "18:33hs",
                 "22:03hs"
               ]
             }
@@ -5845,24 +5920,31 @@
             "tipo": "Coche Común",
             "precio": 1500,
             "horarios": {
-               "lunes_a_viernes_ida": [
+              "lunes_a_viernes_ida": [
                 "6:49hs",
                 "9:09hs",
                 "9:54hs",
-                
+                "11:34hs",
                 "12:34hs",
                 "14:34hs",
                 "15:34hs",
-                "18:24hs"
+                "17:04hs",
+                "18:24hs",
+                "20:49hs",
+                "21:34hs",
+                "23:34hs"
                 
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:49hs",
                 "11:19hs",
-                "14:04hs"
+                "14:04hs",
+                "17:04hs",
+                "20:49hs",
+                "23:34hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:04hs",
                 "20:49hs",
                 "23:34hs"
@@ -5871,22 +5953,29 @@
                 "5:29hs",
                 "6:14hs",
                 "7:59hs",
-               
+                "8:59hs",
                 "10:59hs",
                 "12:59hs",
                 "14:09hs",
+                "15:29hs",
                 "16:59hs",
-                "18:44hs"
-            
+                "18:44hs",
+                "19:59hs",
+                "21:59hs" 
+                
               ],
-              "sabados_domingos_vuelta": ["18:29hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:29hs",
                 "9:29hs",
-                "12:44hs"
-              ],
-              "diario_vuelta": [
+                "12:44hs",
                 "15:29hs",
+                "18:29hs",
+                "21:59hs"
+              ],
+              "sabados_vuelta": [
+                "15:29hs",
+                "18:29hs",
                 "21:59hs"
               ]
             }
@@ -5904,20 +5993,27 @@
                 "6:49hs",
                 "9:09hs",
                 "9:54hs",
-                
+                "11:34hs",
                 "12:34hs",
                 "14:34hs",
                 "15:34hs",
-                "18:24hs"
+                "17:04hs",
+                "18:24hs",
+                "20:49hs",
+                "21:34hs",
+                "23:34hs"
                 
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:49hs",
                 "11:19hs",
-                "14:04hs"
+                "14:04hs",
+                "17:04hs",
+                "20:49hs",
+                "23:34hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:04hs",
                 "20:49hs",
                 "23:34hs"
@@ -5926,22 +6022,29 @@
                 "5:23hs",
                 "6:08hs",
                 "7:53hs",
-         
+                "8:53hs",
                 "10:53hs",
                 "12:53hs",
                 "14:03hs",
+                "15:23hs",
                 "16:53hs",
-                "18:38hs"
-        
+                "18:38hs",
+                "19:53hs",
+                "21:53hs" 
+                
               ],
-              "sabados_domingos_vuelta": ["18:23hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:23hs",
                 "9:23hs",
-                "12:38hs"
-              ],
-              "diario_vuelta": [
+                "12:38hs",
                 "15:23hs",
+                "18:23hs",
+                "21:53hs"
+              ],
+              "sabados_vuelta": [
+                "15:23hs",
+                "18:23hs",
                 "21:53hs"
               ]
             }
@@ -5955,24 +6058,31 @@
             "tipo": "Coche Común",
             "precio": 2500,
             "horarios": {
-               "lunes_a_viernes_ida": [
+              "lunes_a_viernes_ida": [
                 "6:49hs",
                 "9:09hs",
                 "9:54hs",
-                
+                "11:34hs",
                 "12:34hs",
                 "14:34hs",
                 "15:34hs",
-                "18:24hs"
+                "17:04hs",
+                "18:24hs",
+                "20:49hs",
+                "21:34hs",
+                "23:34hs"
                 
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:49hs",
                 "11:19hs",
-                "14:04hs"
+                "14:04hs",
+                "17:04hs",
+                "20:49hs",
+                "23:34hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:04hs",
                 "20:49hs",
                 "23:34hs"
@@ -5981,22 +6091,29 @@
                 "5:17hs",
                 "6:02hs",
                 "7:47hs",
-               
+                "8:47hs",
                 "10:47hs",
                 "12:47hs",
                 "13:57hs",
+                "15:17hs",
                 "16:47hs",
-                "18:32hs"
-              
+                "18:32hs",
+                "19:47hs",
+                "21:47hs" 
+                
               ],
-              "sabados_domingos_vuelta": ["18:17hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:17hs",
                 "9:17hs",
-                "12:32hs"
-              ],
-              "diario_vuelta": [
+                "12:32hs",
                 "15:17hs",
+                "18:17hs",
+                "21:47hs"
+              ],
+              "sabados_vuelta": [
+                "15:17hs",
+                "18:17hs",
                 "21:47hs"
               ]
             }
@@ -6012,24 +6129,31 @@
             "tipo": "Coche Común",
             "precio": 2700,
             "horarios": {
-               "lunes_a_viernes_ida": [
+              "lunes_a_viernes_ida": [
                 "6:49hs",
                 "9:09hs",
                 "9:54hs",
-                
+                "11:34hs",
                 "12:34hs",
                 "14:34hs",
                 "15:34hs",
-                "18:24hs"
+                "17:04hs",
+                "18:24hs",
+                "20:49hs",
+                "21:34hs",
+                "23:34hs"
                 
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:49hs",
                 "11:19hs",
-                "14:04hs"
+                "14:04hs",
+                "17:04hs",
+                "20:49hs",
+                "23:34hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:04hs",
                 "20:49hs",
                 "23:34hs"
@@ -6038,22 +6162,29 @@
                 "5:14hs",
                 "5:59hs",
                 "7:44hs",
-          
+                "8:44hs",
                 "10:44hs",
                 "12:44hs",
                 "13:54hs",
+                "15:14hs",
                 "16:44hs",
-                "18:29hs"
-          
+                "18:29hs",
+                "19:44hs",
+                "21:44hs" 
+                
               ],
-              "sabados_domingos_vuelta": ["18:14hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:14hs",
                 "9:14hs",
-                "12:29hs"
-              ],
-              "diario_vuelta": [
+                "12:29hs",
                 "15:14hs",
+                "18:14hs",
+                "21:44hs"
+              ],
+              "sabados_vuelta": [
+                "15:14hs",
+                "18:14hs",
                 "21:44hs"
               ]
             }
@@ -6071,20 +6202,27 @@
                 "6:49hs",
                 "9:09hs",
                 "9:54hs",
-                
+                "11:34hs",
                 "12:34hs",
                 "14:34hs",
                 "15:34hs",
-                "18:24hs"
+                "17:04hs",
+                "18:24hs",
+                "20:49hs",
+                "21:34hs",
+                "23:34hs"
                 
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:49hs",
                 "11:19hs",
-                "14:04hs"
+                "14:04hs",
+                "17:04hs",
+                "20:49hs",
+                "23:34hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:04hs",
                 "20:49hs",
                 "23:34hs"
@@ -6093,22 +6231,29 @@
                 "5:10hs",
                 "5:55hs",
                 "7:40hs",
-                
+                "8:40hs",
                 "10:40hs",
                 "12:40hs",
                 "13:50hs",
+                "15:10hs",
                 "16:40hs",
-                "18:25hs"
+                "18:25hs",
+                "19:40hs",
+                "21:40hs" 
                 
               ],
-              "sabados_domingos_vuelta": ["18:10hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:10hs",
                 "9:10hs",
-                "12:25hs"
-              ],
-              "diario_vuelta": [
+                "12:25hs",
                 "15:10hs",
+                "18:10hs",
+                "21:40hs"
+              ],
+              "sabados_vuelta": [
+                "15:10hs",
+                "18:10hs",
                 "21:40hs"
               ]
             }
@@ -6126,20 +6271,27 @@
                 "6:49hs",
                 "9:09hs",
                 "9:54hs",
-                
+                "11:34hs",
                 "12:34hs",
                 "14:34hs",
                 "15:34hs",
-                "18:24hs"
+                "17:04hs",
+                "18:24hs",
+                "20:49hs",
+                "21:34hs",
+                "23:34hs"
                 
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:49hs",
                 "11:19hs",
-                "14:04hs"
+                "14:04hs",
+                "17:04hs",
+                "20:49hs",
+                "23:34hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:04hs",
                 "20:49hs",
                 "23:34hs"
@@ -6148,22 +6300,29 @@
                 "5:00hs",
                 "5:45hs",
                 "7:30hs",
-                
+                "8:30hs",
                 "10:30hs",
                 "12:30hs",
                 "13:40hs",
-                "16:30hs",
-                "18:15hs"
-           
-              ],
-              "sabados_domingos_vuelta": ["18:00hs"],
-              "domingos_vuelta": [
-                "6:00hs",
-                "9:00hs",
-                "12:15hs"
-              ],
-              "diario_vuelta": [
                 "15:00hs",
+                "16:30hs",
+                "18:15hs",
+                "19:30hs",
+                "21:30hs" 
+                
+              ],
+              "sabados_domingos_vuelta": [],
+              "domingos_vuelta": [
+                "6:10hs",
+                "9:10hs",
+                "12:25hs",
+                "15:10hs",
+                "18:10hs",
+                "21:40hs"
+              ],
+              "sabados_vuelta": [
+                "15:00hs",
+                "18:00hs",
                 "21:30hs"
               ]
             }
@@ -6190,38 +6349,54 @@
                 "11:03hs",
                 "13:03hs",
                 "14:13hs",
+                "15:33hs",
                 "17:03hs",
-                "18:48hs"
+                "18:48hs",
+                "20:03hs",
+                "22:03hs"
                 
               ],
-              "sabados_domingos_ida": ["18:33hs"],
+              "sabados_domingos_ida": [],
               "domingos_ida": [
                 "6:33hs",
                 "9:33hs",
-                "12:48hs"
-              ],
-              "diario_ida": [
+                "12:48hs",
                 "15:33hs",
+                "18:33hs",
                 "22:03hs"
+              ],
+              "sabados_ida": [
+                "15:33hs",
+                "18:33hs",
+                "22:03hs"
+
               ],
               "lunes_a_viernes_vuelta": [
                 "6:15hs",
                 "8:35hs",
                 "9:20hs",
+                "11:00hs",
                 "12:00hs",
                 "14:00hs",
                 "15:00hs",
-                "15:40hs",
-                "17:50hs"
+                "16:30hs",
+                "17:50hs",
+                "20:15hs",
+                "21:00hs",
+                "23:00hs"
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "7:15hs",
-                "11:13hs",
-                "13:58hs"
-              ],
-              "diario_vuelta": [
+                "10:45hs",
+                "13:30hs",
                 "16:30hs",
+                "20:15hs",
+                "23:00hs"
+              ],
+              "sabados_vuelta": [
+                "16:30hs",
+                "20:15hs",
                 "23:00hs"
               ]
             }
@@ -6242,36 +6417,52 @@
                 "11:03hs",
                 "13:03hs",
                 "14:13hs",
+                "15:33hs",
                 "17:03hs",
-                "18:48hs"
+                "18:48hs",
+                "20:03hs",
+                "22:03hs"
                 
               ],
-              "sabados_domingos_ida": ["18:33hs"],
+              "sabados_domingos_ida": [],
               "domingos_ida": [
                 "6:33hs",
                 "9:33hs",
-                "12:48hs"
-              ],
-              "diario_ida": [
+                "12:48hs",
                 "15:33hs",
+                "18:33hs",
                 "22:03hs"
+              ],
+              "sabados_ida": [
+                "15:33hs",
+                "18:33hs",
+                "22:03hs"
+
               ],
               "lunes_a_viernes_vuelta": [
                 "6:43hs",
                 "9:03hs",
                 "9:48hs",
+                "11:28hs",
                 "12:28hs",
                 "14:28hs",
                 "15:28hs",
-                "18:18hs"
+                "16:58hs",
+                "18:18hs",
+                "20:43hs",
+                "21:28hs",
+                "23:28hs"
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "7:43hs",
-                "11:19hs",
-                "14:04hs"
+                "11:13hs",
+                "13:58hs",
+                "16:58hs",
+                "20:43hs",
+                "23:28hs"
               ],
-              "diario_vuelta": [
+              "sabados_vuelta": [
                 "16:58hs",
                 "20:43hs",
                 "23:28hs"
@@ -6295,36 +6486,52 @@
                 "11:03hs",
                 "13:03hs",
                 "14:13hs",
+                "15:33hs",
                 "17:03hs",
-                "18:48hs"
+                "18:48hs",
+                "20:03hs",
+                "22:03hs"
                 
               ],
-              "sabados_domingos_ida": ["18:33hs"],
+              "sabados_domingos_ida": [],
               "domingos_ida": [
                 "6:33hs",
                 "9:33hs",
-                "12:48hs"
-              ],
-              "diario_ida": [
+                "12:48hs",
                 "15:33hs",
+                "18:33hs",
                 "22:03hs"
+              ],
+              "sabados_ida": [
+                "15:33hs",
+                "18:33hs",
+                "22:03hs"
+
               ],
               "lunes_a_viernes_vuelta": [
                 "6:49hs",
-                "9:09s",
+                "9:09hs",
                 "9:54hs",
+                "11:34hs",
                 "12:34hs",
                 "14:34hs",
                 "15:34hs",
-                "18:24hs"
+                "17:04hs",
+                "18:24hs",
+                "20:49hs",
+                "21:34hs",
+                "23:34hs"
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "7:49hs",
                 "11:19hs",
-                "14:04hs"
+                "14:04hs",
+                "17:04hs",
+                "20:49hs",
+                "23:34hs"
               ],
-              "diario_vuelta": [
+              "sabados_vuelta": [
                 "17:04hs",
                 "20:49hs",
                 "23:34hs"
@@ -6348,20 +6555,27 @@
                 "6:52hs",
                 "9:12hs",
                 "9:57hs",
-              
+                "11:37hs",
                 "12:37hs",
                 "14:37hs",
                 "15:37hs",
-                "18:27hs"
+                "17:07hs",
+                "18:27hs",
+                "20:52hs",
+                "21:37hs",
+                "23:37hs"
             
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:52hs",
                 "11:22hs",
-                "14:07hs"
+                "14:07hs",
+                "17:07hs",
+                "20:52hs",
+                "23:37hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:07hs",
                 "20:52hs",
                 "23:37hs"
@@ -6370,21 +6584,28 @@
                 "5:29hs",
                 "6:14hs",
                 "7:59hs",
-                
+                "8:59hs",
                 "10:59hs",
                 "12:59hs",
                 "14:09hs",
+                "15:29hs",
                 "16:59hs",
-                "18:44hs"
+                "18:44hs",
+                "19:59hs",
+                "21:29hs"
               ],
-              "sabados_domingos_vuelta": ["18:29hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:29hs",
                 "9:29hs",
-                "12:44hs"
-              ],
-              "diario_vuelta": [
+                "12:44hs",
                 "15:29hs",
+                "18:29hs",
+                "21:59hs"
+              ],
+              "sabados_vuelta": [
+                "15:29hs",
+                "18:29hs",
                 "21:59hs"
               ]
             }
@@ -6406,20 +6627,27 @@
                 "6:52hs",
                 "9:12hs",
                 "9:57hs",
-              
+                "11:37hs",
                 "12:37hs",
                 "14:37hs",
                 "15:37hs",
-                "18:27hs"
+                "17:07hs",
+                "18:27hs",
+                "20:52hs",
+                "21:37hs",
+                "23:37hs"
             
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:52hs",
                 "11:22hs",
-                "14:07hs"
+                "14:07hs",
+                "17:07hs",
+                "20:52hs",
+                "23:37hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:07hs",
                 "20:52hs",
                 "23:37hs"
@@ -6428,22 +6656,28 @@
                 "5:23hs",
                 "6:08hs",
                 "7:53hs",
-                
+                "8:53hs",
                 "10:53hs",
                 "12:53hs",
                 "14:03hs",
+                "15:23hs",
                 "16:53hs",
-                "18:38hs"
-                
+                "18:38hs",
+                "19:53hs",
+                "21:53hs"
               ],
-              "sabados_domingos_vuelta": ["18:23hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:23hs",
                 "9:23hs",
-                "12:38hs"
-              ],
-              "diario_vuelta": [
+                "12:38hs",
                 "15:23hs",
+                "18:23hs",
+                "21:53hs"
+              ],
+              "sabados_vuelta": [
+                "15:23hs",
+                "18:23hs",
                 "21:53hs"
               ]
             }
@@ -6462,42 +6696,57 @@
                 "6:52hs",
                 "9:12hs",
                 "9:57hs",
-              
+                "11:37hs",
                 "12:37hs",
                 "14:37hs",
                 "15:37hs",
-                "18:27hs"
+                "17:07hs",
+                "18:27hs",
+                "20:52hs",
+                "21:37hs",
+                "23:37hs"
             
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:52hs",
                 "11:22hs",
-                "14:07hs"
+                "14:07hs",
+                "17:07hs",
+                "20:52hs",
+                "23:37hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:07hs",
                 "20:52hs",
                 "23:37hs"
               ],
               "lunes_a_viernes_vuelta": [
-                "5:15hs",
+                "5:14hs",
                 "5:59hs",
                 "7:44hs",
+                "8:44hs",
                 "10:44hs",
                 "12:44hs",
                 "13:54hs",
+                "15:14hs",
                 "16:44hs",
-                "18:29hs"
+                "18:29hs",
+                "19:44hs",
+                "21:44hs"
               ],
-              "sabados_domingos_vuelta": ["18:14hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:14hs",
                 "9:14hs",
-                "12:29hs"
-              ],
-              "diario_vuelta": [
+                "12:29hs",
                 "15:14hs",
+                "18:14hs",
+                "21:44hs"
+              ],
+              "sabados_vuelta": [
+                "15:14hs",
+                "18:14hs",
                 "21:44hs"
               ]
             }
@@ -6518,20 +6767,27 @@
                 "6:52hs",
                 "9:12hs",
                 "9:57hs",
-              
+                "11:37hs",
                 "12:37hs",
                 "14:37hs",
                 "15:37hs",
-                "18:27hs"
+                "17:07hs",
+                "18:27hs",
+                "20:52hs",
+                "21:37hs",
+                "23:37hs"
             
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:52hs",
                 "11:22hs",
-                "14:07hs"
+                "14:07hs",
+                "17:07hs",
+                "20:52hs",
+                "23:37hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:07hs",
                 "20:52hs",
                 "23:37hs"
@@ -6540,20 +6796,28 @@
                 "5:17hs",
                 "6:02hs",
                 "7:47hs",
+                "8:47hs",
                 "10:47hs",
                 "12:47hs",
                 "13:57hs",
+                "15:17hs",
                 "16:47hs",
-                "18:32hs"
+                "18:32hs",
+                "19:47hs",
+                "21:47hs"
               ],
-              "sabados_domingos_vuelta": ["18:17hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:17hs",
                 "9:17hs",
-                "12:32hs"
-              ],
-              "diario_vuelta": [
+                "12:32hs",
                 "15:17hs",
+                "18:17hs",
+                "21:47hs"
+              ],
+              "sabados_vuelta": [
+                "15:17hs",
+                "18:17hs",
                 "21:47hs"
               ]
             }
@@ -6572,20 +6836,27 @@
                 "6:52hs",
                 "9:12hs",
                 "9:57hs",
-              
+                "11:37hs",
                 "12:37hs",
                 "14:37hs",
                 "15:37hs",
-                "18:27hs"
+                "17:07hs",
+                "18:27hs",
+                "20:52hs",
+                "21:37hs",
+                "23:37hs"
             
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:52hs",
                 "11:22hs",
-                "14:07hs"
+                "14:07hs",
+                "17:07hs",
+                "20:52hs",
+                "23:37hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:07hs",
                 "20:52hs",
                 "23:37hs"
@@ -6594,21 +6865,28 @@
                 "5:10hs",
                 "5:55hs",
                 "7:40hs",
-                
+                "8:40hs",
                 "10:40hs",
                 "12:40hs",
                 "13:50hs",
+                "15:10hs",
                 "16:40hs",
-                "18:25hs"
+                "18:25hs",
+                "19:40hs",
+                "21:40hs"
               ],
-              "sabados_domingos_vuelta": ["18:10hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:10hs",
                 "9:10hs",
-                "12:25hs"
+                "12:25hs",
+                "15:10hs",
+                "18:10hs",
+                "21:40hs"
               ],
-              "diario_vuelta": [
-                "15:05hs",
+              "sabados_vuelta": [
+                "15:10hs",
+                "18:10hs",
                 "21:40hs"
               ]
             }
@@ -6625,24 +6903,31 @@
             "tipo": "Coche Común",
             "precio": 3100,
             "horarios": {
-              "lunes_a_viernes_ida": [
+             "lunes_a_viernes_ida": [
                 "6:52hs",
                 "9:12hs",
                 "9:57hs",
-              
+                "11:37hs",
                 "12:37hs",
                 "14:37hs",
                 "15:37hs",
-                "18:27hs"
+                "17:07hs",
+                "18:27hs",
+                "20:52hs",
+                "21:37hs",
+                "23:37hs"
             
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "7:52hs",
                 "11:22hs",
-                "14:07hs"
+                "14:07hs",
+                "17:07hs",
+                "20:52hs",
+                "23:37hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:07hs",
                 "20:52hs",
                 "23:37hs"
@@ -6651,20 +6936,28 @@
                 "5:00hs",
                 "5:45hs",
                 "7:30hs",
+                "8:30hs",
                 "10:30hs",
                 "12:30hs",
                 "13:40hs",
+                "15:00hs",
                 "16:30hs",
-                "18:15hs"
+                "18:15hs",
+                "19:30hs",
+                "21:30hs"
               ],
-              "sabados_domingos_vuelta": ["18:00hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:00hs",
                 "9:00hs",
-                "12:15hs"
-              ],
-              "diario_vuelta": [
+                "12:15hs",
                 "15:00hs",
+                "18:00hs",
+                "21:30hs"
+              ],
+              "sabados_vuelta": [
+                "15:00hs",
+                "18:00hs",
                 "21:30hs"
               ]
             }
@@ -6687,39 +6980,54 @@
                 "5:23hs",
                 "6:08hs",
                 "7:53hs",
+                "8:53hs",
                 "10:53hs",
                 "12:53hs",
                 "14:03hs",
+                "15:23hs",
                 "16:53hs",
-                "18:38hs"
+                "18:38hs",
+                "19:53hs",
+                "21:53hs" 
               ],
-              "sabados_domingos_ida": ["18:23hs"],
+              "sabados_domingos_ida": [],
               "domingos_ida": [
                 "6:23hs",
                 "9:23hs",
-                "12:38hs"
-              ],
-              "diario_ida": [
+                "12:38hs",
                 "15:23hs",
+                "18:23hs",
+                "21:53hs"
+              ],
+              "sabados_ida": [
+                "15:23hs",
+                "18:23hs",
                 "21:53hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "6:15hs",
                 "8:35hs",
                 "9:20hs",
-                "9:40hs",
+                "11:00hs",
                 "12:00hs",
                 "14:00hs",
                 "15:00hs",
-                "17:50hs"
+                "16:30hs",
+                "17:50hs",
+                "20:15hs",
+                "21:00hs",
+                "23:00hs"
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "7:15hs",
                 "10:45hs",
-                "13:30hs"
+                "13:30hs",
+                "16:30hs",
+                "20:15hs",
+                "23:00hs"
               ],
-              "diario_vuelta": [
+              "sabados_vuelta": [
                 "16:30hs",
                 "20:15hs",
                 "23:00hs"
@@ -6735,42 +7043,58 @@
             "tipo": "Coche Común",
             "precio": 2800,
             "horarios": {
-              "lunes_a_viernes_ida": [
+               "lunes_a_viernes_ida": [
                 "5:23hs",
                 "6:08hs",
                 "7:53hs",
+                "8:53hs",
                 "10:53hs",
                 "12:53hs",
                 "14:03hs",
+                "15:23hs",
                 "16:53hs",
-                "18:38hs"
+                "18:38hs",
+                "19:53hs",
+                "21:53hs" 
               ],
-              "sabados_domingos_ida": ["18:23hs"],
+              "sabados_domingos_ida": [],
               "domingos_ida": [
                 "6:23hs",
                 "9:23hs",
-                "12:38hs"
-              ],
-              "diario_ida": [
+                "12:38hs",
                 "15:23hs",
+                "18:23hs",
+                "21:53hs"
+              ],
+              "sabados_ida": [
+                "15:23hs",
+                "18:23hs",
                 "21:53hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "6:43hs",
                 "9:03hs",
                 "9:48hs",
+                "11:28hs",
                 "12:28hs",
                 "14:28hs",
                 "15:28hs",
-                "18:18hs"
+                "16:58hs",
+                "18:18hs",
+                "20:43hs",
+                "21:28hs",
+                "23:28hs"
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "7:43hs",
                 "11:13hs",
-                "13:58hs"
+                "13:58hs",
+                "16:58hs",
+                "20:43hs",
+                "23:28hs"
               ],
-              "diario_vuelta": [
+              "sabados_vuelta": [
                 "16:58hs",
                 "20:43hs",
                 "23:28hs"
@@ -6786,42 +7110,58 @@
             "tipo": "Coche Común",
             "precio": 1900,
             "horarios": {
-              "lunes_a_viernes_ida": [
+               "lunes_a_viernes_ida": [
                 "5:23hs",
                 "6:08hs",
                 "7:53hs",
+                "8:53hs",
                 "10:53hs",
                 "12:53hs",
                 "14:03hs",
+                "15:23hs",
                 "16:53hs",
-                "18:38hs"
+                "18:38hs",
+                "19:53hs",
+                "21:53hs" 
               ],
-              "sabados_domingos_ida": ["18:23hs"],
+              "sabados_domingos_ida": [],
               "domingos_ida": [
                 "6:23hs",
                 "9:23hs",
-                "12:38hs"
-              ],
-              "diario_ida": [
+                "12:38hs",
                 "15:23hs",
+                "18:23hs",
+                "21:53hs"
+              ],
+              "sabados_ida": [
+                "15:23hs",
+                "18:23hs",
                 "21:53hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "6:49hs",
                 "9:09hs",
                 "9:54hs",
+                "11:34hs",
                 "12:34hs",
                 "14:34hs",
                 "15:34hs",
-                "18:24hs"
+                "17:04hs",
+                "18:24hs",
+                "20:49hs",
+                "21:34hs",
+                "23:34hs"
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "7:49hs",
                 "11:19hs",
-                "14:04hs"
+                "14:04hs",
+                "17:04hs",
+                "20:49hs",
+                "23:34hs"
               ],
-              "diario_vuelta": [
+              "sabados_vuelta": [
                 "17:04hs",
                 "20:49hs",
                 "23:34hs"
@@ -6841,41 +7181,54 @@
                 "5:23hs",
                 "6:08hs",
                 "7:53hs",
+                "8:53hs",
                 "10:53hs",
                 "12:53hs",
                 "14:03hs",
+                "15:23hs",
                 "16:53hs",
-                "18:38hs"
+                "18:38hs",
+                "19:53hs",
+                "21:53hs" 
               ],
-              "sabados_domingos_ida": ["18:23hs"],
+              "sabados_domingos_ida": [],
               "domingos_ida": [
                 "6:23hs",
                 "9:23hs",
-                "12:38hs"
-              ],
-              "diario_ida": [
+                "12:38hs",
                 "15:23hs",
+                "18:23hs",
+                "21:53hs"
+              ],
+              "sabados_ida": [
+                "15:23hs",
+                "18:23hs",
                 "21:53hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "6:52hs",
                 "9:12hs",
                 "9:57hs",
+                "11:37hs",
                 "12:37hs",
                 "14:37hs",
-                "13:03hs",
-                "14:13hs",
-                "17:03hs",
-                "18:48hs",
-                "20:03hs"
+                "15:37hs",
+                "17:07hs",
+                "18:27hs",
+                "20:52hs",
+                "21:37hs",
+                "23:37hs"
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "7:52hs",
                 "11:22hs",
-                "14:07hs"
+                "14:07hs",
+                "17:07hs",
+                "20:52hs",
+                "23:37hs"
               ],
-              "diario_vuelta": [
+              "sabados_vuelta": [
                 "17:07hs",
                 "20:52hs",
                 "23:37hs"
@@ -6895,38 +7248,54 @@
                 "5:23hs",
                 "6:08hs",
                 "7:53hs",
+                "8:53hs",
                 "10:53hs",
                 "12:53hs",
                 "14:03hs",
+                "15:23hs",
                 "16:53hs",
-                "18:38hs"
+                "18:38hs",
+                "19:53hs",
+                "21:53hs" 
               ],
-              "sabados_domingos_ida": ["18:23hs"],
+              "sabados_domingos_ida": [],
               "domingos_ida": [
                 "6:23hs",
                 "9:23hs",
-                "12:38hs"
-              ],
-              "diario_ida": [
+                "12:38hs",
                 "15:23hs",
+                "18:23hs",
+                "21:53hs"
+              ],
+              "sabados_ida": [
+                "15:23hs",
+                "18:23hs",
                 "21:53hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "6:56hs",
                 "9:16hs",
                 "10:01hs",
+                "11:41hs",
                 "12:41hs",
                 "14:41hs",
                 "15:41hs",
-                "18:31hs"
+                "17:11hs",
+                "18:31hs",
+                "20:56hs",
+                "21:41hs",
+                "23:41hs"
               ],
               "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "7:56hs",
                 "11:26hs",
-                "14:11hs"
+                "14:11hs",
+                "17:11hs",
+                "20:56hs",
+                "23:41hs"
               ],
-              "diario_vuelta": [
+              "sabados_vuelta": [
                 "17:11hs",
                 "20:56hs",
                 "23:41hs"
@@ -6950,15 +7319,22 @@
                 "12:47hs",
                 "14:47hs",
                 "15:47hs",
-                "18:37hs"
+                "17:17hs",
+                "18:37hs",
+                "21:02hs",
+                "21:47hs",
+                "23:47hs"
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "8:02hs",
                 "11:32hs",
-                "14:17hs"
+                "14:17hs",
+                "17:17hs",
+                "21:02hs",
+                "23:47hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:17hs",
                 "21:02hs",
                 "23:47hs"
@@ -6971,18 +7347,25 @@
                 "10:47hs",
                 "12:47hs",
                 "13:57hs",
+                "15:17hs",
                 "16:47hs",
-                "18:32hs"
+                "18:32hs",
+                "19:47hs",
+                "21:47hs"
               ],
-              "sabados_domingos_vuelta": ["18:17hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:17hs",
                 "9:17hs",
-                "12:32hs"
-              ],
-              "diario_vuelta": [
+                "12:32hs",
                 "15:17hs",
+                "18:17hs",
                 "21:47hs"
+              ],
+              "sabados_vuelta": [
+                "15:17hs",
+                "18:17hs",
+                "21:47hs" 
               ]
             }
           }
@@ -6995,7 +7378,7 @@
             "tipo": "Coche Común",
             "precio": 1500,
             "horarios": {
-              "lunes_a_viernes_ida": [
+             "lunes_a_viernes_ida": [
                 "7:02hs",
                 "9:22hs",
                 "10:07hs",
@@ -7003,15 +7386,22 @@
                 "12:47hs",
                 "14:47hs",
                 "15:47hs",
-                "18:37hs"
+                "17:17hs",
+                "18:37hs",
+                "21:02hs",
+                "21:47hs",
+                "23:47hs"
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "8:02hs",
                 "11:32hs",
-                "14:17hs"
+                "14:17hs",
+                "17:17hs",
+                "21:02hs",
+                "23:47hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:17hs",
                 "21:02hs",
                 "23:47hs"
@@ -7024,18 +7414,25 @@
                 "10:44hs",
                 "12:44hs",
                 "13:54hs",
+                "15:14hs",
                 "16:44hs",
-                "18:29hs"
+                "18:29hs",
+                "19:44hs",
+                "21:44hs"
               ],
-              "sabados_domingos_vuelta": ["18:14hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:14hs",
                 "9:14hs",
-                "12:29hs"
-              ],
-              "diario_vuelta": [
+                "12:29hs",
                 "15:14hs",
+                "18:14hs",
                 "21:44hs"
+              ],
+              "sabados_vuelta": [
+                "15:14hs",
+                "18:14hs",
+                "21:44hs" 
               ]
             }
           }
@@ -7048,7 +7445,7 @@
             "tipo": "Coche Común",
             "precio": 1500,
             "horarios": {
-              "lunes_a_viernes_ida": [
+               "lunes_a_viernes_ida": [
                 "7:02hs",
                 "9:22hs",
                 "10:07hs",
@@ -7056,15 +7453,22 @@
                 "12:47hs",
                 "14:47hs",
                 "15:47hs",
-                "18:37hs"
+                "17:17hs",
+                "18:37hs",
+                "21:02hs",
+                "21:47hs",
+                "23:47hs"
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "8:02hs",
                 "11:32hs",
-                "14:17hs"
+                "14:17hs",
+                "17:17hs",
+                "21:02hs",
+                "23:47hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:17hs",
                 "21:02hs",
                 "23:47hs"
@@ -7077,18 +7481,25 @@
                 "10:40hs",
                 "12:40hs",
                 "13:50hs",
+                "15:10hs",
                 "16:40hs",
-                "18:25hs"
+                "18:25hs",
+                "19:40hs",
+                "21:40hs"
               ],
-              "sabados_domingos_vuelta": ["18:10hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:10hs",
                 "9:10hs",
-                "12:25hs"
-              ],
-              "diario_vuelta": [
+                "12:25hs",
                 "15:10hs",
+                "18:10hs",
                 "21:40hs"
+              ],
+              "sabados_vuelta": [
+                "15:10hs",
+                "18:10hs",
+                "21:40hs" 
               ]
             }
           }
@@ -7101,7 +7512,7 @@
             "tipo": "Coche Común",
             "precio": 1700,
             "horarios": {
-              "lunes_a_viernes_ida": [
+               "lunes_a_viernes_ida": [
                 "7:02hs",
                 "9:22hs",
                 "10:07hs",
@@ -7109,15 +7520,22 @@
                 "12:47hs",
                 "14:47hs",
                 "15:47hs",
-                "18:37hs"
+                "17:17hs",
+                "18:37hs",
+                "21:02hs",
+                "21:47hs",
+                "23:47hs"
               ],
               "sabados_domingos_ida": [],
               "domingos_ida": [
                 "8:02hs",
                 "11:32hs",
-                "14:17hs"
+                "14:17hs",
+                "17:17hs",
+                "21:02hs",
+                "23:47hs"
               ],
-              "diario_ida": [
+              "sabados_ida": [
                 "17:17hs",
                 "21:02hs",
                 "23:47hs"
@@ -7130,18 +7548,25 @@
                 "10:30hs",
                 "12:30hs",
                 "13:40hs",
+                "15:00hs",
                 "16:30hs",
-                "18:15hs"
+                "18:15hs",
+                "19:30hs",
+                "21:30hs"
               ],
-              "sabados_domingos_vuelta": ["18:00hs"],
+              "sabados_domingos_vuelta": [],
               "domingos_vuelta": [
                 "6:00hs",
                 "9:00hs",
-                "12:15hs"
-              ],
-              "diario_vuelta": [
+                "12:15hs",
                 "15:00hs",
+                "18:00hs",
                 "21:30hs"
+              ],
+              "sabados_vuelta": [
+                "15:00hs",
+                "18:00hs",
+                "21:30hs" 
               ]
             }
           }
@@ -7749,7 +8174,7 @@
               "sabados_vuelta": [
                 "15:00hs",
                 "18:00hs",
-                "21:30hs"
+                "21:30  hs"
               ]
             }
           }
