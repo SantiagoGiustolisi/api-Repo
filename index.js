@@ -117,24 +117,28 @@
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:30hs",
                 "18:30hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:40hs",
+                "13:55hs",
                 "18:10hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:55hs",
                 "20:25hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:00hs", "19:00hs"],
-              "diario_vuelta": ["13:55hs", "21:10hs"]
+              "domingos_ida": ["10:30hs",
+                "18:30hs"],
+              "domingos_vuelta": ["13:55hs",
+                "20:25hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -151,24 +155,28 @@
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:30hs",
                 "18:30hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:36hs",
+                "13:51hs",
                 "18:06hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:51hs",
                 "20:21hs"
               ],
               "diario": [
               
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:00hs", "19:00hs"],
-              "diario_vuelta": ["13:49hs", "21:04hs"]
+              "domingos_ida": ["10:30hs",
+                "18:30hs"],
+              "domingos_vuelta": [ "13:51hs",
+                "20:21hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -185,24 +193,28 @@
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:30hs",
                 "18:30hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:35hs",
+                "13:50hs",
                 "18:05hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:50hs",
                 "20:20hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:00hs", "19:00hs"],
-              "diario_vuelta": ["13:50hs", "21:05hs"]
+              "domingos_ida": ["10:30hs",
+                "18:30hs"],
+              "domingos_vuelta": ["13:50hs",
+                "20:20hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -219,24 +231,28 @@
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:30hs",
                 "18:30hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:45hs",
                 "20:15hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:00hs", "19:00hs"],
-              "diario_vuelta": ["13:45hs", "21:00hs"]
+              "domingos_ida": ["10:30hs",
+                "18:30hs"],
+              "domingos_vuelta": [ "13:45hs",
+                "20:15hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -253,24 +269,28 @@
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:30hs",
                 "18:30hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:40hs",
                 "20:10hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:00hs", "19:00hs"],
-              "diario_vuelta": ["13:40hs", "21:50hs"]
+              "domingos_ida": ["10:30hs",
+                "18:30hs"],
+              "domingos_vuelta": [ "13:40hs",
+                "20:10hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -287,24 +307,28 @@
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:30hs",
                 "18:30hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:30hs",
                 "20:00hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:00hs", "19:00hs"],
-              "diario_vuelta": ["13:30hs", "21:45hs"]
+              "domingos_ida": ["10:30hs",
+                "18:30hs"],
+              "domingos_vuelta": ["13:30hs",
+                "20:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -321,24 +345,28 @@
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:30hs",
                 "18:30hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:02hs",
+                "13:17hs",
                 "17:32hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:17hs",
                 "19:47hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:00hs", "19:00hs"],
-              "diario_vuelta": ["13:17hs", "20:32hs"]
+              "domingos_ida": ["10:30hs",
+                "18:30hs"],
+              "domingos_vuelta": ["13:17hs",
+                "19:47hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -351,36 +379,33 @@
             "precio": 4700,
             "horarios": {
               "lunes_a_viernes_ida": [
-                "10:00hs",
+                "6:00hs",
+                "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_ida": [
-                "10:00hs",
-                "19:00hs"
+              "sabados_ida": [
+                "10:30hs",
+                "18:30hs"
               ],
               "lunes_a_viernes_vuelta": [
+                "6:00hs",
                 "13:15hs",
-                "20:30hs"
+                "17:30hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                 "13:15hs",
-                "20:30hs"
+                "19:45hs"
               ],
-               "sabados_ida": [
-                "10:00hs",
-                "19:00hs"
-              ],
-               "sabados_vuelta": [
-                "13:15hs",
-                "20:30hs"
-              ],
+               
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:00hs", "19:00hs"],
-              "diario_vuelta": ["13:15hs", "20:30hs"]
+              "domingos_ida": [ "10:30hs",
+                "18:30hs"],
+              "domingos_vuelta": [ "13:15hs",
+                "19:45hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1437,24 +1462,28 @@
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:35hs",
                 "18:35hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "07:05hs",
+                "14:20hs",
                 "18:35hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "14:20hs",
                 "20:50hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:05hs", "19:05hs"],
-              "diario_vuelta": ["14:20hs", "21:35hs"]
+              "domingos_ida": ["10:35hs",
+                "18:35hs"],
+              "domingos_vuelta": ["14:20hs",
+                "20:50hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1466,15 +1495,15 @@
           "tipo": "Coche Común",
           "precio": 1700,
           "horarios": {
-            "lunes_a_viernes_ida": ["07:10hs", "18:40hs"],
-            "sabados_domingos_ida": ["20:55hs"],
+            "lunes_a_viernes_ida": ["07:10hs", "14:25hs", "18:40hs"],
+            "sabados_ida": ["14:25hs","20:55hs"],
             "lunes_a_viernes_vuelta": ["6:00hs", "12:00hs", "19:00hs"],
-            "sabados_domingos_vuelta": ["10:30hs", "18:30hs"],
+            "sabados_vuelta": ["10:30hs", "18:30hs"],
             "diario": [],
-            "domingos_ida": [],
-            "domingos_vuelta": [],
-            "diario_ida": ["14:25hs", "21:40hs"],
-            "diario_vuelta": ["10:00hs", "19:00hs"]
+            "domingos_ida":["14:25hs","20:55hs"],
+            "domingos_vuelta": ["10:30hs", "18:30hs"],
+            "diario_ida": [],
+            "diario_vuelta": []
           }
         }
       ]
@@ -1491,24 +1520,28 @@
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:35hs",
                 "18:35hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:45hs",
+                "14:00hs",
                 "18:15hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "14:00hs",
                 "20:30hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:05hs", "19:05hs"],
-              "diario_vuelta": ["14:00hs", "21:15hs"]
+              "domingos_ida": ["10:35hs",
+                "18:35hs"],
+              "domingos_vuelta": [ "14:00hs",
+                "20:30hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1525,24 +1558,28 @@
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:35hs",
                 "18:35hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:40hs",
+                "13:55hs",
                 "18:10hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:55hs",
                 "20:25hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:05hs", "19:05hs"],
-              "diario_vuelta": ["13:55hs", "21:10hs"]
+              "domingos_ida": ["10:35hs",
+                "18:35hs"],
+              "domingos_vuelta": ["13:55hs",
+                "20:25hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1559,24 +1596,28 @@
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:35hs",
                 "18:35hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:36hs",
+                "13:51hs",
                 "18:06hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:51hs",
                 "20:21hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:05hs", "19:05hs"],
-              "diario_vuelta": ["13:49hs", "21:04hs"]
+              "domingos_ida": ["10:35hs",
+                "18:35hs"],
+              "domingos_vuelta": ["13:51hs",
+                "20:21hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1593,24 +1634,28 @@
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:35hs",
                 "18:35hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:35hs",
+                "13:50hs",
                 "18:05hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:50hs",
                 "20:20hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:05hs", "19:05hs"],
-              "diario_vuelta": ["13:50hs", "21:05hs"]
+              "domingos_ida": ["10:35hs",
+                "18:35hs"],
+              "domingos_vuelta": ["13:50hs",
+                "20:20hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1627,24 +1672,28 @@
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:35hs",
                 "18:35hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:45hs",
                 "20:15hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:05hs", "19:05hs"],
-              "diario_vuelta": ["13:45hs", "21:00hs"]
+              "domingos_ida": ["10:35hs",
+                "18:35hs"],
+              "domingos_vuelta": ["13:45hs",
+                "20:15hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1661,24 +1710,28 @@
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:35hs",
                 "18:35hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:40hs",
                 "20:10hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:05hs", "19:05hs"],
-              "diario_vuelta": ["13:40hs", "20:55hs"]
+              "domingos_ida": ["10:35hs",
+                "18:35hs"],
+              "domingos_vuelta": ["13:40hs",
+                "20:10hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1695,24 +1748,28 @@
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:35hs",
                 "18:35hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:30hs",
                 "20:00hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:05hs", "19:05hs"],
-              "diario_vuelta": ["13:30hs", "20:45hs"]
+              "domingos_ida": ["10:35hs",
+                "18:35hs"],
+              "domingos_vuelta": ["13:30hs",
+                "20:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1729,24 +1786,28 @@
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:35hs",
                 "18:35hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:02hs",
+                "13:17hs",
                 "17:32hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:47hs",
                 "19:47hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:05hs", "19:05hs"],
-              "diario_vuelta": ["13:17hs", "20:32hs"]
+              "domingos_ida": [ "10:35hs",
+                "18:35hs"],
+              "domingos_vuelta": ["13:47hs",
+                "19:47hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1763,24 +1824,28 @@
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:35hs",
                 "18:35hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:00hs",
+                "13:15hs",
                 "17:30hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:15hs",
                 "19:45hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:05hs", "19:05hs"],
-              "diario_vuelta": ["13:15hs", "20:30hs"]
+              "domingos_ida": ["10:35hs",
+                "18:35hs"],
+              "domingos_vuelta": ["13:15hs",
+                "19:45hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1792,15 +1857,15 @@
           "tipo": "Coche Común",
           "precio": 1700,
           "horarios": {
-            "lunes_a_viernes_ida": ["07:10hs", "18:40hs"],
-            "sabados_domingos_ida": ["20:55hs"],
+            "lunes_a_viernes_ida": ["07:10hs","14:25hs", "18:40hs"],
+            "sabados_ida": ["14:25hs","20:55hs"],
             "lunes_a_viernes_vuelta": ["6:00hs", "12:00hs", "19:00hs"],
-            "sabados_domingos_vuelta": ["10:30hs", "18:30hs"],
+            "sabados_vuelta": ["10:30hs", "18:30hs"],
             "diario": [],
-            "domingos_ida": [],
-            "domingos_vuelta": [],
-            "diario_ida": ["14:25hs", "21:40hs"],
-            "diario_vuelta": ["10:00hs", "19:00hs"]
+            "domingos_ida": ["14:25hs","20:55hs"],
+            "domingos_vuelta": ["10:30hs", "18:30hs"],
+            "diario_ida": [],
+            "diario_vuelta": []
           }
         }
       ]
@@ -1822,24 +1887,28 @@
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:40hs",
                 "18:40hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:45hs",
+                "14:00hs",
                 "18:15hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "14:00hs",
                 "20:30hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:10hs", "19:10hs"],
-              "diario_vuelta": ["14:00hs", "21:15hs"]
+              "domingos_ida": [ "10:40hs",
+                "18:40hs"],
+              "domingos_vuelta": ["14:00hs",
+                "20:30hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1853,9 +1922,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "07:05hs",
+                "14:25hs",
                 "18:35hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "14:20hs",
                 "20:50hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -1864,7 +1935,7 @@
                 "19:05hs"
                 
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                 "10:35hs",
                 "18:35hs"
                 
@@ -1872,10 +1943,13 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["14:20hs", "21:35hs"],
-              "diario_vuelta": ["10:05hs", "19:05hs"]
+              "domingos_ida": ["14:20hs",
+                "20:50hs"],
+              "domingos_vuelta": ["10:35hs",
+                "18:35hs"
+                ],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1889,29 +1963,31 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                "07:05hs",
+                "14:20hs",
                 "18:35hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "14:20hs",
                 "20:50hs"
               ],
               "lunes_a_viernes_vuelta": [
-                
                  "6:00hs",
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_vuelta": [
-                
+              "sabados_vuelta": [
                 "10:30hs",
                 "18:30hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["14:20hs", "21:35hs"],
-              "diario_vuelta": ["10:00hs", "19:00hs"]
+              "domingos_ida": ["14:20hs",
+                "20:50hs"],
+              "domingos_vuelta": ["10:30hs",
+                "18:30hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1928,24 +2004,28 @@
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:40hs",
                 "18:40hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:40hs",
+                "13:55hs",
                 "18:10hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:55hs",
                 "20:25hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:10hs", "19:10hs"],
-              "diario_vuelta": ["13:55hs", "21:10hs"]
+              "domingos_ida": ["10:40hs",
+                "18:40hs"],
+              "domingos_vuelta": ["13:55hs",
+                "20:25hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1962,24 +2042,28 @@
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:40hs",
                 "18:40hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:36hs",
+                "13:51hs",
                 "18:06hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:51hs",
                 "20:21hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:10hs", "19:10hs"],
-              "diario_vuelta": ["13:49hs", "21:04hs"]
+              "domingos_ida": ["10:40hs",
+                "18:40hs"],
+              "domingos_vuelta": ["13:51hs",
+                "20:21hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -1996,24 +2080,28 @@
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:40hs",
                 "18:40hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:35hs",
+                "13:50hs",
                 "18:05hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:50hs",
                 "20:20hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:10hs", "19:10hs"],
-              "diario_vuelta": ["13:50hs", "21:05hs"]
+              "domingos_ida": ["10:40hs",
+                "18:40hs"],
+              "domingos_vuelta": ["13:50hs",
+                "20:20hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2030,24 +2118,28 @@
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:40hs",
                 "18:40hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:45hs",
                 "20:15hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:10hs", "19:10hs"],
-              "diario_vuelta": ["13:45hs", "21:00hs"]
+              "domingos_ida": ["10:40hs",
+                "18:40hs"],
+              "domingos_vuelta": ["13:45hs",
+                "20:15hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2064,24 +2156,28 @@
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:40hs",
                 "18:40hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:40hs",
                 "20:10hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:10hs", "19:10hs"],
-              "diario_vuelta": ["13:40hs", "21:55hs"]
+              "domingos_ida": ["10:40hs",
+                "18:40hs"],
+              "domingos_vuelta": ["13:40hs",
+                "20:10hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2098,24 +2194,28 @@
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:40hs",
                 "18:40hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:30hs",
                 "20:00hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:10hs", "19:10hs"],
-              "diario_vuelta": ["13:30hs", "20:45hs"]
+              "domingos_ida": ["10:40hs",
+                "18:40hs"],
+              "domingos_vuelta": [ "13:30hs",
+                "20:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2132,24 +2232,28 @@
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:40hs",
                 "18:40hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:02hs",
+                "13:17hs",
                 "17:32hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:17hs",
                 "19:47hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:10hs", "19:10hs"],
-              "diario_vuelta": ["13:27hs", "21:32hs"]
+              "domingos_ida": ["10:40hs",
+                "18:40hs"],
+              "domingos_vuelta": ["13:17hs",
+                "19:47hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2166,24 +2270,28 @@
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "10:40hs",
                 "18:40hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:00hs",
+                "13:15hs",  
                 "17:30hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:15hs",
                 "19:45hs"
               ],
               "diario": [
               
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:10hs", "19:10hs"],
-              "diario_vuelta": ["13:15hs", "21:30hs"]
+              "domingos_ida": ["10:40hs",
+                "18:40hs"],
+              "domingos_vuelta": ["13:15hs",
+                "19:45hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2205,24 +2313,28 @@
                 "12:30hs",
                 "19:30hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:00hs",
                 "19:00hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:40hs",
+                "13:55hs",
                 "18:10hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:55hs",
                 "20:25hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:30hs", "19:30hs"],
-              "diario_vuelta": ["13:55hs", "21:10hs"]
+              "domingos_ida": ["11:00hs",
+                "19:00hs"],
+              "domingos_vuelta": ["13:55hs",
+                "20:25hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2236,9 +2348,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:45hs",
+                "14:00hs",
                 "18:15hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "14:00hs",
                 "20:30hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -2247,18 +2361,19 @@
                 "19:10hs"
                 
               ],
-              "sabados_domingos_vuelta": [
-               
-                 "10:40hs",
+              "sabados_vuelta": [
+                "10:40hs",
                 "18:40hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["14:00hs", "21:15hs"],
-              "diario_vuelta": ["10:10hs", "19:10hs"]
+              "domingos_ida": [ "14:00hs",
+                "20:30hs"],
+              "domingos_vuelta": ["10:40hs",
+                "18:40hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2272,18 +2387,19 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:45hs",
+                "14:00hs",
                 "18:15hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "14:00hs",
                 "20:30hs"
               ],
               "lunes_a_viernes_vuelta": [
-                
                 "6:05hs",
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                 "10:35hs",
                 "18:35hs"
                 
@@ -2291,10 +2407,12 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["14:00hs", "21:15hs"],
-              "diario_vuelta": ["10:05hs", "19:05hs"]
+              "domingos_ida": [ "14:00hs",
+                "20:30hs"],
+              "domingos_vuelta": ["10:35hs",
+                "18:35hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2308,9 +2426,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:45hs",
+                 "14:00hs",
                 "18:15hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "14:00hs",
                 "20:30hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -2319,7 +2439,7 @@
                 "19:00hs"
                
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                 "10:30hs",
                 "18:30hs"
                 
@@ -2327,10 +2447,12 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["14:00hs", "21:15hs"],
-              "diario_vuelta": ["10:00hs", "19:00hs"]
+              "domingos_ida": ["14:00hs",
+                "20:30hs"],
+              "domingos_vuelta": ["10:30hs",
+                "18:30hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2347,24 +2469,28 @@
                 "12:30hs",
                 "19:30hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:00hs",
                 "19:00hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:36hs",
+                "13:51hs",
                 "18:06hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:51hs",
                 "20:21hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:30hs", "19:30hs"],
-              "diario_vuelta": ["13:49hs", "21:04hs"]
+              "domingos_ida": ["11:00hs",
+                "19:00hs"],
+              "domingos_vuelta": ["13:51hs",
+                "20:21hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2381,24 +2507,28 @@
                 "12:30hs",
                 "19:30hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:00hs",
                 "19:00hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:35hs",
+                "13:50hs",
                 "18:05hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:50hs",
                 "20:20hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:30hs", "19:30hs"],
-              "diario_vuelta": ["13:50hs", "21:05hs"]
+              "domingos_ida": ["11:00hs",
+                "19:00hs"],
+              "domingos_vuelta": ["13:50hs",
+                "20:20hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2415,24 +2545,28 @@
                 "12:30hs",
                 "19:30hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:00hs",
                 "19:00hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:45hs",
                 "20:15hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:30hs", "19:30hs"],
-              "diario_vuelta": ["13:45hs", "21:00hs"]
+              "domingos_ida": [ "11:00hs",
+                "19:00hs"],
+              "domingos_vuelta": ["13:45hs",
+                "20:15hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2449,24 +2583,28 @@
                 "12:30hs",
                 "19:30hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:00hs",
                 "19:00hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:40hs",
                 "20:10hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:30hs", "19:30hs"],
-              "diario_vuelta": ["13:40hs", "20:55hs"]
+              "domingos_ida": ["11:00hs",
+                "19:00hs"],
+              "domingos_vuelta": [ "13:40hs",
+                "20:10hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2483,24 +2621,28 @@
                 "12:30hs",
                 "19:30hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:00hs",
                 "19:00hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:30hs",
                 "20:00hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:30hs", "19:30hs"],
-              "diario_vuelta": ["13:30hs", "20:45hs"]
+              "domingos_ida": ["11:00hs",
+                "19:00hs"],
+              "domingos_vuelta": ["13:30hs",
+                "20:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2517,24 +2659,28 @@
                 "12:30hs",
                 "19:30hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:00hs",
                 "19:00hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:02hs",
+                "13:17hs",
                 "17:32hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:17hs",
                 "19:47hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:30hs", "19:30hs"],
-              "diario_vuelta": ["13:17hs", "20:32hs"]
+              "domingos_ida": ["11:00hs",
+                "19:00hs"],
+              "domingos_vuelta": ["13:17hs",
+                "19:47hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2551,24 +2697,28 @@
                 "12:30hs",
                 "19:30hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:00hs",
                 "19:00hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:00hs",
+                "13:15hs",
                 "17:30hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:15hs",
                 "19:45hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:30hs", "19:30hs"],
-              "diario_vuelta": ["13:15hs", "20:30hs"]
+              "domingos_ida": ["11:00hs",
+                "19:00hs"],
+              "domingos_vuelta": ["13:15hs",
+                "19:45hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2590,24 +2740,28 @@
                 "12:35hs",
                 "19:35hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:05hs",
                 "19:05hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:36hs",
+                "13:51hs",
                 "18:06hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:51hs",
                 "20:21hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:35hs", "19:35hs"],
-              "diario_vuelta": ["13:49hs", "21:04hs"]
+              "domingos_ida": ["11:05hs",
+                "19:05hs"],
+              "domingos_vuelta": ["13:51hs",
+                "20:21hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2620,29 +2774,32 @@
             "precio": 1500,
             "horarios": {
               "lunes_a_viernes_ida": [
-                    "06:40hs",
+                "06:40hs",
+                "13:55hs",
                 "18:10hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+               "13:55hs",
                "20:25hs"
               ],
               "lunes_a_viernes_vuelta": [
-            
                 "6:30hs",
                 "12:30hs",
                 "19:30hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                 "11:00hs",
                 "19:00hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:55hs", "21:10hs"],
-              "diario_vuelta": ["10:30hs", "19:30hs"]
+              "domingos_ida": [ "13:55hs",
+               "20:25hs"],
+              "domingos_vuelta": ["11:00hs",
+                "19:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2656,28 +2813,31 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:40hs",
+                "13:55hs",
                 "18:10hs"
               ],
-              "sabados_domingos_ida": [
-                 "20:25hs"
+              "sabados_ida": [
+                "13:55hs",
+                "20:25hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "6:10hs",
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_vuelta": [
-               
+              "sabados_vuelta": [
                 "10:40hs",
                 "18:40hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:55hs", "21:10hs"],
-              "diario_vuelta": ["10:10hs", "19:10hs"]
+              "domingos_ida": ["13:55hs",
+                "20:25hs"],
+              "domingos_vuelta": ["10:40hs",
+                "18:40hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2691,28 +2851,31 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:40hs",
+                "13:55hs",
                 "18:10hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:55hs",
                 "20:25hs"
               ],
               "lunes_a_viernes_vuelta": [
-                
                 "6:05hs",
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                 "10:35hs",
                 "18:35hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:55hs", "21:10hs"],
-              "diario_vuelta": ["10:05hs", "19:05hs"]
+              "domingos_ida": [ "13:55hs",
+                "20:25hs"],
+              "domingos_vuelta": ["10:35hs",
+                "18:35hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2725,11 +2888,12 @@
             "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
-                
                 "06:40hs",
+                "13:55hs",
                 "18:10hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:55hs",
                  "20:25hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -2737,18 +2901,19 @@
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_vuelta": [
-               
+              "sabados_vuelta": [
                 "10:30hs",
                 "18:30hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:55hs", "21:10hs"],
-              "diario_vuelta": ["10:00hs", "19:00hs"]
+              "domingos_ida": ["13:55hs",
+                 "20:25hs"],
+              "domingos_vuelta": ["10:30hs",
+                "18:30hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2765,24 +2930,28 @@
                 "12:35hs",
                 "19:35hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:05hs",
                 "19:05hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:35hs",
+                "13:50hs",
                 "18:05hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:50hs",
                 "20:20hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:35hs", "19:35hs"],
-              "diario_vuelta": ["13:50hs", "21:05hs"]
+              "domingos_ida": ["11:05hs",
+                "19:05hs"],
+              "domingos_vuelta": ["13:50hs",
+                "20:20hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2799,24 +2968,28 @@
                 "12:35hs",
                 "19:35hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:05hs",
                 "19:05hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:45hs",
                 "20:15hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:35hs", "19:35hs"],
-              "diario_vuelta": ["13:45hs", "21:00hs"]
+              "domingos_ida": ["11:05hs",
+                "19:05hs"],
+              "domingos_vuelta": ["13:45hs",
+                "20:15hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2833,24 +3006,28 @@
                 "12:35hs",
                 "19:35hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:05hs",
                 "19:05hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:40hs",
                 "20:10hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:35hs", "19:35hs"],
-              "diario_vuelta": ["13:40hs", "20:55hs"]
+              "domingos_ida": [ "11:05hs",
+                "19:05hs"],
+              "domingos_vuelta": ["13:40hs",
+                "20:10hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2867,24 +3044,28 @@
                 "12:35hs",
                 "19:35hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:05hs",
                 "19:05hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:30hs",
                 "20:00hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:35hs", "19:35hs"],
-              "diario_vuelta": ["13:30hs", "20:45hs"]
+              "domingos_ida": ["11:05hs",
+                "19:05hs"],
+              "domingos_vuelta": ["13:30hs",
+                "20:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2901,24 +3082,28 @@
                 "12:35hs",
                 "19:35hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:05hs",
                 "19:05hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:02hs",
+                "13:17hs",
                 "17:32hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:17hs",
                 "19:47hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:35hs", "19:35hs"],
-              "diario_vuelta": ["13:17hs", "20:32hs"]
+              "domingos_ida": ["11:05hs",
+                "19:05hs"],
+              "domingos_vuelta": ["13:17hs",
+                "19:47hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2935,24 +3120,28 @@
                 "12:35hs",
                 "19:35hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:05hs",
                 "19:05hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:00hs",
+                "13:15hs",
                 "17:30hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:15hs",
                 "19:45hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:35hs", "19:35hs"],
-              "diario_vuelta": ["13:15hs", "20:30hs"]
+              "domingos_ida": ["11:05hs",
+                "19:05hs"],
+              "domingos_vuelta": ["13:15hs",
+                "19:45hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -2974,24 +3163,28 @@
                 "12:39hs",
                 "19:39hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:09hs",
                 "19:09hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:35hs",
+                "13:50hs",
                 "18:05hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:50hs",
                 "20:20hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:39hs", "19:39hs"],
-              "diario_vuelta": ["19:49hs", "21:04hs"]
+              "domingos_ida": ["11:09hs",
+                "19:09hs"],
+              "domingos_vuelta": ["13:50hs",
+                "20:20hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3004,30 +3197,32 @@
             "precio": 1500,
             "horarios": {
               "lunes_a_viernes_ida": [
-                  "06:36hs",
+                "06:36hs",
+                "13:51hs",
                 "18:06hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:51hs",
                 "20:21hs"
               ],
               "lunes_a_viernes_vuelta": [
-              
                 "6:35hs",
                 "12:35hs",
                 "19:35hs"
               ],
-              "sabados_domingos_vuelta": [
-               
-                 "11:05hs",
+              "sabados_vuelta": [
+                "11:05hs",
                 "19:05hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:49hs", "21:04hs"],
-              "diario_vuelta": ["10:35hs", "19:35hs"]
+              "domingos_ida": ["13:51hs",
+                "20:21hs"],
+              "domingos_vuelta": ["11:05hs",
+                "19:05hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3040,11 +3235,12 @@
             "precio": 1500,
             "horarios": {
               "lunes_a_viernes_ida": [
-            
                 "06:36hs",
+                "13:51hs",
                 "18:06hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:51hs",
                 "20:21hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -3052,18 +3248,19 @@
                 "12:30hs",
                 "19:30hs"
               ],
-              "sabados_domingos_vuelta": [
-                
+              "sabados_vuelta": [
                 "11:00hs",
                 "19:00hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:49hs", "21:04hs"],
-              "diario_vuelta": ["10:30hs", "19:30hs"]
+              "domingos_ida": ["13:51hs",
+                "20:21hs"],
+              "domingos_vuelta": ["11:00hs",
+                "19:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3076,30 +3273,32 @@
             "precio": 1500,
             "horarios": {
               "lunes_a_viernes_ida": [
-               
-                 "06:36hs",
+                "06:36hs",
+                "13:51hs",
                 "18:06hs"
               ],
-              "sabados_domingos_ida": [
-                 "20:21hs"
+              "sabados_ida": [
+                "13:51hs",
+                "20:21hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "6:10hs",
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_vuelta": [
-               
+              "sabados_vuelta": [
                 "10:40hs",
                 "18:40hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:49hs", "21:04hs"],
-              "diario_vuelta": ["10:10hs", "19:10hs"]
+              "domingos_ida": ["13:51hs",
+                "20:21hs"],
+              "domingos_vuelta": ["10:40hs",
+                "18:40hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3113,29 +3312,31 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:36hs",
-                "18:06hs"
+                 "13:51hs",
+                 "18:06hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:51hs",
                 "20:21hs"
               ],
               "lunes_a_viernes_vuelta": [
-               
                 "6:05hs",
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_vuelta": [
-                
+              "sabados_vuelta": [
                 "10:35hs",
                 "18:35hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:49hs", "21:04hs"],
-              "diario_vuelta": ["10:05hs", "19:05hs"]
+              "domingos_ida": ["13:51hs",
+                "20:21hs"],
+              "domingos_vuelta": ["10:35hs",
+                "18:35hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3149,29 +3350,31 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:36hs",
-                "18:06hs"
+                 "13:51hs",
+                 "18:06hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:51hs",
                 "20:21hs"
               ],
               "lunes_a_viernes_vuelta": [
-               
                 "6:00hs",
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_vuelta": [
-                
+              "sabados_vuelta": [
                 "10:30hs",
                 "18:30hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:49hs", "21:04hs"],
-              "diario_vuelta": ["10:00hs", "19:00hs"]
+              "domingos_ida": ["13:51hs",
+                "20:21hs"],
+              "domingos_vuelta": [ "10:30hs",
+                "18:30hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3188,24 +3391,28 @@
                 "12:39hs",
                 "19:39hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:09hs",
                 "19:09hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:45hs",
                 "20:15hs"
               ],
               "diario": [
              
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:39hs", "19:39hs"],
-              "diario_vuelta": ["13:45hs", "21:00hs"]
+              "domingos_ida": ["11:09hs",
+                "19:09hs"],
+              "domingos_vuelta": ["13:45hs",
+                "20:15hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3222,24 +3429,28 @@
                 "12:39hs",
                 "19:39hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:09hs",
                 "19:09hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:40hs",
                 "20:10hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:39hs", "19:39hs"],
-              "diario_vuelta": ["13:40hs", "20:55hs"]
+              "domingos_ida": ["11:09hs",
+                "19:09hs"],
+              "domingos_vuelta": ["13:40hs",
+                "20:10hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3256,24 +3467,28 @@
                 "12:39hs",
                 "19:39hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:09hs",
                 "19:09hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:30hs",
                 "20:00hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:39hs", "19:39hs"],
-              "diario_vuelta": ["13:30hs", "20:45hs"]
+              "domingos_ida": ["11:09hs",
+                "19:09hs"],
+              "domingos_vuelta": [ "13:30hs",
+                "20:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3290,24 +3505,28 @@
                 "12:39hs",
                 "19:39hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:09hs",
                 "19:09hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:02hs",
+                "13:17hs",
                 "17:32hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:17hs",
                 "19:47hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:39hs", "19:39hs"],
-              "diario_vuelta": ["13:17hs", "20:32hs"]
+              "domingos_ida": ["11:09hs",
+                "19:09hs"],
+              "domingos_vuelta": ["13:17hs",
+                "19:47hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3324,24 +3543,28 @@
                 "12:39hs",
                 "19:39hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:09hs",
                 "19:09hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:00hs",
+                "13:15hs",
                 "17:30hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:15hs",
                 "19:45hs"
               ],
               "diario": [
-                "13:15hs"
+                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:39hs", "19:39hs"],
-              "diario_vuelta": ["13:15hs", "20:30hs"]
+              "domingos_ida": ["11:09hs",
+                "19:09hs"],
+              "domingos_vuelta": ["13:15hs",
+                "19:45hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3363,24 +3586,28 @@
                 "12:40hs",
                 "19:40hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:10hs",
                 "19:10hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:45hs",
                 "20:15hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:40hs", "19:40hs"],
-              "diario_vuelta": ["13:45hs", "21:00hs"]
+              "domingos_ida": ["11:10hs",
+                "19:10hs"],
+              "domingos_vuelta": ["13:45hs",
+                "20:15hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3394,9 +3621,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:35hs",
+                "13:50hs",
                 "18:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                 "13:50hs",
                  "20:20hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -3405,18 +3634,19 @@
                 "12:39hs",
                 "19:39hs"
               ],
-              "sabados_domingos_vuelta": [
-               
+              "sabados_vuelta": [
                 "11:09hs",
                 "19:09hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:50hs", "21:05hs"],
-              "diario_vuelta": ["10:39hs", "19:39hs"]
+              "domingos_ida": ["13:50hs",
+                 "20:20hs"],
+              "domingos_vuelta": ["11:09hs",
+                "19:09hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3430,29 +3660,31 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:35hs",
+                "13:50hs",
                 "18:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                 "13:50hs",
                  "20:20hs"
               ],
               "lunes_a_viernes_vuelta": [
-                
                 "6:35hs",
                 "12:35hs",
                 "19:35hs"
               ],
-              "sabados_domingos_vuelta": [
-               
+              "sabados_vuelta": [
                 "11:05hs",
                 "19:05hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:50hs", "21:05hs"],
-              "diario_vuelta": ["10:35hs", "19:35hs"]
+              "domingos_ida": ["13:50hs",
+                 "20:20hs"],
+              "domingos_vuelta": [ "11:05hs",
+                "19:05hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3465,30 +3697,32 @@
             "precio": 1500,
             "horarios": {
               "lunes_a_viernes_ida": [
-                  "06:35hs",
+                "06:35hs",
+                "13:50hs",
                 "18:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "14:00hs",
                 "20:20hs"
               ],
               "lunes_a_viernes_vuelta": [
-              
                 "6:30hs",
                 "12:30hs",
                 "19:30hs"
               ],
               "sabados_domingos_vuelta": [
-               
-                 "11:00hs",
+                "11:00hs",
                 "19:00hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:50hs", "21:05hs"],
-              "diario_vuelta": ["10:30hs", "19:30hs"]
+              "domingos_ida": [ "14:00hs",
+                "20:20hs"],
+              "domingos_vuelta": ["11:00hs",
+                "19:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3501,30 +3735,32 @@
             "precio": 1500,
             "horarios": {
               "lunes_a_viernes_ida": [
-                  "06:35hs",
+                "06:35hs",
+                "13:50hs",
                 "18:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:50hs",
                 "20:20hs"
               ],
               "lunes_a_viernes_vuelta": [
-              
                 "6:10hs",
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_vuelta": [
-                
+              "sabados_vuelta": [
                 "10:40hs",
                 "18:40hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:50hs", "21:05hs"],
-              "diario_vuelta": ["10:10hs", "19:10hs"]
+              "domingos_ida": ["13:50hs",
+                "20:20hs"],
+              "domingos_vuelta": ["10:40hs",
+                "18:40hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3537,30 +3773,32 @@
             "precio": 1700,
             "horarios": {
               "lunes_a_viernes_ida": [
-                 "06:35hs",
+                "06:35hs",
+                "13:50hs",
                 "18:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+               "13:50hs",
                "20:20hs"
               ],
               "lunes_a_viernes_vuelta": [
-               
                 "6:05hs",
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_vuelta": [
-               
-                  "10:35hs",
+              "sabados_vuelta": [
+                "10:35hs",
                 "18:35hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:50hs", "21:05hs"],
-              "diario_vuelta": ["10:05hs", "19:05hs"]
+              "domingos_ida": ["13:50hs",
+               "20:20hs"],
+              "domingos_vuelta": ["10:35hs",
+                "18:35hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3573,30 +3811,32 @@
             "precio": 2500,
             "horarios": {
               "lunes_a_viernes_ida": [
-                  "06:35hs",
+                "06:35hs",
+                "13:50hs",
                 "18:05hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+               "13:50hs",
                "20:20hs"
               ],
               "lunes_a_viernes_vuelta": [
-              
                 "6:00hs",
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_vuelta": [
-                
-                 "10:30hs",
+              "sabados_vuelta": [
+                "10:30hs",
                 "18:30hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:50hs", "21:05hs"],
-              "diario_vuelta": ["10:00hs", "19:00hs"]
+              "domingos_ida": ["13:50hs",
+               "20:20hs"],
+              "domingos_vuelta": ["10:30hs",
+                "18:30hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3613,24 +3853,28 @@
                 "12:40hs",
                 "19:40hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:10hs",
                 "19:10hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:40hs",
                 "20:10hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:40hs", "19:40hs"],
-              "diario_vuelta": ["13:40hs", "20:55hs"]
+              "domingos_ida": ["11:10hs",
+                "19:10hs"],
+              "domingos_vuelta": ["13:40hs",
+                "20:10hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3647,24 +3891,28 @@
                 "12:40hs",
                 "19:40hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:10hs",
                 "19:10hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:30hs",
                 "20:00hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:40hs", "19:40hs"],
-              "diario_vuelta": ["13:30hs", "20:45hs"]
+              "domingos_ida": ["11:10hs",
+                "19:10hs"],
+              "domingos_vuelta": ["13:30hs",
+                "20:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3681,24 +3929,28 @@
                 "12:40hs",
                 "19:40hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:10hs",
                 "19:10hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:02hs",
+                "13:17hs",
                 "17:32hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:17hs",
                 "19:47hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:40hs", "19:40hs"],
-              "diario_vuelta": ["13:17hs", "20:32hs"]
+              "domingos_ida": ["11:10hs",
+                "19:10hs"],
+              "domingos_vuelta": ["13:17hs",
+                "19:47hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3715,24 +3967,28 @@
                 "12:40hs",
                 "19:40hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:10hs",
                 "19:10hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:00hs",
+                "13:15hs",
                 "17:30hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:15hs",
                 "19:45hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:40hs", "19:40hs"],
-              "diario_vuelta": ["13:15hs", "20:30hs"]
+              "domingos_ida": [ "11:10hs",
+                "19:10hs"],
+              "domingos_vuelta": ["13:15hs",
+                "19:45hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3754,24 +4010,28 @@
                 "12:45hs",
                 "19:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:15hs",
                 "19:15hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:40hs",
                 "20:10hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:45hs", "19:45hs"],
-              "diario_vuelta": ["13:40hs", "20:55hs"]
+              "domingos_ida": ["11:15hs",
+                "19:15hs"],
+              "domingos_vuelta": ["13:40hs",
+                "20:10hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3785,29 +4045,31 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                  "13:45hs",
                   "20:15hs"
               ],
               "lunes_a_viernes_vuelta": [
-                
                 "6:40hs",
                 "12:40hs",
                 "19:40hs"
               ],
-              "sabados_domingos_vuelta": [
-              
+              "sabados_vuelta": [
                 "11:10hs",
                 "19:10hs"
               ],
               "diario": [
-                "13:45hs"
+                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:45hs", "21:00hs"],
-              "diario_vuelta": ["10:40hs", "19:40hs"]
+              "domingos_ida": ["13:45hs",
+                  "20:15hs"],
+              "domingos_vuelta": ["11:10hs",
+                "19:10hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3821,29 +4083,31 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:45hs",
                 "20:15hs"
               ],
               "lunes_a_viernes_vuelta": [
-                
                 "6:39hs",
                 "12:39hs",
                 "19:39hs"
               ],
-              "sabados_domingos_vuelta": [
-                
+              "sabados_vuelta": [
                 "11:09hs",
                 "19:09hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:45hs", "21:00hs"],
-              "diario_vuelta": ["10:39hs", "19:39hs"]
+              "domingos_ida": ["13:45hs",
+                "20:15hs"],
+              "domingos_vuelta": ["11:09hs",
+                "19:09hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3856,30 +4120,32 @@
             "precio": 1500,
             "horarios": {
               "lunes_a_viernes_ida": [
-                  "06:30hs",
+                "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+               "13:45hs",
                "20:15hs"
               ],
               "lunes_a_viernes_vuelta": [
-              
                 "6:35hs",
                 "12:35hs",
                 "19:35hs"
               ],
-              "sabados_domingos_vuelta": [
-                
-                 "11:05hs",
+              "sabados_vuelta": [
+                "11:05hs",
                 "19:05hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:45hs", "21:00hs"],
-              "diario_vuelta": ["10:35hs", "19:35hs"]
+              "domingos_ida": ["13:45hs",
+               "20:15hs"],
+              "domingos_vuelta": ["11:05hs",
+                "19:05hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3893,29 +4159,31 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:45hs",
                 "20:15hs"
               ],
               "lunes_a_viernes_vuelta": [
-                
                 "6:30hs",
                 "12:30hs",
                 "19:30hs"
               ],
-              "sabados_domingos_vuelta": [
-                
+              "sabados_vuelta": [
                 "11:00hs",
                 "19:00hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:45hs", "21:00hs"],
-              "diario_vuelta": ["10:30hs", "19:30hs"]
+              "domingos_ida": ["13:45hs",
+                "20:15hs"],
+              "domingos_vuelta": [ "11:00hs",
+                "19:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3929,29 +4197,31 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:45hs",
                 "20:15hs"
               ],
               "lunes_a_viernes_vuelta": [
-                
                 "6:10hs",
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_vuelta": [
-                
+              "sabados_vuelta": [
                 "10:40hs",
                 "18:40hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:45hs", "21:00hs"],
-              "diario_vuelta": ["10:10hs", "19:10hs"]
+              "domingos_ida": ["13:45hs",
+                "20:15hs"],
+              "domingos_vuelta": ["10:40hs",
+                "18:40hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -3964,30 +4234,32 @@
             "precio": 1900,
             "horarios": {
               "lunes_a_viernes_ida": [
-                 "06:30hs",
+                "06:30hs",
+                "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_ida": [
-                 "20:15hs"
+              "sabados_ida": [
+                "13:45hs",
+                "20:15hs"
               ],
               "lunes_a_viernes_vuelta": [
-               
                 "6:05hs",
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_vuelta": [
-              
+              "sabados_vuelta": [
                  "10:35hs",
                 "18:35hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:45hs", "21:00hs"],
-              "diario_vuelta": ["10:05hs", "19:05hs"]
+              "domingos_ida": ["13:45hs",
+                "20:15hs"],
+              "domingos_vuelta": ["10:35hs",
+                "18:35hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4001,29 +4273,31 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:30hs",
+                 "13:45hs",
                 "18:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:45hs",
                 "20:15hs"
               ],
               "lunes_a_viernes_vuelta": [
-              
                  "6:00hs",
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_vuelta": [
-                
+              "sabados_vuelta": [
                 "10:30hs",
                 "18:30hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:45hs", "21:00hs"],
-              "diario_vuelta": ["10:00hs", "19:00hs"]
+              "domingos_ida": ["13:45hs",
+                "20:15hs"],
+              "domingos_vuelta": ["10:30hs",
+                "18:30hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4040,24 +4314,28 @@
                 "12:45hs",
                 "19:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:15hs",
                 "19:15hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:30hs",
                 "20:00hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:45hs", "19:45hs"],
-              "diario_vuelta": ["13:30hs", "20:45hs"]
+              "domingos_ida": ["11:15hs",
+                "19:15hs"],
+              "domingos_vuelta": ["13:30hs",
+                "20:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4074,24 +4352,28 @@
                 "12:45hs",
                 "19:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:15hs",
                 "19:15hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:02hs",
+                "13:17hs",
                 "17:32hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:17hs",
                 "19:47hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:45hs", "19:45hs"],
-              "diario_vuelta": ["13:17hs", "20:32hs"]
+              "domingos_ida": ["11:15hs",
+                "19:15hs"],
+              "domingos_vuelta": ["13:17hs",
+                "19:47hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4108,24 +4390,28 @@
                 "12:45hs",
                 "19:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:15hs",
                 "19:15hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:00hs",
+                "13:15hs",
                 "17:30hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:15hs",
                 "19:45hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:45hs", "19:45hs"],
-              "diario_vuelta": ["13:15hs", "20:30hs"]
+              "domingos_ida": [ "11:15hs",
+                "19:15hs"],
+              "domingos_vuelta": ["13:15hs",
+                "19:45hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4147,24 +4433,28 @@
                 "12:50hs",
                 "19:50hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:20hs",
                 "19:20hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:30hs",
                 "20:00hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:50hs", "19:50hs"],
-              "diario_vuelta": ["13:30hs", "20:45hs"]
+              "domingos_ida": ["11:20hs",
+                "19:20hs"],
+              "domingos_vuelta": ["13:30hs",
+                "20:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4177,30 +4467,32 @@
             "precio": 1500,
             "horarios": {
               "lunes_a_viernes_ida": [
-                   "06:25hs",
+                "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                  "13:40hs",
                   "20:10hs"
               ],
               "lunes_a_viernes_vuelta": [
-             
                 "6:45hs",
                 "12:45hs",
                 "19:45hs"
               ],
-              "sabados_domingos_vuelta": [
-              
+              "sabados_vuelta": [
                 "11:15hs",
                 "19:15hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:40hs", "20:55hs"],
-              "diario_vuelta": ["10:45hs", "19:45hs"]
+              "domingos_ida": ["13:40hs",
+                  "20:10hs"],
+              "domingos_vuelta": ["11:15hs",
+                "19:15hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4213,30 +4505,32 @@
             "precio": 1700,
             "horarios": {
               "lunes_a_viernes_ida": [
-                   "06:25hs",
+                "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:40hs",
                 "20:10hs"
               ],
               "lunes_a_viernes_vuelta": [
-             
                 "6:40hs",
                 "12:40hs",
                 "19:40hs"
               ],
-              "sabados_domingos_vuelta": [
-                
+              "sabados_vuelta": [
                 "11:10hs",
                 "19:10hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:40hs", "20:55hs"],
-              "diario_vuelta": ["10:40hs", "19:40hs"]
+              "domingos_ida": [ "13:40hs",
+                "20:10hs"],
+              "domingos_vuelta": ["11:10hs",
+                "19:10hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4249,30 +4543,32 @@
             "precio": 1700,
             "horarios": {
               "lunes_a_viernes_ida": [
-                 "06:25hs",
+                "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:40hs",
                  "20:10hs"
               ],
               "lunes_a_viernes_vuelta": [
-               
                 "6:39hs",
                 "12:39hs",
                 "19:39hs"
               ],
-              "sabados_domingos_vuelta": [
-               
+              "sabados_vuelta": [
                 "11:09hs",
                 "19:09hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:40hs", "20:55hs"],
-              "diario_vuelta": ["10:39hs", "19:39hs"]
+              "domingos_ida": ["13:40hs",
+                 "20:10hs"],
+              "domingos_vuelta": ["11:09hs",
+                "19:09hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4286,29 +4582,31 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:40hs",
                "20:10hs"
               ],
               "lunes_a_viernes_vuelta": [
-                
                 "6:35hs",
                 "12:35hs",
                 "19:35hs"
               ],
-              "sabados_domingos_vuelta": [
-                
+              "sabados_vuelta": [
                  "11:05hs",
                 "19:05hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:40hs", "20:55hs"],
-              "diario_vuelta": ["10:35hs", "19:35hs"]
+              "domingos_ida": ["13:40hs",
+               "20:10hs"],
+              "domingos_vuelta": ["11:05hs",
+                "19:05hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4322,9 +4620,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:25hs",
+                 "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:40hs",
                   "20:10hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -4341,10 +4641,12 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:40hs", "20:55hs"],
-              "diario_vuelta": ["10:30hs", "19:30hs"]
+              "domingos_ida": ["13:40hs",
+                  "20:10hs"],
+              "domingos_vuelta": ["11:00hs",
+                "19:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4358,9 +4660,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:40hs",
                 "20:10hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -4369,7 +4673,7 @@
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                 
                 "10:40hs",
                 "18:40hs"
@@ -4377,10 +4681,12 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:40hs", "20:55hs"],
-              "diario_vuelta": ["10:10hs", "19:10hs"]
+              "domingos_ida": [ "13:40hs",
+                "20:10hs"],
+              "domingos_vuelta": ["10:40hs",
+                "18:40hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4394,9 +4700,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:40hs",
                   "20:10hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -4405,7 +4713,7 @@
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
              
                  "10:35hs",
                 "18:35hs"
@@ -4413,10 +4721,12 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:40hs", "20:55hs"],
-              "diario_vuelta": ["10:05hs", "19:05hs"]
+              "domingos_ida": ["13:40hs",
+                  "20:10hs"],
+              "domingos_vuelta": [ "10:35hs",
+                "18:35hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4430,9 +4740,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:25hs",
+                "13:40hs",
                 "17:55hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                "13:40hs",
                 "20:10hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -4441,7 +4753,7 @@
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                
                  "10:30hs",
                 "18:30hs"
@@ -4449,10 +4761,12 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:40hs", "20:55hs"],
-              "diario_vuelta": ["10:00hs", "19:00hs"]
+              "domingos_ida": ["13:40hs",
+                "20:10hs"],
+              "domingos_vuelta": ["10:30hs",
+                "18:30hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4469,24 +4783,28 @@
                 "12:50hs",
                 "19:50hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:20hs",
                 "19:20hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:02hs",
+                "13:17hs",
                 "17:32hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:17hs",
                 "19:47hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:50hs", "19:50hs"],
-              "diario_vuelta": ["13:17hs", "20:32hs"]
+              "domingos_ida": ["11:20hs",
+                "19:20hs"],
+              "domingos_vuelta": ["13:17hs",
+                "19:47hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4503,24 +4821,28 @@
                 "12:50hs",
                 "19:50hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:20hs",
                 "19:20hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:00hs",
+                "13:15hs",
                 "17:30hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:15hs",
                 "19:45hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["10:50hs", "19:50hs"],
-              "diario_vuelta": ["13:15hs", "20:30hs"]
+              "domingos_ida": ["11:20hs",
+                "19:20hs"],
+              "domingos_vuelta": ["13:15hs",
+                "19:45hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4542,24 +4864,28 @@
                 "13:00hs",
                 "20:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:30hs",
                 "19:30hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:02hs",
+                "13:17hs",
                 "17:32hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
+                "13:17hs",
                 "19:47hs"
               ],
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["11:00hs", "20:00hs"],
-              "diario_vuelta": ["13:17hs", "20:32hs"]
+              "domingos_ida": ["11:30hs",
+                "19:30hs"],
+              "domingos_vuelta": ["13:17hs",
+                "19:47hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4573,18 +4899,19 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                     "13:30hs",
                      "20:00hs"
               ],
               "lunes_a_viernes_vuelta": [
-               
                 "6:50hs",
                 "12:50hs",
                 "19:50hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
           
                  "11:20hs",
                 "19:20hs"
@@ -4592,10 +4919,12 @@
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:30hs", "20:45hs"],
-              "diario_vuelta": ["10:50hs", "19:50hs"]
+              "domingos_ida": ["13:30hs",
+                     "20:00hs"],
+              "domingos_vuelta": ["11:20hs",
+                "19:20hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4609,9 +4938,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:15hs",
+                 "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                  "13:30hs",
                   "20:00hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -4620,7 +4951,7 @@
                 "12:45hs",
                 "19:45hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
               
                 "11:15hs",
                 "19:15hs"
@@ -4628,10 +4959,12 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:30hs", "20:45hs"],
-              "diario_vuelta": ["10:45hs", "19:45hs"]
+              "domingos_ida": ["13:30hs",
+                  "20:00hs"],
+              "domingos_vuelta": ["11:15hs",
+                "19:15hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4645,9 +4978,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                  "13:30hs",
                 "20:00hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -4656,7 +4991,7 @@
                 "12:40hs",
                 "19:40hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                 
                 "11:10hs",
                 "19:10hs"
@@ -4664,10 +4999,12 @@
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:30hs", "20:45hs"],
-              "diario_vuelta": ["10:40hs", "19:40hs"]
+              "domingos_ida": ["13:30hs",
+                "20:00hs"],
+              "domingos_vuelta": ["11:10hs",
+                "19:10hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4681,9 +5018,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                  "13:30hs",
                   "20:00hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -4692,7 +5031,7 @@
                 "12:39hs",
                 "19:39hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
               
                 "11:09hs",
                 "19:09hs"
@@ -4700,10 +5039,12 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:30hs", "20:45hs"],
-              "diario_vuelta": ["10:39hs", "19:39hs"]
+              "domingos_ida": ["13:30hs",
+                  "20:00hs"],
+              "domingos_vuelta": ["11:09hs",
+                "19:09hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4717,9 +5058,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                   "06:15hs",
+                  "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                  "13:30hs",
                "20:00hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -4728,7 +5071,7 @@
                 "12:35hs",
                 "19:35hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                 
                  "11:05hs",
                 "19:05hs"
@@ -4736,10 +5079,12 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:30hs", "20:45hs"],
-              "diario_vuelta": ["10:35hs", "19:35hs"]
+              "domingos_ida": ["13:30hs",
+               "20:00hs"],
+              "domingos_vuelta": ["11:05hs",
+                "19:05hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4753,9 +5098,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:15hs",
+                 "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                  "13:30hs",
                  "20:00hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -4764,7 +5111,7 @@
                 "12:30hs",
                 "19:30hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                
                 "11:00hs",
                 "19:00hs"
@@ -4772,10 +5119,12 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:30hs", "20:45hs"],
-              "diario_vuelta": ["10:30hs", "19:30hs"]
+              "domingos_ida": [ "13:30hs",
+                 "20:00hs"],
+              "domingos_vuelta": ["11:00hs",
+                "19:00hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4789,9 +5138,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:15hs",
+                "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                  "13:30hs",
                  "20:00hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -4800,7 +5151,7 @@
                 "12:10hs",
                 "19:10hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                
                 "10:40hs",
                 "18:40hs"
@@ -4808,10 +5159,12 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:30hs", "20:45hs"],
-              "diario_vuelta": ["10:10hs", "19:10hs"]
+              "domingos_ida": ["13:30hs",
+                 "20:00hs"],
+              "domingos_vuelta": ["10:40hs",
+                "18:40hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4825,9 +5178,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:15hs",
+                 "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                  "13:30hs",
                "20:00hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -4836,7 +5191,7 @@
                 "12:05hs",
                 "19:05hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                 
                  "10:35hs",
                 "18:35hs"
@@ -4844,10 +5199,12 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:30hs", "20:45hs"],
-              "diario_vuelta": ["10:05hs", "19:05hs"]
+              "domingos_ida": [ "13:30hs",
+               "20:00hs"],
+              "domingos_vuelta": ["10:35hs",
+                "18:35hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4861,9 +5218,11 @@
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:15hs",
+                 "13:30hs",
                 "17:45hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
+                  "13:30hs",
                "20:00hs"
               ],
               "lunes_a_viernes_vuelta": [
@@ -4872,7 +5231,7 @@
                 "12:00hs",
                 "19:00hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_vuelta": [
                 
                  "10:30hs",
                 "18:30hs"
@@ -4880,10 +5239,13 @@
               "diario": [
                 
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["13:30hs", "20:45hs"],
-              "diario_vuelta": ["10:00hs", "19:00hs"]
+              "domingos_ida": ["13:30hs",
+               "20:00hs"],
+              "domingos_vuelta": [
+                 "10:30hs",
+                "18:30hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
@@ -4900,24 +5262,28 @@
                 "13:00hs",
                 "20:00hs"
               ],
-              "sabados_domingos_ida": [
+              "sabados_ida": [
                 "11:30hs",
                 "19:30hs"
               ],
               "lunes_a_viernes_vuelta": [
                 "06:00hs",
+                "13:15hs",
                 "17:30hs"
               ],
-              "sabados_domingos_vuelta": [
+              "sabados_ vuelta": [
+                "13:15hs",
                 "19:45hs"
               ],
               "diario": [
                
               ],
-              "domingos_ida": [],
-              "domingos_vuelta": [],
-              "diario_ida": ["11:00hs", "20:00hs"],
-              "diario_vuelta": ["13:15hs", "20:30hs"]
+              "domingos_ida": ["11:30hs",
+                "19:30hs"],
+              "domingos_vuelta": ["13:15hs",
+                "19:45hs"],
+              "diario_ida": [],
+              "diario_vuelta": []
             }
           }
         ]
