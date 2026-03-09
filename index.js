@@ -683,74 +683,7 @@
         ]
       },
       
-      {
-        "destino": "Valle María",
-        "servicios": [
-          {
-            "tipo": "Coche Común",
-            "precio": 3900,
-            "horarios": {
-             "lunes_a_viernes_ida": [
-                "6:15hs",
-                "8:35hs",
-                "9:20hs",
-                "11:00hs",
-                "12:00hs",
-                "14:00hs",
-                "15:00hs",
-                "16:30hs",
-                "17:50hs",
-                "20:15hs",
-                "21:00hs",
-                "23:00hs"
-              ],
-              "domingos_ida": [
-                "7:15hs",
-                "10:45hs",
-                "13:30hs",
-                "16:30hs",
-                "20:15hs",
-                "23:00hs"
-              ],
-              "sabados_ida": [
-                "16:30hs",
-                "20:15hs",
-                "23:00hs"
-              ],
-              "lunes_a_viernes_vuelta": [
-                "5:23hs",
-                "6:08hs",
-                "7:53hs",
-                "8:53hs",
-                "10:53hs",
-                "12:53hs",
-                "14:03hs",
-                "15:23hs",
-                "16:53hs",
-                "18:38hs",
-                "19:53hs",
-                "21:53hs"
-              ],
-              "sabados_domingos_ida": [],
-              "sabados_domingos_vuelta": [],
-              "domingos_vuelta": [
-                "6:23hs",
-                "9:23hs",
-                "12:38hs",
-                "15:23hs",
-                "18:23hs",
-                "21:53hs"
-              ],
-              "diario": [],
-              "sabados_vuelta": [
-                "15:23hs",
-                "18:23hs",
-                "21:53hs"
-              ]
-            }
-          }
-        ]
-      },
+      
       
       {
         "destino": "La Tablilla",
