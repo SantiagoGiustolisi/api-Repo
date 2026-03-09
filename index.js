@@ -415,7 +415,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:15hs",
@@ -483,7 +483,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2000,
+            "precio": 2400,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:15hs",
@@ -551,7 +551,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "6:15hs",
@@ -619,7 +619,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3400,
+            "precio": 4100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:15hs",
@@ -690,7 +690,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 4500,
+            "precio": 5400,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:15hs",
@@ -758,7 +758,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 4700,
+            "precio": 5600,
             "horarios": {
                 "lunes_a_viernes_ida": [
                 "6:15hs",
@@ -826,7 +826,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 5000,
+            "precio": 5900,
             "horarios": {
                 "lunes_a_viernes_ida": [
                 "6:15hs",
@@ -890,11 +890,80 @@
         ]
       },
       {
+        "destino": "Valle Maria",
+        "servicios": [
+          {
+            "tipo": "Coche Común",
+            "precio": 5900,
+            "horarios": {
+                "lunes_a_viernes_ida": [
+                "6:15hs",
+                "8:35hs",
+                "9:20hs",
+                "11:00hs",
+                "12:00hs",
+                "14:00hs",
+                "15:00hs",
+                "16:30hs",
+                "17:50hs",
+                "20:15hs",
+                "21:00hs",
+                "23:00hs"
+              ],
+              "domingos_ida": [
+                "7:15hs",
+                "10:45hs",
+                "13:30hs",
+                "16:30hs",
+                "20:15hs",
+                "23:00hs"
+              ],
+              "sabados_ida": [
+                "16:30hs",
+                "20:15hs",
+                "23:00hs"
+              ],
+              "lunes_a_viernes_vuelta": [
+                "5:23hs",
+                "6:08hs",
+                "7:53hs",
+                "8:53hs",
+                "10:53hs",
+                "12:53hs",
+                "14:03hs",
+                "15:23hs",
+                "16:53hs",
+                "18:38hs",
+                "19:53hs",
+                "21:53hs"
+              ],
+              "sabados_domingos_ida": [],
+              "sabados_domingos_vuelta": [],
+              "domingos_vuelta": [
+                "6:23hs",
+                "9:23hs",
+                "12:38hs",
+                "15:23hs",
+                "18:23hs",
+                "21:53hs"
+              ],
+              "diario": [],
+              "sabados_vuelta": [
+                "15:23hs",
+                "18:23hs",
+                "21:53hs"
+              ]
+            }
+          }
+        ]
+      },
+      
+      {
   "destino": "Diamante",
   "servicios": [
     {
       "tipo": "Coche Común",
-      "precio": 5600,
+      "precio": 6700,
       "horarios": {
         "lunes_a_viernes_ida": [
                 "6:15hs",
@@ -953,7 +1022,8 @@
                 "18:00hs",
                 "21:30hs"
               ]
-      }
+      },
+      
     }
   ]
       },
@@ -5674,7 +5744,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:42hs",
@@ -5741,7 +5811,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:43hs",
@@ -5811,7 +5881,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "6:43hs",
@@ -5878,7 +5948,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2200,
+            "precio": 2600,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "6:43hs",
@@ -5945,7 +6015,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2800,
+            "precio": 3400,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "6:43hs",
@@ -6012,7 +6082,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3400,
+            "precio": 4100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:43hs",
@@ -6079,7 +6149,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3500,
+            "precio": 4200,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:43hs",
@@ -6146,7 +6216,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3900,
+            "precio": 4700,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:43hs",
@@ -6213,7 +6283,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 4500,
+            "precio": 5400,
             "horarios": {
           "lunes_a_viernes_ida": [
                 "6:43hs",
@@ -6285,7 +6355,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2000,
+            "precio": 2400,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:36hs",
@@ -6352,7 +6422,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "5:36hs",
@@ -6428,7 +6498,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:49hs",
@@ -6499,7 +6569,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:49hs",
@@ -6568,7 +6638,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:49hs",
@@ -6637,7 +6707,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:49hs",
@@ -6708,7 +6778,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2700,
+            "precio": 3200,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:49hs",
@@ -6777,7 +6847,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3000,
+            "precio": 3600,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:49hs",
@@ -6846,7 +6916,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3600,
+            "precio": 4300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:49hs",
@@ -6921,7 +6991,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:33hs",
@@ -6989,7 +7059,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:33hs",
@@ -7058,7 +7128,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "5:33hs",
@@ -7130,7 +7200,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:52hs",
@@ -7202,7 +7272,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "6:52hs",
@@ -7271,7 +7341,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2000,
+            "precio": 2600,
             "horarios": {
            "lunes_a_viernes_ida": [
                 "6:52hs",
@@ -7342,7 +7412,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2000,
+            "precio": 2400,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:52hs",
@@ -7411,7 +7481,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2600,
+            "precio": 3100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:52hs",
@@ -7482,7 +7552,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3100,
+            "precio": 3700,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "6:52hs",
@@ -7555,7 +7625,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3900,
+            "precio": 4700,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:23hs",
@@ -7622,7 +7692,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2800,
+            "precio": 3400,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "5:23hs",
@@ -7689,7 +7759,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "5:23hs",
@@ -7756,7 +7826,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:23hs",
@@ -7823,7 +7893,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "5:23hs",
@@ -7890,7 +7960,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "7:02hs",
@@ -7957,7 +8027,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "7:02hs",
@@ -8024,7 +8094,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "7:02hs",
@@ -8091,7 +8161,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "7:02hs",
@@ -8163,7 +8233,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 4500,
+            "precio": 5400,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:17hs",
@@ -8230,7 +8300,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3400,
+            "precio": 4100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:17hs",
@@ -8297,7 +8367,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:17hs",
@@ -8364,7 +8434,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2000,
+            "precio": 2400,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:17hs",
@@ -8431,7 +8501,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:17hs",
@@ -8498,7 +8568,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:17hs",
@@ -8565,7 +8635,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "7:08hs",
@@ -8632,7 +8702,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "7:08hs",
@@ -8699,7 +8769,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "7:08hs",
@@ -8771,7 +8841,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 4700,
+            "precio": 5600,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:14hs",
@@ -8846,7 +8916,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3500,
+            "precio": 4200,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:14hs",
@@ -8921,7 +8991,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2700,
+            "precio": 3200,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:14hs",
@@ -8996,7 +9066,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2200,
+            "precio": 2600,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "5:14hs",
@@ -9071,7 +9141,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:14hs",
@@ -9146,7 +9216,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "5:14hs",
@@ -9221,7 +9291,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:14hs",
@@ -9296,7 +9366,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "7:11hs",
@@ -9362,7 +9432,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "7:11hs",
@@ -9434,7 +9504,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 5000,
+            "precio": 5900,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:10hs",
@@ -9512,7 +9582,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3900,
+            "precio": 4700,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:10hs",
@@ -9590,7 +9660,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3000,
+            "precio": 3600,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "5:10hs",
@@ -9668,7 +9738,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2600,
+            "precio": 3100,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "5:10hs",
@@ -9746,7 +9816,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:10hs",
@@ -9824,7 +9894,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:10hs",
@@ -9902,7 +9972,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
              "lunes_a_viernes_ida": [
                 "5:10hs",
@@ -9980,7 +10050,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "5:10hs",
@@ -10141,7 +10211,7 @@
   "servicios": [
     {
       "tipo": "Coche Común",
-      "precio": 5600,
+      "precio": 6700,
       "horarios": {
         "lunes_a_viernes_ida": [
           "5:00hs",
@@ -10222,7 +10292,7 @@
   "servicios": [
     {
       "tipo": "Coche Común",
-      "precio": 4500,
+      "precio": 5400,
       "horarios": {
        "lunes_a_viernes_ida": [
           "5:00hs",
@@ -10303,7 +10373,7 @@
   "servicios": [
     {
       "tipo": "Coche Común",
-      "precio": 3600,
+      "precio": 4300,
       "horarios": {
         "lunes_a_viernes_ida": [
           "5:00hs",
@@ -10385,7 +10455,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3100,
+            "precio": 3700,
             "horarios": {
              "lunes_a_viernes_ida": [
             "5:00hs",
@@ -10466,7 +10536,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2600,
             "horarios": {
               "lunes_a_viernes_ida": [
             "5:00hs",
@@ -10547,7 +10617,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
                "lunes_a_viernes_ida": [
             "5:00hs",
@@ -10628,7 +10698,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
             "5:00hs",
@@ -10709,7 +10779,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
                "lunes_a_viernes_ida": [
             "5:00hs",
@@ -10790,7 +10860,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
                 "lunes_a_viernes_ida": [
             "5:00hs",
@@ -10876,7 +10946,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3400,
+            "precio": 4100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:29hs",
@@ -10952,7 +11022,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2200,
+            "precio": 2600,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "5:29hs",
@@ -11029,7 +11099,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "5:29hs",
@@ -11108,7 +11178,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "5:29hs",
@@ -11184,7 +11254,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "6:56hs",
@@ -11262,7 +11332,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "6:56hs",
@@ -11338,7 +11408,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2000,
             "horarios": {
                "lunes_a_viernes_ida": [
                 "6:56hs",
@@ -11414,7 +11484,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
                 "lunes_a_viernes_ida": [
                 "6:56hs",
@@ -11490,7 +11560,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2200,
+            "precio": 2600,
             "horarios": {
                 "lunes_a_viernes_ida": [
                 "6:56hs",
