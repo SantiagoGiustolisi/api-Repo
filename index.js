@@ -15,7 +15,7 @@
       "servicios": [
         {
           "tipo": "Coche Común",
-          "precio": 1700,
+          "precio": 2100,
           "horarios": {
             "lunes_a_viernes_ida": ["6:00hs", "12:00hs", "19:00hs"],
             "sabados_ida": ["10:30hs", "18:30hs"],
@@ -33,7 +33,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1800,
+            "precio": 2200,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:00hs",
@@ -72,7 +72,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:00hs",
@@ -110,7 +110,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2000,
+            "precio": 2400,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:00hs",
@@ -148,7 +148,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:00hs",
@@ -186,7 +186,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:00hs",
@@ -224,7 +224,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2700,
+            "precio": 3200,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:00hs",
@@ -262,7 +262,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3000,
+            "precio": 3500,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:00hs",
@@ -300,7 +300,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3900,
+            "precio": 4700,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:00hs",
@@ -338,7 +338,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 4600,
+            "precio": 5500,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:00hs",
@@ -376,7 +376,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 4700,
+            "precio": 5600,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:00hs",
@@ -1115,11 +1115,11 @@
         "precios": { "Semicama": 6400, "Cama": 7200 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
-          "sabados_ida": ["08:15hs"],
+          "sabados_ida": [],
           "domingos_ida": ["08:15hs"],
           "diario_ida": [],
           "lunes_a_viernes_vuelta": ["20:20hs"],
-          "sabados_vuelta": ["20:20hs"],
+          "sabados_vuelta": [],
           "domingos_vuelta": ["20:20hs"],
           "diario_vuelta": [],
           "diario": []
@@ -1255,11 +1255,11 @@
         "precios": { "Semicama": 15600, "Cama": 17400 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
-          "sabados_ida": ["08:15hs"],
+          "sabados_ida": [],
           "domingos_ida": ["08:15hs"],
           "diario_ida": [],
           "lunes_a_viernes_vuelta": ["19:10hs"],
-          "sabados_vuelta": ["19:10hs"],
+          "sabados_vuelta": [],
           "domingos_vuelta": ["19:10hs"],
           "diario_vuelta": [],
           "diario": []
@@ -1315,11 +1315,11 @@
         "precios": { "Semicama": 18600, "Cama": 20800 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
-          "sabados_ida": ["08:15hs"],
+          "sabados_ida": [],
           "domingos_ida": ["08:15hs"],
           "diario_ida": [],
           "lunes_a_viernes_vuelta": ["18:40"],
-          "sabados_vuelta": ["18:40"],
+          "sabados_vuelta": [],
           "domingos_vuelta": ["18:40hs"],
           "diario_vuelta": [],
           "diario": []
@@ -1335,11 +1335,11 @@
         "precios": { "Semicama": 20800, "Cama": 23300 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
-          "sabados_ida": ["08:15hs"],
+          "sabados_ida": [],
           "domingos_ida": ["08:15hs"],
           "diario_ida": [],
           "lunes_a_viernes_vuelta": ["18:25hs"],
-          "sabados_vuelta": ["18:25hs"],
+          "sabados_vuelta": [],
           "domingos_vuelta": ["18:25hs"],
           "diario_vuelta": [],
           "diario": []
@@ -1355,11 +1355,11 @@
         "precios": { "Semicama": 22600, "Cama": 25300 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
-          "sabados_ida": ["08:15hs"],
+          "sabados_ida": [],
           "domingos_ida": ["08:15hs"],
           "diario_ida": [],
           "lunes_a_viernes_vuelta": ["18:10hs"],
-          "sabados_vuelta": ["18:10hs"],
+          "sabados_vuelta": [],
           "domingos_vuelta": ["18:10hs"],
           "diario_vuelta": [],
           "diario": []
@@ -1375,11 +1375,11 @@
         "precios": { "Semicama": 24500, "Cama": 27300 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
-          "sabados_ida": ["08:15hs"],
+          "sabados_ida": [],
           "domingos_ida": ["08:15hs"],
           "diario_ida": [],
           "lunes_a_viernes_vuelta": ["17:45hs"],
-          "sabados_vuelta": ["17:45hs"],
+          "sabados_vuelta": [],
           "domingos_vuelta": ["17:45hs"],
           "diario_vuelta": [],
           "diario": []
@@ -1395,11 +1395,11 @@
         "precios": { "Semicama": 26100, "Cama": 29200 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
-          "sabados_ida": ["08:15hs"],
+          "sabados_ida": [],
           "domingos_ida": ["08:15hs"],
           "diario_ida": [],
           "lunes_a_viernes_vuelta": ["16:55hs"],
-          "sabados_vuelta": ["16:55hs"],
+          "sabados_vuelta": [],
           "domingos_vuelta": ["16:55hs"],
           "diario_vuelta": [],
           "diario": []
@@ -1435,11 +1435,11 @@
         "precios": { "Semicama": 35500, "Cama": 39800 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
-          "sabados_ida": ["08:15hs"],
+          "sabados_ida": [],
           "domingos_ida": ["08:15hs"],
           "diario_ida": [],
           "lunes_a_viernes_vuelta": ["15:40hs"],
-          "sabados_vuelta": ["15:40hs"],
+          "sabados_vuelta": [],
           "domingos_vuelta": ["15:40hs"],
           "diario_vuelta": [],
           "diario": []
@@ -1458,7 +1458,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:05hs",
@@ -1496,7 +1496,7 @@
       "servicios": [
         {
           "tipo": "Coche Común",
-          "precio": 1700,
+          "precio": 2100,
           "horarios": {
             "lunes_a_viernes_ida": ["07:10hs", "14:25hs", "18:40hs"],
             "sabados_ida": ["14:25hs","20:55hs"],
@@ -1516,7 +1516,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:05hs",
@@ -1554,7 +1554,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:05hs",
@@ -1592,7 +1592,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:05hs",
@@ -1630,7 +1630,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:05hs",
@@ -1668,7 +1668,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:05hs",
@@ -1706,7 +1706,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:05hs",
@@ -1744,7 +1744,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2900,
+            "precio": 3500,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:05hs",
@@ -1782,7 +1782,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3600,
+            "precio": 4300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:05hs",
@@ -1820,7 +1820,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3700,
+            "precio": 4400,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:05hs",
@@ -1852,27 +1852,8 @@
             }
           }
         ]
-      },
-      {
-      "destino": "Paraná",
-      "servicios": [
-        {
-          "tipo": "Coche Común",
-          "precio": 1700,
-          "horarios": {
-            "lunes_a_viernes_ida": ["07:10hs","14:25hs", "18:40hs"],
-            "sabados_ida": ["14:25hs","20:55hs"],
-            "lunes_a_viernes_vuelta": ["6:00hs", "12:00hs", "19:00hs"],
-            "sabados_vuelta": ["10:30hs", "18:30hs"],
-            "diario": [],
-            "domingos_ida": ["14:25hs","20:55hs"],
-            "domingos_vuelta": ["10:30hs", "18:30hs"],
-            "diario_ida": [],
-            "diario_vuelta": []
-          }
-        }
-      ]
-    },
+      } 
+      
     ]
   },
   {
@@ -1883,7 +1864,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:10hs",
@@ -1921,7 +1902,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "07:05hs",
@@ -1962,7 +1943,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1800,
+            "precio": 2200,
             "horarios": {
               "lunes_a_viernes_ida": [
                "07:05hs",
@@ -2000,7 +1981,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:10hs",
@@ -2038,7 +2019,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:10hs",
@@ -2076,7 +2057,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:10hs",
@@ -2114,7 +2095,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:10hs",
@@ -2152,7 +2133,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:10hs",
@@ -2190,7 +2171,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2800,
+            "precio": 3400,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:10hs",
@@ -2228,7 +2209,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3500,
+            "precio": 4200,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:10hs",
@@ -2266,7 +2247,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3600,
+            "precio": 4300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:10hs",
@@ -2309,7 +2290,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:30hs",
@@ -2347,7 +2328,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:45hs",
@@ -2386,7 +2367,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:45hs",
@@ -2425,7 +2406,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:45hs",
@@ -2465,7 +2446,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:30hs",
@@ -2503,7 +2484,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:30hs",
@@ -2541,7 +2522,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:30hs",
@@ -2579,7 +2560,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:30hs",
@@ -2617,7 +2598,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2600,
+            "precio": 3100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:30hs",
@@ -2655,7 +2636,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3200,
+            "precio": 3800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:30hs",
@@ -2693,7 +2674,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3300,
+            "precio": 3900,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:30hs",
@@ -2736,7 +2717,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:35hs",
@@ -2774,7 +2755,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:40hs",
@@ -2812,7 +2793,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:40hs",
@@ -2850,7 +2831,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:40hs",
@@ -2888,7 +2869,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2000,
+            "precio": 2400,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:40hs",
@@ -2926,7 +2907,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:35hs",
@@ -2964,7 +2945,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:35hs",
@@ -3002,7 +2983,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:35hs",
@@ -3040,7 +3021,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:35hs",
@@ -3078,7 +3059,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3100,
+            "precio": 3700,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:35hs",
@@ -3116,7 +3097,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3200,
+            "precio": 3800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:35hs",
@@ -3159,7 +3140,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:39hs",
@@ -3197,7 +3178,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:36hs",
@@ -3235,7 +3216,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:36hs",
@@ -3273,7 +3254,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:36hs",
@@ -3311,7 +3292,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:36hs",
@@ -3349,7 +3330,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:36hs",
@@ -3387,7 +3368,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:39hs",
@@ -3425,7 +3406,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:39hs",
@@ -3463,7 +3444,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:39hs",
@@ -3501,7 +3482,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2400,
+            "precio": 2900,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:39hs",
@@ -3539,7 +3520,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:39hs",
@@ -3582,7 +3563,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:40hs",
@@ -3620,7 +3601,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:35hs",
@@ -3659,7 +3640,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:35hs",
@@ -3697,7 +3678,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:35hs",
@@ -3735,7 +3716,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:35hs",
@@ -3773,7 +3754,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:35hs",
@@ -3811,7 +3792,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:35hs",
@@ -3849,7 +3830,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:40hs",
@@ -3887,7 +3868,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:40hs",
@@ -3925,7 +3906,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2400,
+            "precio": 2900,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:40hs",
@@ -3963,7 +3944,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:40hs",
@@ -4006,7 +3987,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:45hs",
@@ -4044,7 +4025,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:30hs",
@@ -4082,7 +4063,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:30hs",
@@ -4120,7 +4101,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:30hs",
@@ -4158,7 +4139,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:30hs",
@@ -4196,7 +4177,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:30hs",
@@ -4234,7 +4215,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:30hs",
@@ -4272,7 +4253,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2700,
+            "precio": 3200,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:30hs",
@@ -4310,7 +4291,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:45hs",
@@ -4348,7 +4329,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2400,
+            "precio": 2900,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:45hs",
@@ -4386,7 +4367,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:45hs",
@@ -4429,7 +4410,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:50hs",
@@ -4467,7 +4448,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:25hs",
@@ -4505,7 +4486,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:25hs",
@@ -4543,7 +4524,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:25hs",
@@ -4581,7 +4562,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:25hs",
@@ -4619,7 +4600,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:25hs",
@@ -4659,7 +4640,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                "06:25hs",
@@ -4699,7 +4680,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                "06:25hs",
@@ -4739,7 +4720,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3000,
+            "precio": 3600,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:25hs",
@@ -4779,7 +4760,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:50hs",
@@ -4817,7 +4798,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1800,
+            "precio": 2200,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "6:50hs",
@@ -4860,7 +4841,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "7:00hs",
@@ -4898,7 +4879,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:15hs",
@@ -4937,7 +4918,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:15hs",
@@ -4977,7 +4958,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1900,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:15hs",
@@ -5017,7 +4998,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 2300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:15hs",
@@ -5057,7 +5038,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2500,
+            "precio": 3000,
             "horarios": {
               "lunes_a_viernes_ida": [
                   "06:15hs",
@@ -5097,7 +5078,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2600,
+            "precio": 3100,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:15hs",
@@ -5137,7 +5118,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2800,
+            "precio": 3400,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:15hs",
@@ -5177,7 +5158,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2900,
+            "precio": 3500,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:15hs",
@@ -5217,7 +5198,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3900,
+            "precio": 4700,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:15hs",
@@ -5258,7 +5239,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "7:00hs",
@@ -5301,7 +5282,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "7:13hs",
@@ -5339,7 +5320,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1500,
+            "precio": 1800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:02hs",
@@ -5379,7 +5360,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 1700,
+            "precio": 2100,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:02hs",
@@ -5419,7 +5400,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2400,
+            "precio": 2900,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:02hs",
@@ -5459,7 +5440,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2400,
+            "precio": 2900,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:02hs",
@@ -5499,7 +5480,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 2400,
+            "precio": 2900,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:02hs",
@@ -5539,7 +5520,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3100,
+            "precio": 3700,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:02hs",
@@ -5579,7 +5560,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3200,
+            "precio": 3800,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:02hs",
@@ -5619,7 +5600,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3500,
+            "precio": 4200,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:02hs",
@@ -5659,7 +5640,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 3600,
+            "precio": 4300,
             "horarios": {
               "lunes_a_viernes_ida": [
                 "06:02hs",
@@ -5699,7 +5680,7 @@
         "servicios": [
           {
             "tipo": "Coche Común",
-            "precio": 4600,
+            "precio": 5000,
             "horarios": {
               "lunes_a_viernes_ida": [
                  "06:02hs",
@@ -13718,10 +13699,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["20:20hs"],
             "domingos_ida": ["20:20hs"],
-            "sabados_ida": ["20:20hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "sabados_vuelta": ["08:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13938,10 +13919,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["09:15hs"],
-            "sabados_ida": ["09:15hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["19:10hs"],
             "domingos_vuelta": ["19:10hs"],
-            "sabados_vuelta": ["19:10hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -13998,10 +13979,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["09:15hs"],
-            "sabados_ida": ["09:15hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["18:40hs"],
             "domingos_vuelta": ["18:40hs"],
-            "sabados_vuelta": ["18:40hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14018,10 +13999,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["19:15hs"],
-            "sabados_ida": ["09:15hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["18:25hs"],
             "domingos_vuelta": ["18:25hs"],
-            "sabados_vuelta": ["18:25hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14038,10 +14019,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["09:15hs"],
-            "sabados_ida": ["09:15hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["18:10hs"],
             "domingos_vuelta": ["18:10hs"],
-            "sabados_vuelta": ["18:10hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14058,10 +14039,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["09:15hs"],
-            "sabados_ida": ["09:15hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["17:45hs"],
             "domingos_vuelta": ["17:45hs"],
-            "sabados_vuelta": ["17:45hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14078,10 +14059,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["09:15hs"], 
-            "sabados_ida": ["09:15hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
             "domingos_vuelta": ["16:55hs"],
-            "sabados_vuelta": ["16:55hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -14118,10 +14099,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["09:15hs"],
-            "sabados_ida": ["09:15hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
             "domingos_vuelta": ["15:40hs"],
-            "sabados_vuelta": ["15:40hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16268,10 +16249,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "sabados_ida": ["19:10hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "sabados_vuelta": ["08:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16368,10 +16349,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
-            "sabados_ida": ["19:10hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["09:15hs"],
             "domingos_vuelta": ["09:15hs"],
-            "sabados_vuelta": ["09:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16548,10 +16529,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "sabados_ida": ["10:30hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["18:40hs"],
             "domingos_vuelta": ["18:40hs"],
-            "sabados_vuelta": ["18:40hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16568,10 +16549,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "sabados_ida": ["10:30hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["18:25hs"],
             "domingos_vuelta": ["18:25hs"],
-            "sabados_vuelta": ["18:25hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16588,10 +16569,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "sabados_ida": ["10:30hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["18:10hs"],
             "domingos_vuelta": ["18:10hs"],
-            "sabados_vuelta": ["18:10hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16608,10 +16589,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "sabados_ida": ["10:30hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["17:45hs"],
             "domingos_vuelta": ["17:45hs"],
-            "sabados_vuelta": ["17:45hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16628,10 +16609,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "sabados_ida": ["10:30hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
             "domingos_vuelta": ["16:55hs"],
-            "sabados_vuelta": ["16:55hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -16668,10 +16649,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
-            "sabados_ida": ["10:30hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
             "domingos_vuelta": ["15:40hs"],
-            "sabados_vuelta": ["15:40hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17543,10 +17524,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["18:40hs"],
             "domingos_ida": ["18:40hs"],
-            "sabados_ida": ["18:40hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "sabados_vuelta": ["08:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17643,10 +17624,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["18:40hs"],
             "domingos_ida": ["18:40hs"],
-            "sabados_ida": ["18:40hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["09:15hs"],
             "domingos_vuelta": ["09:15hs"],
-            "sabados_vuelta": ["09:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17783,10 +17764,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["18:40hs"],
             "domingos_ida": ["18:40hs"],
-            "sabados_ida": ["18:40hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["10:30hs"],
             "domingos_vuelta": ["10:30hs"],
-            "sabados_vuelta": ["10:30hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17843,10 +17824,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:50hs"],
             "domingos_ida": ["10:50hs"],
-            "sabados_ida": ["10:50hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["18:25hs"],
             "domingos_vuelta": ["18:25hs"],
-            "sabados_vuelta": ["18:25hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17863,10 +17844,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:50hs"],
             "domingos_ida": ["10:50hs"],
-            "sabados_ida": ["10:50hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["18:10hs"],
             "domingos_vuelta": ["18:10hs"],
-            "sabados_vuelta": ["18:10hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17883,10 +17864,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:50hs"],
             "domingos_ida": ["10:50hs"],
-            "sabados_ida": ["10:50hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["17:45hs"],
             "domingos_vuelta": ["17:45hs"],
-            "sabados_vuelta": ["17:45hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17903,10 +17884,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:50hs"],
             "domingos_ida": ["10:50hs"],
-            "sabados_ida": ["10:50hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
             "domingos_vuelta": ["16:55hs"],
-            "sabados_vuelta": ["16:55hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17943,10 +17924,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["10:50hs"],
             "domingos_ida": ["10:50hs"],
-            "sabados_ida": ["10:50hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
             "domingos_vuelta": ["15:40hs"],
-            "sabados_vuelta": ["15:40hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -17968,10 +17949,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["18:25hs"],
             "domingos_ida": ["18:25hs"],
-            "sabados_ida": ["18:25hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "sabados_vuelta": ["08:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18068,10 +18049,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["18:25hs"],
             "domingos_ida": ["18:25hs"],
-            "sabados_ida": ["18:25hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["09:15hs"],
             "domingos_vuelta": ["09:15hs"],
-            "sabados_vuelta": ["09:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18208,10 +18189,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["18:25hs"],
             "domingos_ida": ["18:25hs"],
-            "sabados_ida": ["18:25hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["10:30hs"],
             "domingos_vuelta": ["10:30hs"],
-            "sabados_vuelta": ["10:30hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18268,10 +18249,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["18:25hs"],
             "domingos_ida": ["18:25hs"],
-            "sabados_ida": ["18:25hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["10:50hs"],
             "domingos_vuelta": ["10:50hs"],
-            "sabados_vuelta": ["10:50hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18288,10 +18269,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["11:05hs"],
             "domingos_ida": ["11:05hs"],
-            "sabados_ida": ["11:05hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["18:10hs"],
             "domingos_vuelta": ["18:10hs"],
-            "sabados_vuelta": ["18:10hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18308,10 +18289,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["11:05hs"],
             "domingos_ida": ["11:05hs"],
-            "sabados_ida": ["11:05hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["17:45hs"],
             "domingos_vuelta": ["17:45hs"],
-            "sabados_vuelta": ["17:45hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18328,10 +18309,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["11:05hs"],
             "domingos_ida": ["11:05hs"],
-            "sabados_ida": ["11:05hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
             "domingos_vuelta": ["16:55hs"],
-            "sabados_vuelta": ["16:55hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18368,10 +18349,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
-            "sabados_ida": ["15:40hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["11:05hs"],
             "domingos_vuelta": ["11:05hs"],
-            "sabados_vuelta": ["11:05hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18393,10 +18374,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
-            "sabados_ida": ["15:40hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "sabados_vuelta": ["08:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18493,10 +18474,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
-            "sabados_ida": ["15:40hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["09:15hs"],
             "domingos_vuelta": ["09:15hs"],
-            "sabados_vuelta": ["09:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18633,10 +18614,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
-            "sabados_ida": ["15:40hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["10:30hs"],
             "domingos_vuelta": ["10:30hs"],
-            "sabados_vuelta": ["10:30hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18694,10 +18675,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
-            "sabados_ida": ["15:40hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["10:50hs"],
             "domingos_vuelta": ["10:50hs"],
-            "sabados_vuelta": ["10:50hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18714,10 +18695,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
-            "sabados_ida": ["15:40hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["11:05hs"],
             "domingos_vuelta": ["11:05hs"],
-            "sabados_vuelta": ["11:05hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18734,10 +18715,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
-            "sabados_ida": ["15:40hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["11:30hs"],
             "domingos_vuelta": ["11:30hs"],
-            "sabados_vuelta": ["11:30hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18754,10 +18735,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
-            "sabados_ida": ["15:40hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["11:50hs"],
             "domingos_vuelta": ["11:50hs"],
-            "sabados_vuelta": ["11:50hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -18774,10 +18755,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
-            "sabados_ida": ["15:40hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["12:45hs"],
             "domingos_vuelta": ["12:45hs"],
-            "sabados_vuelta": ["12:45hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19244,10 +19225,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
-            "sabados_ida": ["16:55hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "sabados_vuelta": ["08:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19344,10 +19325,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
-            "sabados_ida": ["16:55hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["09:15hs"],
             "domingos_vuelta": ["09:15hs"],
-            "sabados_vuelta": ["09:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19484,10 +19465,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
-            "sabados_ida": ["16:55hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["10:30hs"],
             "domingos_vuelta": ["10:30hs"],
-            "sabados_vuelta": ["10:30hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19544,10 +19525,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
-            "sabados_ida": ["16:55hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["10:50hs"],
             "domingos_vuelta": ["10:50hs"],
-            "sabados_vuelta": ["10:50hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19564,10 +19545,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
-            "sabados_ida": ["16:55hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["11:05hs"],
             "domingos_vuelta": ["11:05hs"],
-            "sabados_vuelta": ["11:05hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19584,10 +19565,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
-            "sabados_ida": ["16:55hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["11:30hs"],
             "domingos_vuelta": ["11:30hs"],
-            "sabados_vuelta": ["11:30hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19604,10 +19585,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
-            "sabados_ida": ["16:55hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["11:50hs"],
             "domingos_vuelta": ["11:50hs"],
-            "sabados_vuelta": ["11:50hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19644,10 +19625,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["12:45hs"],
             "domingos_ida": ["12:45hs"],
-            "sabados_ida": ["12:45hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
             "domingos_vuelta": ["15:40hs"],
-            "sabados_vuelta": ["15:40hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19669,10 +19650,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["18:10hs"],
             "domingos_ida": ["18:10hs"],
-            "sabados_ida": ["18:10hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "sabados_vuelta": ["08:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19769,10 +19750,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["18:10hs"],
             "domingos_ida": ["18:10hs"],
-            "sabados_ida": ["18:10hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["09:15hs"],
             "domingos_vuelta": ["09:15hs"],
-            "sabados_vuelta": ["09:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19909,10 +19890,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["18:10hs"],
             "domingos_ida": ["18:10hs"],
-            "sabados_ida": ["18:10hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["10:30hs"],
             "domingos_vuelta": ["10:30hs"],
-            "sabados_vuelta": ["10:30hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19969,10 +19950,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["18:10hs"],
             "domingos_ida": ["18:10hs"],
-            "sabados_ida": ["18:10hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["10:50hs"],
             "domingos_vuelta": ["10:50hs"],
-            "sabados_vuelta": ["10:50hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -19989,10 +19970,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["18:10hs"],
             "domingos_ida": ["18:10hs"],
-            "sabados_ida": ["18:10hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["11:05hs"],
             "domingos_vuelta": ["11:05hs"],
-            "sabados_vuelta": ["11:05hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -20009,10 +19990,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["11:30hs"],
             "domingos_ida": ["11:30hs"],
-            "sabados_ida": ["11:30hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["17:45hs"],
             "domingos_vuelta": ["17:45hs"],
-            "sabados_vuelta": ["17:45hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -20029,10 +20010,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["11:30hs"],
             "domingos_ida": ["11:30hs"],
-            "sabados_ida": ["11:30hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
             "domingos_vuelta": ["16:55hs"],
-            "sabados_vuelta": ["16:55hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -20069,10 +20050,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["11:30hs"],
             "domingos_ida": ["11:30hs"],
-            "sabados_ida": ["11:30hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
             "domingos_vuelta": ["15:40hs"],
-            "sabados_vuelta": ["15:40hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -20094,10 +20075,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["17:45hs"],
             "domingos_ida": ["17:45hs"],
-            "sabados_ida": ["17:45hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["08:15hs"],
             "domingos_vuelta": ["08:15hs"],
-            "sabados_vuelta": ["08:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -20194,10 +20175,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["17:45hs"],
             "domingos_ida": ["17:45hs"],
-            "sabados_ida": ["17:45hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["09:15hs"],
             "domingos_vuelta": ["09:15hs"],
-            "sabados_vuelta": ["09:15hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -20334,10 +20315,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["17:45hs"],
             "domingos_ida": ["17:45hs"],
-            "sabados_ida": ["17:45hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["10:30hs"],
             "domingos_vuelta": ["10:30hs"],
-            "sabados_vuelta": ["10:30hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -20394,10 +20375,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["17:45hs"],
             "domingos_ida": ["17:45hs"],
-            "sabados_ida": ["17:45hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["10:50hs"],
             "domingos_vuelta": ["10:50hs"],
-            "sabados_vuelta": ["10:50hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -20414,10 +20395,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["17:45hs"],
             "domingos_ida": ["17:45hs"],
-            "sabados_ida": ["17:45hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["11:05hs"],
             "domingos_vuelta": ["11:05hs"],
-            "sabados_vuelta": ["11:05hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -20434,10 +20415,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["17:45hs"],
             "domingos_ida": ["17:45hs"],
-            "sabados_ida": ["17:45hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["11:30hs"],
             "domingos_vuelta": ["11:30hs"],
-            "sabados_vuelta": ["11:30hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -20454,10 +20435,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["11:50hs"],
             "domingos_ida": ["11:50hs"],
-            "sabados_ida": ["11:50hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["16:55hs"],
             "domingos_vuelta": ["16:55hs"],
-            "sabados_vuelta": ["16:55hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -20494,10 +20475,10 @@
           "horarios": {
             "lunes_a_viernes_ida": ["11:50hs"],
             "domingos_ida": ["11:50hs"],
-            "sabados_ida": ["11:50hs"],
+            "sabados_ida": [],
             "lunes_a_viernes_vuelta": ["15:40hs"],
             "domingos_vuelta": ["15:40hs"],
-            "sabados_vuelta": ["15:40hs"],
+            "sabados_vuelta": [],
             "sabados_domingos_ida": [],
             "sabados_domingos_vuelta": [],
             "diario": []
@@ -20515,7 +20496,7 @@
       "servicios": [
         {
           "tipo": "Coche común",
-          "precios": 4700,
+          "precios": 5600,
           "horarios": {
             "lunes_a_viernes_ida": ["06:00hs","13:15hs", "17:30hs"],
             "sabados_ida": ["13:15hs", "19:45hs"],
@@ -20535,7 +20516,7 @@
       "servicios": [
         {
           "tipo": "Coche común",
-          "precios": 3700,
+          "precios": 4400,
           "horarios": {
             "lunes_a_viernes_ida": ["06:00hs","13:15hs", "17:30hs"],
             "sabados_ida": ["13:15hs","19:45hs"],
@@ -20555,7 +20536,7 @@
       "servicios": [
         {
           "tipo": "Coche común",
-          "precios": 3600,
+          "precios": 4300,
           "horarios": {
             "lunes_a_viernes_ida": ["06:00hs","13:15hs", "17:30hs"],
             "sabados_ida": ["13:15hs","19:45hs"],
@@ -20575,7 +20556,7 @@
       "servicios": [
         {
           "tipo": "Coche común",
-          "precios": 3300,
+          "precios": 3900,
           "horarios": {
             "lunes_a_viernes_ida": ["06:00hs","13:15hs", "17:30hs"],
             "sabados_ida": ["13:15hs","19:45hs"],
@@ -20595,7 +20576,7 @@
       "servicios": [
         {
           "tipo": "Coche común",
-          "precios": 3200,
+          "precios": 3800,
           "horarios": {
             "lunes_a_viernes_ida": ["06:00hs","13:15hs", "17:30hs"],
             "sabados_ida": ["13:15hs","19:45hs"],
@@ -20615,7 +20596,7 @@
       "servicios": [
         {
           "tipo": "Coche común",
-          "precios": 2500,
+          "precios": 3000,
           "horarios": {
             "lunes_a_viernes_ida": ["06:00hs","13:15hs", "17:30hs"],
             "sabados_ida": ["13:15hs","19:45hs"],
@@ -20635,7 +20616,7 @@
       "servicios": [
         {
           "tipo": "Coche común",
-          "precios": 2500,
+          "precios": 3000,
           "horarios": {
             "lunes_a_viernes_ida": ["06:00hs","13:15hs", "17:30hs"],
             "sabados_ida": ["13:15hs","19:45hs"],
@@ -20655,7 +20636,7 @@
       "servicios": [
         {
           "tipo": "Coche común",
-          "precios": 2500,
+          "precios": 3000,
           "horarios": {
             "lunes_a_viernes_ida": ["06:00hs","13:15hs", "17:30hs"],
             "sabados_ida": ["13:15hs","19:45hs"],
@@ -20675,7 +20656,7 @@
       "servicios": [
         {
           "tipo": "Coche común",
-          "precios": 1800,
+          "precios": 2200,
           "horarios": {
             "lunes_a_viernes_ida": ["06:00hs","13:15hs", "17:30hs"],
             "sabados_ida": ["13:15hs","19:45hs"],
@@ -20695,7 +20676,7 @@
       "servicios": [
         {
           "tipo": "Coche común",
-          "precios": 1500,
+          "precios": 1800,
           "horarios": {
             "lunes_a_viernes_ida": ["06:00hs","13:15hs", "17:30hs"],
             "sabados_ida": ["13:15hs","19:45hs"],
@@ -20715,7 +20696,7 @@
       "servicios": [
         {
           "tipo": "Coche común",
-          "precios": 1500,
+          "precios": 1800,
           "horarios": {
             "lunes_a_viernes_ida": ["06:00hs","13:15hs", "17:30hs"],
             "sabados_ida": ["13:15hs","19:45hs"],
