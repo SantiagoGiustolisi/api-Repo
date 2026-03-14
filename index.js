@@ -1112,7 +1112,7 @@
     "servicios": [
       {
         "tipo": "Semicama y Cama",
-        "precios": { "Semicama": 6400, "Cama": 7200 },
+        "precios": { "Semicama": 9000, "Cama": 11000 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_ida": [],
@@ -1252,7 +1252,7 @@
     "servicios": [
       {
         "tipo": "Semicama y Cama",
-        "precios": { "Semicama": 15600, "Cama": 17400 },
+        "precios": { "Semicama": 21000, "Cama": 24000 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_ida": [],
@@ -1312,7 +1312,7 @@
     "servicios": [
       {
         "tipo": "Semicama y Cama",
-        "precios": { "Semicama": 18600, "Cama": 20800 },
+        "precios": { "Semicama": 25000, "Cama": 28000 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_ida": [],
@@ -1332,7 +1332,7 @@
     "servicios": [
       {
         "tipo": "Semicama y Cama",
-        "precios": { "Semicama": 20800, "Cama": 23300 },
+        "precios": { "Semicama": 28000, "Cama": 32000 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_ida": [],
@@ -1352,7 +1352,7 @@
     "servicios": [
       {
         "tipo": "Semicama y Cama",
-        "precios": { "Semicama": 22600, "Cama": 25300 },
+        "precios": { "Semicama": 30000, "Cama": 34000 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_ida": [],
@@ -1372,7 +1372,7 @@
     "servicios": [
       {
         "tipo": "Semicama y Cama",
-        "precios": { "Semicama": 24500, "Cama": 27300 },
+        "precios": { "Semicama": 34000, "Cama": 39000 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_ida": [],
@@ -1392,7 +1392,7 @@
     "servicios": [
       {
         "tipo": "Semicama y Cama",
-        "precios": { "Semicama": 26100, "Cama": 29200 },
+        "precios": { "Semicama": 35000, "Cama": 40000 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_ida": [],
@@ -1432,7 +1432,7 @@
     "servicios": [
       {
         "tipo": "Semicama y Cama",
-        "precios": { "Semicama": 35500, "Cama": 39800 },
+        "precios": { "Semicama": 42000, "Cama": 48000 },
         "horarios": {
           "lunes_a_viernes_ida": ["08:15hs"],
           "sabados_ida": [],
@@ -13695,7 +13695,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6400, "Cama": 7200 },
+          "precios": { "Semicama": 9000, "Cama": 11000 },
           "horarios": {
             "lunes_a_viernes_ida": ["20:20hs"],
             "domingos_ida": ["20:20hs"],
@@ -13915,7 +13915,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 10300, "Cama": 11500 },
+          "precios": { "Semicama": 15000, "Cama": 17000 },
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["09:15hs"],
@@ -13975,7 +13975,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 13200, "Cama": 14800 },
+          "precios": { "Semicama": 18000, "Cama": 21000 },
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["09:15hs"],
@@ -13995,7 +13995,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 15400, "Cama": 17200 },
+          "precios": { "Semicama": 21000, "Cama": 24000 },
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["19:15hs"],
@@ -14015,7 +14015,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 17200, "Cama": 19300 },
+          "precios": { "Semicama": 23000, "Cama": 26000 },
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["09:15hs"],
@@ -14035,7 +14035,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 19100, "Cama": 21400 },
+          "precios": { "Semicama": 25000, "Cama": 28000 },
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["09:15hs"],
@@ -14055,7 +14055,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 21100, "Cama": 23600 },
+          "precios": { "Semicama": 29000, "Cama": 33000 },
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["09:15hs"], 
@@ -14095,7 +14095,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 30100, "Cama": 33700 },
+          "precios": { "Semicama": 36000, "Cama": 41000 },
           "horarios": {
             "lunes_a_viernes_ida": ["09:15hs"],
             "domingos_ida": ["09:15hs"],
@@ -16245,7 +16245,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 15500, "Cama": 17400 },
+          "precios": { "Semicama": 21000, "Cama": 24000 },
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
@@ -16345,7 +16345,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 10300, "Cama": 11500 },
+          "precios": { "Semicama": 15000, "Cama": 17000 },
           "horarios": {
             "lunes_a_viernes_ida": ["19:10hs"],
             "domingos_ida": ["19:10hs"],
@@ -16525,7 +16525,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2900, "Cama": 3300 },
+          "precios": { "Semicama": 5000, "Cama": 6000 },
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
@@ -16545,7 +16545,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 5100, "Cama": 5700 },
+          "precios": { "Semicama": 8000, "Cama": 9000 },
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
@@ -16565,7 +16565,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6900, "Cama": 7700 },
+          "precios": { "Semicama": 10000, "Cama": 12000 },
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
@@ -16585,7 +16585,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 8800, "Cama": 9900 },
+          "precios": { "Semicama": 13000, "Cama": 15000 },
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
@@ -16605,7 +16605,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 10800, "Cama": 12100 },
+          "precios": { "Semicama": 17000, "Cama": 20000 },
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
@@ -16645,7 +16645,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 19800, "Cama": 22200 },
+          "precios": { "Semicama": 24000, "Cama": 27000 },
           "horarios": {
             "lunes_a_viernes_ida": ["10:30hs"],
             "domingos_ida": ["10:30hs"],
@@ -17520,7 +17520,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 18600, "Cama": 20800 },
+          "precios": { "Semicama": 25000, "Cama": 28000 },
           "horarios": {
             "lunes_a_viernes_ida": ["18:40hs"],
             "domingos_ida": ["18:40hs"],
@@ -17620,7 +17620,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 13200, "Cama": 14800 },
+          "precios": { "Semicama": 18000, "Cama": 21000 },
           "horarios": {
             "lunes_a_viernes_ida": ["18:40hs"],
             "domingos_ida": ["18:40hs"],
@@ -17760,7 +17760,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2900, "Cama": 3300 },
+          "precios": { "Semicama": 5000, "Cama": 6000 },
           "horarios": {
             "lunes_a_viernes_ida": ["18:40hs"],
             "domingos_ida": ["18:40hs"],
@@ -17820,7 +17820,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2700, "Cama": 3100 },
+          "precios": { "Semicama": 5000, "Cama": 6000 },
           "horarios": {
             "lunes_a_viernes_ida": ["10:50hs"],
             "domingos_ida": ["10:50hs"],
@@ -17840,7 +17840,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 4000, "Cama": 4500 },
+          "precios": { "Semicama": 6000, "Cama": 7000 },
           "horarios": {
             "lunes_a_viernes_ida": ["10:50hs"],
             "domingos_ida": ["10:50hs"],
@@ -17860,7 +17860,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 5900, "Cama": 6600 },
+          "precios": { "Semicama": 8000, "Cama": 9000 },
           "horarios": {
             "lunes_a_viernes_ida": ["10:50hs"],
             "domingos_ida": ["10:50hs"],
@@ -17880,7 +17880,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 9100, "Cama": 10100 },
+          "precios": { "Semicama": 12000, "Cama": 14000 },
           "horarios": {
             "lunes_a_viernes_ida": ["10:50hs"],
             "domingos_ida": ["10:50hs"],
@@ -17920,7 +17920,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 16000, "Cama": 18900 },
+          "precios": { "Semicama": 19000, "Cama": 22000 },
           "horarios": {
             "lunes_a_viernes_ida": ["10:50hs"],
             "domingos_ida": ["10:50hs"],
@@ -17945,7 +17945,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 20800, "Cama": 23300 },
+          "precios": { "Semicama": 28000, "Cama": 32000 },
           "horarios": {
             "lunes_a_viernes_ida": ["18:25hs"],
             "domingos_ida": ["18:25hs"],
@@ -18045,7 +18045,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 15400, "Cama": 17200 },
+          "precios": { "Semicama": 21000, "Cama": 24000 },
           "horarios": {
             "lunes_a_viernes_ida": ["18:25hs"],
             "domingos_ida": ["18:25hs"],
@@ -18185,7 +18185,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 5100, "Cama": 5700 },
+          "precios": { "Semicama": 8000, "Cama": 9000 },
           "horarios": {
             "lunes_a_viernes_ida": ["18:25hs"],
             "domingos_ida": ["18:25hs"],
@@ -18245,7 +18245,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2700, "Cama": 3100 },
+          "precios": { "Semicama": 5000, "Cama": 6000 },
           "horarios": {
             "lunes_a_viernes_ida": ["18:25hs"],
             "domingos_ida": ["18:25hs"],
@@ -18265,7 +18265,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2700, "Cama": 3100 },
+          "precios": { "Semicama": 5000, "Cama": 6000 },
           "horarios": {
             "lunes_a_viernes_ida": ["11:05hs"],
             "domingos_ida": ["11:05hs"],
@@ -18285,7 +18285,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 3400, "Cama": 3800 },
+          "precios": { "Semicama": 6000, "Cama": 7000 },
           "horarios": {
             "lunes_a_viernes_ida": ["11:05hs"],
             "domingos_ida": ["11:05hs"],
@@ -18305,7 +18305,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 8500, "Cama": 9500 },
+          "precios": { "Semicama": 11000, "Cama": 13000 },
           "horarios": {
             "lunes_a_viernes_ida": ["11:05hs"],
             "domingos_ida": ["11:05hs"],
@@ -18345,7 +18345,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 15000, "Cama": 16800 },
+          "precios": { "Semicama": 18000, "Cama": 21000 },
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
@@ -18370,7 +18370,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 35500, "Cama": 39800 },
+          "precios": { "Semicama": 42000, "Cama": 48000 },
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
@@ -18470,7 +18470,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 30100, "Cama": 33700 },
+          "precios": { "Semicama": 36000, "Cama": 41000 },
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
@@ -18610,7 +18610,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 19800, "Cama": 22200 },
+          "precios": { "Semicama": 24000, "Cama": 27000 },
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
@@ -18671,7 +18671,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 16000, "Cama": 18900 },
+          "precios": { "Semicama": 19000, "Cama": 22000 },
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
@@ -18691,7 +18691,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 15000, "Cama": 16800 },
+          "precios": { "Semicama": 18000, "Cama": 21000 },
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
@@ -18711,7 +18711,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 13100, "Cama": 14700 },
+          "precios": { "Semicama": 17000, "Cama": 20000 },
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
@@ -18731,7 +18731,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 11600, "Cama": 13000 },
+          "precios": { "Semicama": 15000, "Cama": 17000 },
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
@@ -18751,7 +18751,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6400, "Cama": 7200 },
+          "precios": { "Semicama": 8500, "Cama": 11000 },
           "horarios": {
             "lunes_a_viernes_ida": ["15:40hs"],
             "domingos_ida": ["15:40hs"],
@@ -19221,7 +19221,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 26100, "Cama": 29200 },
+          "precios": { "Semicama": 35000, "Cama": 40000 },
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
@@ -19321,7 +19321,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 21100, "Cama": 23600 },
+          "precios": { "Semicama": 29000, "Cama": 33000 },
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
@@ -19461,7 +19461,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 10800, "Cama": 12100 },
+          "precios": { "Semicama": 17000, "Cama": 20000 },
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
@@ -19521,7 +19521,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 9100, "Cama": 10100 },
+          "precios": { "Semicama": 12000, "Cama": 14000 },
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
@@ -19541,7 +19541,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 8500, "Cama": 9500 },
+          "precios": { "Semicama": 11000, "Cama": 13000 },
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
@@ -19561,7 +19561,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6500, "Cama": 7500 },
+          "precios": { "Semicama": 10000, "Cama": 12000 },
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
@@ -19581,7 +19581,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 4600, "Cama": 5200 },
+          "precios": { "Semicama": 8000, "Cama": 9000 },
           "horarios": {
             "lunes_a_viernes_ida": ["16:55hs"],
             "domingos_ida": ["16:55hs"],
@@ -19621,7 +19621,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6400, "Cama": 7200 },
+          "precios": { "Semicama": 8500, "Cama": 11000 },
           "horarios": {
             "lunes_a_viernes_ida": ["12:45hs"],
             "domingos_ida": ["12:45hs"],
@@ -19646,7 +19646,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 22600, "Cama": 25300 },
+          "precios": { "Semicama": 30000, "Cama": 34000 },
           "horarios": {
             "lunes_a_viernes_ida": ["18:10hs"],
             "domingos_ida": ["18:10hs"],
@@ -19746,7 +19746,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 17200, "Cama": 19300 },
+          "precios": { "Semicama": 23000, "Cama": 26000 },
           "horarios": {
             "lunes_a_viernes_ida": ["18:10hs"],
             "domingos_ida": ["18:10hs"],
@@ -19886,7 +19886,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6900, "Cama": 7700 },
+          "precios": { "Semicama": 10000, "Cama": 12000 },
           "horarios": {
             "lunes_a_viernes_ida": ["18:10hs"],
             "domingos_ida": ["18:10hs"],
@@ -19946,7 +19946,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 4000, "Cama": 4500 },
+          "precios": { "Semicama": 6000, "Cama": 7000 },
           "horarios": {
             "lunes_a_viernes_ida": ["18:10hs"],
             "domingos_ida": ["18:10hs"],
@@ -19966,7 +19966,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2700, "Cama": 3100 },
+          "precios": { "Semicama": 5000, "Cama": 6000 },
           "horarios": {
             "lunes_a_viernes_ida": ["18:10hs"],
             "domingos_ida": ["18:10hs"],
@@ -19986,7 +19986,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2700, "Cama": 3100 },
+          "precios": { "Semicama": 5000, "Cama": 6000 },
           "horarios": {
             "lunes_a_viernes_ida": ["11:30hs"],
             "domingos_ida": ["11:30hs"],
@@ -20006,7 +20006,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 6500, "Cama": 7500 },
+          "precios": { "Semicama": 10000, "Cama": 12000 },
           "horarios": {
             "lunes_a_viernes_ida": ["11:30hs"],
             "domingos_ida": ["11:30hs"],
@@ -20046,7 +20046,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 13100, "Cama": 14700 },
+          "precios": { "Semicama": 17000, "Cama": 20000 },
           "horarios": {
             "lunes_a_viernes_ida": ["11:30hs"],
             "domingos_ida": ["11:30hs"],
@@ -20071,7 +20071,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 24500, "Cama": 27300 },
+          "precios": { "Semicama": 34000, "Cama": 39000 },
           "horarios": {
             "lunes_a_viernes_ida": ["17:45hs"],
             "domingos_ida": ["17:45hs"],
@@ -20171,7 +20171,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 19100, "Cama": 21400 },
+          "precios": { "Semicama": 25000, "Cama": 28000 },
           "horarios": {
             "lunes_a_viernes_ida": ["17:45hs"],
             "domingos_ida": ["17:45hs"],
@@ -20311,7 +20311,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 8800, "Cama": 9900 },
+          "precios": { "Semicama": 13000, "Cama": 15000 },
           "horarios": {
             "lunes_a_viernes_ida": ["17:45hs"],
             "domingos_ida": ["17:45hs"],
@@ -20371,7 +20371,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 5900, "Cama": 6600 },
+          "precios": { "Semicama": 8000, "Cama": 9000 },
           "horarios": {
             "lunes_a_viernes_ida": ["17:45hs"],
             "domingos_ida": ["17:45hs"],
@@ -20391,7 +20391,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 3400, "Cama": 3800 },
+          "precios": { "Semicama": 6000, "Cama": 7000 },
           "horarios": {
             "lunes_a_viernes_ida": ["17:45hs"],
             "domingos_ida": ["17:45hs"],
@@ -20411,7 +20411,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 2700, "Cama": 3100 },
+          "precios": { "Semicama": 5000, "Cama": 6000 },
           "horarios": {
             "lunes_a_viernes_ida": ["17:45hs"],
             "domingos_ida": ["17:45hs"],
@@ -20431,7 +20431,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 4600, "Cama": 5200 },
+          "precios": { "Semicama": 8000, "Cama": 9000 },
           "horarios": {
             "lunes_a_viernes_ida": ["11:50hs"],
             "domingos_ida": ["11:50hs"],
@@ -20471,7 +20471,7 @@
       "servicios": [
         {
           "tipo": "Semicama y Cama",
-          "precios": { "Semicama": 11600, "Cama": 13000 },
+          "precios": { "Semicama": 15000, "Cama": 17000 },
           "horarios": {
             "lunes_a_viernes_ida": ["11:50hs"],
             "domingos_ida": ["11:50hs"],
